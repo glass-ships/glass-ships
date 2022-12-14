@@ -7,11 +7,11 @@ on:
   push:
     branches: [ main ]
 jobs:
-  update-readme:
-    name: Update Readme with badges
+  update-badges:
+    name: Update Badges in Readme
     runs-on: ubuntu-latest
     steps:
-      - name: Badges - Readme
+      - name: Credly Badges
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
