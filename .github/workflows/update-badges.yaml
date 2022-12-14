@@ -12,6 +12,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: "Update credly badges"
           CREDLY_USER: glass-elsarboukh
