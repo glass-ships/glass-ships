@@ -1,0 +1,39 @@
+name: readme-scribe
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - 'main'
+
+jobs:
+  readme-scribe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@main
+      - uses: muesli/readme-scribe@master
+        with:
+          template: profile_template.tpl
+          writeTo: README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: replace placeholder for badge tag
+        uses: jacobtomlinson/gha-find-replace@master
+        with:
+          find: "badges_tag"
+          replace: |
+            <!--START_SECTION:badges-->
+            <!--END_SECTION:badges-->
+          include: README.md
+      - uses: stefanzweifel/git-auto-commit-action@master
+        with:
+          commit_message: 'Update generated README'
+          branch: main
+          commit_user_name: readme-scribe 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-scribe 🤖 <actions@github.com>
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
