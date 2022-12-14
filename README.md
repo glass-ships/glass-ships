@@ -1,22 +1,9 @@
-<!--
-**glass-ships/glass-ships** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- Header -->
-<h1 align="center">Glass Ships</h1>
-<h3 align="center">Scientific Software Engineer, Physics B.S. </h3>
-
+<h1 align="center">👋 Hello, there!</h1>
+<p align="center">
+  My name is Glass. I'm a computational physicist and scientific software engineer </br>
+  with a focus in data analysis, and a passion for open science and open source projects. </br></br> 
+</p>
 
 <!-- GitHub Trophies -->
 <div align="center">
