@@ -1,20 +1,20 @@
-name: Update Credly Badges
+# name: Update Credly Badges
 
-on:
-  schedule:
-    # Runs at 0am UTC every day
-    - cron: "0 0 * * *"
-  push:
-    branches: [ main ]
-jobs:
-  update-badges:
-    name: Update Badges in Readme
-    runs-on: ubuntu-latest
-    steps:
-      - name: Credly Badges
-        uses: pemtajo/badge-readme@main
-        with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MESSAGE: "Update credly badges"
-          CREDLY_USER: glass-elsarboukh
-          CREDLY_SORT: POPULAR
+# on:
+#   schedule:
+#     # Runs at 0am UTC every day
+#     - cron: "0 0 * * *"
+#   push:
+#     branches: [ main ]
+# jobs:
+#   update-badges:
+#     name: Update Badges in Readme
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Credly Badges
+#         uses: pemtajo/badge-readme@main
+#         with:
+#           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#           COMMIT_MESSAGE: "Update credly badges"
+#           CREDLY_USER: glass-elsarboukh
+#           CREDLY_SORT: POPULAR
