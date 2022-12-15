@@ -16,13 +16,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@main
       
-      - name: Markscribe for Readme's
+      - name: Render Template
         uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-          template: profile_template.tpl
-          writeTo: README.md
+          template: "templates/README.md.tpl"
+          writeTo: "README.md"
       
       - name: Replace Placeholder for Badge Tag
         uses: jacobtomlinson/gha-find-replace@master
@@ -32,17 +32,17 @@ jobs:
             <!--START_SECTION:badges-->
             <!--END_SECTION:badges-->
           include: README.md
-     
-      - name: Commit New Readme to main
-        uses: stefanzweifel/git-auto-commit-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          commit_message: 'Update generated README'
-          branch: main
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+
+      - name: Push
+        run: |
+          # date > generated.txt
+          git config user.name readme-scribe 🤖
+          git config user.email actions@github.com
+          git add .
+          git commit -m "📝 locally generated"
+          git status
+          git push origin main
+          
   update-badges:
     name: Update Badges in Readme
     needs: update-readme
