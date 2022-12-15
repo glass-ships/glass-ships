@@ -1,30 +1,43 @@
-name: Update README
+name: Update Readme
 
 on:
-  push:
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
+  push:
+    branches: [ main ]
+
+permissions: read-all
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@main
         with:
-          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
       - name: Render Template
-        uses: muesli/readme-scribe@master
+        uses: muesli/readme-scribe@v2
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
+      
+      - name: Replace Placeholder for Badge Tag
+        uses: jacobtomlinson/gha-find-replace@master
+        with:
+          find: "CREDLY_BADGE_SECTION"
+          replace: |
+            <!--START_SECTION:badges-->
+            <!--END_SECTION:badges-->
+          include: README.md
 
       - name: Push
         run: |
-          date > generated.txt
+          # date > generated.txt
           git config user.name readme-scribe 🤖
           git config user.email actions@github.com
           git add .
