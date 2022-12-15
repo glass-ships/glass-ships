@@ -1,4 +1,4 @@
-name: readme-scribe
+name: Update Readme
 
 on:
   workflow_dispatch:
@@ -8,19 +8,22 @@ on:
     branches:
       - 'main'
 
+permissions: read-all
+
 jobs:
-  readme-scribe:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@main
-      - uses: muesli/readme-scribe@master
+      - name: Markscribe for Readme's
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           template: profile_template.tpl
           writeTo: README.md
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: replace placeholder for badge tag
+      - name: Replace Placeholder for Badge Tag
         uses: jacobtomlinson/gha-find-replace@master
         with:
           find: "CREDLY_BADGE_SECTION"
@@ -28,12 +31,13 @@ jobs:
             <!--START_SECTION:badges-->
             <!--END_SECTION:badges-->
           include: README.md
-      - uses: stefanzweifel/git-auto-commit-action@master
+      - name: Commit New Readme to main
+        uses: stefanzweifel/git-auto-commit-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: 'Update generated README'
           branch: main
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
