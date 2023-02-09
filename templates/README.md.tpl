@@ -1,8 +1,11 @@
-<div id="intro">
-    <h1 align="center">👋 Hello, there!</h1>
-    <p align="center">
-    My name is Glass. I'm a computational physicist and scientific software engineer </br>
-    with a focus in data analysis, and a passion for open science and open source projects. </br></br> 
+<div id="intro" align="center">
+    <a href="https://github.com/glass-ships/google-foobar" target="_blank">
+        <img src="img/bunnies.gif" style="display: block; width: 50%;"/>
+    </a>
+    <h1>👋 Hello, there! </h1>
+    <p>
+        My name is Glass. I'm a computational physicist and scientific software engineer </br>
+        with a focus in data analysis, and a passion for open science and open source projects. </br></br> 
     </p>
 </div>
 
