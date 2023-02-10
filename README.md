@@ -22,18 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|---|---|
+
 | [monarch-initiative/monarch-api](https://github.com/monarch-initiative/monarch-api) | today | Monarch Initiative API |
-| Project | Last Commit | Description | 
-|---|---|---|
 | [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | today | Monarch Python API |
-| Project | Last Commit | Description | 
-|---|---|---|
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | today | Configuration based file caching downloader |
-| Project | Last Commit | Description | 
-|---|---|---|
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago |  |
-| Project | Last Commit | Description | 
-|---|---|---|
 | [villano-lab/SCDMS-journal-club](https://github.com/villano-lab/SCDMS-journal-club) | 1 week ago | SuperCDMS Journal Club discussions |
 
 
@@ -41,18 +34,11 @@
 
 | Project | Latest Release| Description |
 |---|---|---|
+
 | [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | ([v0.3.3](https://github.com/monarch-initiative/monarch-py/releases/tag/v0.3.3),  | Monarch Python API |
-| Project | Latest Release| Description |
-|---|---|---|
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | ([0.2.4](https://github.com/monarch-initiative/koza/releases/tag/0.2.4),  | Data transformation framework for LinkML data models |
-| Project | Latest Release| Description |
-|---|---|---|
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | ([v0.3.3](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.3),  | Configuration based file caching downloader |
-| Project | Latest Release| Description |
-|---|---|---|
 | [monarch-initiative/cat-merge](https://github.com/monarch-initiative/cat-merge) | ([0.1.18](https://github.com/monarch-initiative/cat-merge/releases/tag/0.1.18),  | Tooling for merging individual source KGX files in the Monarch ingest pipeline |
-| Project | Latest Release| Description |
-|---|---|---|
 | [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | ([0.1.4](https://github.com/monarch-initiative/monarch-gene-mapping/releases/tag/0.1.4),  | Code for mapping source namespaces to preffered namespacing |
 
 ### 🌱 I’m currently learning
