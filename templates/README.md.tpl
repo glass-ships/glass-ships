@@ -24,7 +24,7 @@
 |---|---|---|
 {{range recentContributions 5}}
 | [{{.Repo.Name}}]({{.Repo.URL}}) | {{humanize .OccurredAt}} | {{.Repo.Description}} |  
-{{printf "\n" .}}
+{{printf "\n"}}
 {{end}}
 
 
@@ -34,7 +34,7 @@
 |---|---|---|
 {{range recentReleases 5}}
 | [{{.Name}}]({{.URL}}) | ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{ with .Description }} | {{.}}{{ end }} |  
-{{printf "\n" .}}
+{{printf "\n"}}
 {{end}}
 
 ### 🌱 I’m currently learning
