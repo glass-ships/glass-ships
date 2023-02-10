@@ -43,8 +43,7 @@
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
-|---|---|---|
-
+|---|---|---| 
 | [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | ([v0.3.3](https://github.com/monarch-initiative/monarch-py/releases/tag/v0.3.3),  | Monarch Python API |  
 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | ([0.2.4](https://github.com/monarch-initiative/koza/releases/tag/0.2.4),  | Data transformation framework for LinkML data models |  
