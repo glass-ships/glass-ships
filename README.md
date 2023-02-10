@@ -23,11 +23,26 @@
 | Project | Last Commit | Description | 
 |---|---|---|
 
-| [monarch-initiative/monarch-api](https://github.com/monarch-initiative/monarch-api) | today | Monarch Initiative API |
-| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | today | Monarch Python API |
-| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | today | Configuration based file caching downloader |
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago |  |
-| [villano-lab/SCDMS-journal-club](https://github.com/villano-lab/SCDMS-journal-club) | 1 week ago | SuperCDMS Journal Club discussions |
+| [monarch-initiative/monarch-api](https://github.com/monarch-initiative/monarch-api) | today | Monarch Initiative API |  
+{2023-02-10 08:00:00 &#43;0000 UTC {monarch-initiative/monarch-api https://github.com/monarch-initiative/monarch-api Monarch Initiative API %!s(int=1) {  0001-01-01 00:00:00 &#43;0000 UTC }}}
+
+
+| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | today | Monarch Python API |  
+{2023-02-10 08:00:00 &#43;0000 UTC {monarch-initiative/monarch-py https://github.com/monarch-initiative/monarch-py Monarch Python API %!s(int=0) {  0001-01-01 00:00:00 &#43;0000 UTC }}}
+
+
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | today | Configuration based file caching downloader |  
+{2023-02-10 08:00:00 &#43;0000 UTC {monarch-initiative/kghub-downloader https://github.com/monarch-initiative/kghub-downloader Configuration based file caching downloader %!s(int=4) {  0001-01-01 00:00:00 &#43;0000 UTC }}}
+
+
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago |  |  
+{2023-02-07 08:00:00 &#43;0000 UTC {glass-ships/glass-fish https://github.com/glass-ships/glass-fish  %!s(int=0) {  0001-01-01 00:00:00 &#43;0000 UTC }}}
+
+
+| [villano-lab/SCDMS-journal-club](https://github.com/villano-lab/SCDMS-journal-club) | 1 week ago | SuperCDMS Journal Club discussions |  
+{2023-02-01 08:00:00 &#43;0000 UTC {villano-lab/SCDMS-journal-club https://github.com/villano-lab/SCDMS-journal-club SuperCDMS Journal Club discussions %!s(int=0) {  0001-01-01 00:00:00 &#43;0000 UTC }}}
+
+
 
 
 ### 🚀 Recent releases I contributed to
@@ -35,11 +50,26 @@
 | Project | Latest Release| Description |
 |---|---|---|
 
-| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | ([v0.3.3](https://github.com/monarch-initiative/monarch-py/releases/tag/v0.3.3),  | Monarch Python API |
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | ([0.2.4](https://github.com/monarch-initiative/koza/releases/tag/0.2.4),  | Data transformation framework for LinkML data models |
-| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | ([v0.3.3](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.3),  | Configuration based file caching downloader |
-| [monarch-initiative/cat-merge](https://github.com/monarch-initiative/cat-merge) | ([0.1.18](https://github.com/monarch-initiative/cat-merge/releases/tag/0.1.18),  | Tooling for merging individual source KGX files in the Monarch ingest pipeline |
-| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | ([0.1.4](https://github.com/monarch-initiative/monarch-gene-mapping/releases/tag/0.1.4),  | Code for mapping source namespaces to preffered namespacing |
+| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | ([v0.3.3](https://github.com/monarch-initiative/monarch-py/releases/tag/v0.3.3),  | Monarch Python API |  
+{monarch-initiative/monarch-py https://github.com/monarch-initiative/monarch-py Monarch Python API %!s(int=0) {v0.3.3 v0.3.3 2023-02-10 20:06:13 &#43;0000 UTC https://github.com/monarch-initiative/monarch-py/releases/tag/v0.3.3}}
+
+
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | ([0.2.4](https://github.com/monarch-initiative/koza/releases/tag/0.2.4),  | Data transformation framework for LinkML data models |  
+{monarch-initiative/koza https://github.com/monarch-initiative/koza Data transformation framework for LinkML data models %!s(int=26) {0.2.4 0.2.4 2022-12-01 00:46:36 &#43;0000 UTC https://github.com/monarch-initiative/koza/releases/tag/0.2.4}}
+
+
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | ([v0.3.3](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.3),  | Configuration based file caching downloader |  
+{monarch-initiative/kghub-downloader https://github.com/monarch-initiative/kghub-downloader Configuration based file caching downloader %!s(int=4) {v0.3.3 v0.3.3 2022-11-30 00:01:07 &#43;0000 UTC https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.3}}
+
+
+| [monarch-initiative/cat-merge](https://github.com/monarch-initiative/cat-merge) | ([0.1.18](https://github.com/monarch-initiative/cat-merge/releases/tag/0.1.18),  | Tooling for merging individual source KGX files in the Monarch ingest pipeline |  
+{monarch-initiative/cat-merge https://github.com/monarch-initiative/cat-merge Tooling for merging individual source KGX files in the Monarch ingest pipeline %!s(int=2) {0.1.18 0.1.18 2022-10-27 22:23:27 &#43;0000 UTC https://github.com/monarch-initiative/cat-merge/releases/tag/0.1.18}}
+
+
+| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | ([0.1.4](https://github.com/monarch-initiative/monarch-gene-mapping/releases/tag/0.1.4),  | Code for mapping source namespaces to preffered namespacing |  
+{monarch-initiative/monarch-gene-mapping https://github.com/monarch-initiative/monarch-gene-mapping Code for mapping source namespaces to preffered namespacing %!s(int=0) { 0.1.4 2022-09-26 18:54:26 &#43;0000 UTC https://github.com/monarch-initiative/monarch-gene-mapping/releases/tag/0.1.4}}
+
+
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
@@ -96,15 +126,6 @@
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![Python Essentials](https://images.credly.com/size/110x110/images/60f51d9f-3622-4614-bacf-9ce043a52809/edX_-_Python_Essentials.png)](http://www.credly.com/badges/23ffd14e-a64a-402f-96f8-e203625534e9 "Python Essentials")
-[![Introduction to Data Science](https://images.credly.com/size/110x110/images/8137c08c-5f93-4a30-885d-c594345efd4f/Introduction_to_Data_Science.png)](http://www.credly.com/badges/a122edc5-98ea-470d-90af-fef9587fe6af "Introduction to Data Science")
-[![Analyzing Data with Python](https://images.credly.com/size/110x110/images/ff2386b3-1944-4268-93a3-155ad650a165/Analyzing_Data_with_Python.png)](http://www.credly.com/badges/19ac5c7b-a00c-4431-8c4c-041e98b8362f "Analyzing Data with Python")
-[![SQL for Data Science](https://images.credly.com/size/110x110/images/8d1c6019-4098-4310-a8dd-f5cfe111ae7a/SQL_for_Data_Science.png)](http://www.credly.com/badges/c275e698-66d1-4743-9e6c-d24d52d9ed46 "SQL for Data Science")
-[![Data Science Tools](https://images.credly.com/size/110x110/images/03152b20-ea20-4692-bd1d-6962a894fa97/Data_Science_Tools.png)](http://www.credly.com/badges/c33a5fb7-1808-48d5-ad76-72ba8450cd17 "Data Science Tools")
-[![Visualizing Data with Python](https://images.credly.com/size/110x110/images/b2cfcec8-04a5-4b6d-9b0c-df1422be774e/Visualizing_Data_with_Python.png)](http://www.credly.com/badges/b34b7d68-4e91-4a26-9a48-3e8473506635 "Visualizing Data with Python")
-[![The Data Science Method](https://images.credly.com/size/110x110/images/013974f3-d875-412f-b3dc-6c37add53326/The_Data_Science_Method.png)](http://www.credly.com/badges/980cd77b-ab57-493a-b135-74329e4537b7 "The Data Science Method")
-[![Data Science and Machine Learning Capstone Project](https://images.credly.com/size/110x110/images/cb48bcd5-eef8-4361-b64a-2274c6651c03/image.png)](http://www.credly.com/badges/0fd45adc-4985-44d1-b6de-28149a430eb7 "Data Science and Machine Learning Capstone Project")
-[![Python for Data Science Project](https://images.credly.com/size/110x110/images/1c4fdeaa-4c61-416b-9e15-6f63c4b3697b/Python_for_Data_Science_Project.png)](http://www.credly.com/badges/0541135c-5980-4e21-9e41-13837ee4df0c "Python for Data Science Project")
 <!--END_SECTION:badges-->
 
 
