@@ -33,8 +33,7 @@
 | Project | Latest Release| Description |
 |---|---|---|
 {{range recentReleases 5}}
-| [{{.Name}}]({{.URL}}) | ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{ with .Description }} | {{.}}{{ end }} |
-{{- printf "\n"}}
+| [{{.Name}}]({{.URL}}) | ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{ with .Description }} | {{.}}{{ end }} |  
 {{end}}
 
 ### 🌱 I’m currently learning
