@@ -21,19 +21,15 @@
 ### 🔭 I’m currently working on
 
 | Project | Last Commit | Description | 
-|---|---|---|
-{{range recentContributions 5}}
-| [{{.Repo.Name}}]({{.Repo.URL}}) | {{humanize .OccurredAt}} | {{.Repo.Description}} |
-{{- printf "\n"}}
-{{end}}
+|---|---|---| {{range recentContributions 5}}
+| [{{.Repo.Name}}]({{.Repo.URL}}) | {{humanize .OccurredAt}} | {{.Repo.Description}} | {{end}}
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|---|---| {{range recentReleases 5}}
-| [{{.Name}}]({{.URL}}) | ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{ with .Description }} | {{.}}{{ end }} |  
-{{end}}
+| [{{.Name}}]({{.URL}}) | ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{ with .Description }} | {{.}}{{ end }} | {{end}}
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
