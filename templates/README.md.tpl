@@ -31,8 +31,7 @@
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
-|---|---|---|
-{{range recentReleases 5}}
+|---|---|---| {{range recentReleases 5}}
 | [{{.Name}}]({{.URL}}) | ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{ with .Description }} | {{.}}{{ end }} |  
 {{end}}
 
