@@ -29,7 +29,7 @@
 
 | Project | Latest Release| Description |
 |---|---|---| {{range recentReleases 5}}
-| [{{.Name}}]({{.URL}}) | ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{ with .Description }} | {{.}}{{ end }} | {{end}}
+| [{{.Name}}]({{.URL}}) | [{{.LastRelease.TagName}}]({{.LastRelease.URL}} | {{.Description}} | {{end}}
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
