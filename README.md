@@ -20,27 +20,48 @@
 
 ### 🔭 I’m currently working on
 
-- [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) - Monarch Python API (1 day ago)
-- [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) -  (3 days ago)
-- [monarch-initiative/monarch-api](https://github.com/monarch-initiative/monarch-api) - Monarch Initiative API (3 days ago)
-- [villano-lab/SCDMS-journal-club](https://github.com/villano-lab/SCDMS-journal-club) - SuperCDMS Journal Club discussions (1 week ago)
-- [monarch-initiative/monarch-solr](https://github.com/monarch-initiative/monarch-solr) - Solr Indexing for the new Monarch graph (1 month ago)
+| Project | Last Commit | Description | 
+|---|---|---|
+| [monarch-initiative/monarch-api](https://github.com/monarch-initiative/monarch-api) | today | Monarch Initiative API |
+| Project | Last Commit | Description | 
+|---|---|---|
+| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | today | Monarch Python API |
+| Project | Last Commit | Description | 
+|---|---|---|
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | today | Configuration based file caching downloader |
+| Project | Last Commit | Description | 
+|---|---|---|
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago |  |
+| Project | Last Commit | Description | 
+|---|---|---|
+| [villano-lab/SCDMS-journal-club](https://github.com/villano-lab/SCDMS-journal-club) | 1 week ago | SuperCDMS Journal Club discussions |
 
 
 ### 🚀 Recent releases I contributed to
 
-- [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) ([v0.3.2](https://github.com/monarch-initiative/monarch-py/releases/tag/v0.3.2), 1 day ago) - Monarch Python API
-- [monarch-initiative/koza](https://github.com/monarch-initiative/koza) ([0.2.4](https://github.com/monarch-initiative/koza/releases/tag/0.2.4), 2 months ago) - Data transformation framework for LinkML data models
-- [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) ([v0.3.3](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.3), 2 months ago) - Configuration based file caching downloader
-- [monarch-initiative/cat-merge](https://github.com/monarch-initiative/cat-merge) ([0.1.18](https://github.com/monarch-initiative/cat-merge/releases/tag/0.1.18), 3 months ago) - Tooling for merging individual source KGX files in the Monarch ingest pipeline
-- [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) ([0.1.4](https://github.com/monarch-initiative/monarch-gene-mapping/releases/tag/0.1.4), 4 months ago) - Code for mapping source namespaces to preffered namespacing
+| Project | Latest Release| Description |
+|---|---|---|
+| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | ([v0.3.3](https://github.com/monarch-initiative/monarch-py/releases/tag/v0.3.3),  | Monarch Python API |
+| Project | Latest Release| Description |
+|---|---|---|
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | ([0.2.4](https://github.com/monarch-initiative/koza/releases/tag/0.2.4),  | Data transformation framework for LinkML data models |
+| Project | Latest Release| Description |
+|---|---|---|
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | ([v0.3.3](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.3),  | Configuration based file caching downloader |
+| Project | Latest Release| Description |
+|---|---|---|
+| [monarch-initiative/cat-merge](https://github.com/monarch-initiative/cat-merge) | ([0.1.18](https://github.com/monarch-initiative/cat-merge/releases/tag/0.1.18),  | Tooling for merging individual source KGX files in the Monarch ingest pipeline |
+| Project | Latest Release| Description |
+|---|---|---|
+| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | ([0.1.4](https://github.com/monarch-initiative/monarch-gene-mapping/releases/tag/0.1.4),  | Code for mapping source namespaces to preffered namespacing |
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
+- Quantum Computing with Qiskit
 
 ### 👯 I’m looking to collaborate on
 - Physics experiments
-- AI and Machine Learning
+- AI/Machine learning and Quantum computing
 - Scientific research with software infrastructure needs
 
 <br/>
