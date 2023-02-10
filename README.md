@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|---|---| 
-| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | [v0.3.3](https://github.com/monarch-initiative/monarch-py/releases/tag/v0.3.3 | Monarch Python API | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [0.2.4](https://github.com/monarch-initiative/koza/releases/tag/0.2.4 | Data transformation framework for LinkML data models | 
-| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.3](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.3 | Configuration based file caching downloader | 
-| [monarch-initiative/cat-merge](https://github.com/monarch-initiative/cat-merge) | [0.1.18](https://github.com/monarch-initiative/cat-merge/releases/tag/0.1.18 | Tooling for merging individual source KGX files in the Monarch ingest pipeline | 
-| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | [0.1.4](https://github.com/monarch-initiative/monarch-gene-mapping/releases/tag/0.1.4 | Code for mapping source namespaces to preffered namespacing | 
+| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | [v0.3.3](https://github.com/monarch-initiative/monarch-py/releases/tag/v0.3.3) | Monarch Python API | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [0.2.4](https://github.com/monarch-initiative/koza/releases/tag/0.2.4) | Data transformation framework for LinkML data models | 
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.3](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.3) | Configuration based file caching downloader | 
+| [monarch-initiative/cat-merge](https://github.com/monarch-initiative/cat-merge) | [0.1.18](https://github.com/monarch-initiative/cat-merge/releases/tag/0.1.18) | Tooling for merging individual source KGX files in the Monarch ingest pipeline | 
+| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | [0.1.4](https://github.com/monarch-initiative/monarch-gene-mapping/releases/tag/0.1.4) | Code for mapping source namespaces to preffered namespacing | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
