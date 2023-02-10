@@ -23,7 +23,8 @@
 | Project | Last Commit | Description | 
 |---|---|---|
 {{range recentContributions 5}}
-| [{{.Repo.Name}}]({{.Repo.URL}}) | {{humanize .OccurredAt}} | {{.Repo.Description}} |
+| [{{.Repo.Name}}]({{.Repo.URL}}) | {{humanize .OccurredAt}} | {{.Repo.Description}} |  
+
   {{- end}}
 
 
@@ -32,7 +33,8 @@
 | Project | Latest Release| Description |
 |---|---|---|
 {{range recentReleases 5}}
-| [{{.Name}}]({{.URL}}) | ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{ with .Description }} | {{.}}{{ end }} |
+| [{{.Name}}]({{.URL}}) | ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{ with .Description }} | {{.}}{{ end }} |  
+
   {{- end}}
 
 ### 🌱 I’m currently learning
