@@ -21,14 +21,14 @@
 ### 🔭 I’m currently working on
 
 | Project | Last Commit | Description | 
-|---|---|---| {{range recentContributions 5}}
+|---|:-:|---| {{range recentContributions 5}}
 | [{{.Repo.Name}}]({{.Repo.URL}}) | {{humanize .OccurredAt}} | {{.Repo.Description}} | {{end}}
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
-|---|---|---| {{range recentReleases 5}}
+|---|:-:|---| {{range recentReleases 5}}
 | [{{.Name}}]({{.URL}}) | [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) | {{.Description}} | {{end}}
 
 ### 🌱 I’m currently learning
