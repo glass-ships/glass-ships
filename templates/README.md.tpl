@@ -19,17 +19,19 @@
 <br/>
 
 ### 🔭 I’m currently working on
-{{range recentContributions 5}}
+
 | Project | Last Commit | Description | 
 |---|---|---|
+{{range recentContributions 5}}
 | [{{.Repo.Name}}]({{.Repo.URL}}) | {{humanize .OccurredAt}} | {{.Repo.Description}} |
   {{- end}}
 
 
 ### 🚀 Recent releases I contributed to
-{{range recentReleases 5}}
+
 | Project | Latest Release| Description |
 |---|---|---|
+{{range recentReleases 5}}
 | [{{.Name}}]({{.URL}}) | ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{ with .Description }} | {{.}}{{ end }} |
   {{- end}}
 

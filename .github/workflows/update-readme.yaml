@@ -3,6 +3,7 @@ name: Update Readme
 on:
   workflow_dispatch:
   schedule:
+    # Update daily @ 0am UTC
     - cron: '0 0 * * *'
   push:
     branches: [ main ]
@@ -11,6 +12,7 @@ permissions: write-all
 
 jobs:
   update-readme:
+    name: Genearate Readme
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
