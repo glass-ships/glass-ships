@@ -20,21 +20,26 @@
 
 ### 🔭 I’m currently working on
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+| Project | Last Commit | Description | 
+|---|---|---|
+| [{{.Repo.Name}}]({{.Repo.URL}}) | {{humanize .OccurredAt}} | {{.Repo.Description}} |
   {{- end}}
 
 
 ### 🚀 Recent releases I contributed to
 {{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
+| Project | Latest Release| Description |
+|---|---|---|
+| [{{.Name}}]({{.URL}}) | ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{ with .Description }} | {{.}}{{ end }} |
   {{- end}}
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
+- Quantum Computing with Qiskit
 
 ### 👯 I’m looking to collaborate on
 - Physics experiments
-- AI and Machine Learning
+- AI/Machine learning and Quantum computing
 - Scientific research with software infrastructure needs
 
 <br/>
