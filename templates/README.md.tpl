@@ -24,8 +24,8 @@
 |---|---|---|
 {{range recentContributions 5}}
 | [{{.Repo.Name}}]({{.Repo.URL}}) | {{humanize .OccurredAt}} | {{.Repo.Description}} |  
-
-  {{- end}}
+{{printf "%s\n" .}}
+{{end}}
 
 
 ### 🚀 Recent releases I contributed to
@@ -34,6 +34,7 @@
 |---|---|---|
 {{range recentReleases 5}}
 | [{{.Name}}]({{.URL}}) | ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{ with .Description }} | {{.}}{{ end }} |  
+{{printf "%s\n" .}}
 {{end}}
 
 ### 🌱 I’m currently learning
