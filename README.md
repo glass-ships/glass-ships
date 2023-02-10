@@ -23,11 +23,26 @@
 | Project | Last Commit | Description | 
 |---|---|---|
 
-| [monarch-initiative/monarch-api](https://github.com/monarch-initiative/monarch-api) | today | Monarch Initiative API |
-| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | today | Monarch Python API |
-| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | today | Configuration based file caching downloader |
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago |  |
-| [villano-lab/SCDMS-journal-club](https://github.com/villano-lab/SCDMS-journal-club) | 1 week ago | SuperCDMS Journal Club discussions |
+| [monarch-initiative/monarch-api](https://github.com/monarch-initiative/monarch-api) | today | Monarch Initiative API |  
+{2023-02-10 08:00:00 &#43;0000 UTC {monarch-initiative/monarch-api https://github.com/monarch-initiative/monarch-api Monarch Initiative API %!s(int=1) {  0001-01-01 00:00:00 &#43;0000 UTC }}}
+
+
+| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | today | Monarch Python API |  
+{2023-02-10 08:00:00 &#43;0000 UTC {monarch-initiative/monarch-py https://github.com/monarch-initiative/monarch-py Monarch Python API %!s(int=0) {  0001-01-01 00:00:00 &#43;0000 UTC }}}
+
+
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | today | Configuration based file caching downloader |  
+{2023-02-10 08:00:00 &#43;0000 UTC {monarch-initiative/kghub-downloader https://github.com/monarch-initiative/kghub-downloader Configuration based file caching downloader %!s(int=4) {  0001-01-01 00:00:00 &#43;0000 UTC }}}
+
+
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago |  |  
+{2023-02-07 08:00:00 &#43;0000 UTC {glass-ships/glass-fish https://github.com/glass-ships/glass-fish  %!s(int=0) {  0001-01-01 00:00:00 &#43;0000 UTC }}}
+
+
+| [villano-lab/SCDMS-journal-club](https://github.com/villano-lab/SCDMS-journal-club) | 1 week ago | SuperCDMS Journal Club discussions |  
+{2023-02-01 08:00:00 &#43;0000 UTC {villano-lab/SCDMS-journal-club https://github.com/villano-lab/SCDMS-journal-club SuperCDMS Journal Club discussions %!s(int=0) {  0001-01-01 00:00:00 &#43;0000 UTC }}}
+
+
 
 
 ### 🚀 Recent releases I contributed to
@@ -35,11 +50,26 @@
 | Project | Latest Release| Description |
 |---|---|---|
 
-| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | ([v0.3.3](https://github.com/monarch-initiative/monarch-py/releases/tag/v0.3.3),  | Monarch Python API |
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | ([0.2.4](https://github.com/monarch-initiative/koza/releases/tag/0.2.4),  | Data transformation framework for LinkML data models |
-| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | ([v0.3.3](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.3),  | Configuration based file caching downloader |
-| [monarch-initiative/cat-merge](https://github.com/monarch-initiative/cat-merge) | ([0.1.18](https://github.com/monarch-initiative/cat-merge/releases/tag/0.1.18),  | Tooling for merging individual source KGX files in the Monarch ingest pipeline |
-| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | ([0.1.4](https://github.com/monarch-initiative/monarch-gene-mapping/releases/tag/0.1.4),  | Code for mapping source namespaces to preffered namespacing |
+| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | ([v0.3.3](https://github.com/monarch-initiative/monarch-py/releases/tag/v0.3.3),  | Monarch Python API |  
+{monarch-initiative/monarch-py https://github.com/monarch-initiative/monarch-py Monarch Python API %!s(int=0) {v0.3.3 v0.3.3 2023-02-10 20:06:13 &#43;0000 UTC https://github.com/monarch-initiative/monarch-py/releases/tag/v0.3.3}}
+
+
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | ([0.2.4](https://github.com/monarch-initiative/koza/releases/tag/0.2.4),  | Data transformation framework for LinkML data models |  
+{monarch-initiative/koza https://github.com/monarch-initiative/koza Data transformation framework for LinkML data models %!s(int=26) {0.2.4 0.2.4 2022-12-01 00:46:36 &#43;0000 UTC https://github.com/monarch-initiative/koza/releases/tag/0.2.4}}
+
+
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | ([v0.3.3](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.3),  | Configuration based file caching downloader |  
+{monarch-initiative/kghub-downloader https://github.com/monarch-initiative/kghub-downloader Configuration based file caching downloader %!s(int=4) {v0.3.3 v0.3.3 2022-11-30 00:01:07 &#43;0000 UTC https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.3}}
+
+
+| [monarch-initiative/cat-merge](https://github.com/monarch-initiative/cat-merge) | ([0.1.18](https://github.com/monarch-initiative/cat-merge/releases/tag/0.1.18),  | Tooling for merging individual source KGX files in the Monarch ingest pipeline |  
+{monarch-initiative/cat-merge https://github.com/monarch-initiative/cat-merge Tooling for merging individual source KGX files in the Monarch ingest pipeline %!s(int=2) {0.1.18 0.1.18 2022-10-27 22:23:27 &#43;0000 UTC https://github.com/monarch-initiative/cat-merge/releases/tag/0.1.18}}
+
+
+| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | ([0.1.4](https://github.com/monarch-initiative/monarch-gene-mapping/releases/tag/0.1.4),  | Code for mapping source namespaces to preffered namespacing |  
+{monarch-initiative/monarch-gene-mapping https://github.com/monarch-initiative/monarch-gene-mapping Code for mapping source namespaces to preffered namespacing %!s(int=0) { 0.1.4 2022-09-26 18:54:26 &#43;0000 UTC https://github.com/monarch-initiative/monarch-gene-mapping/releases/tag/0.1.4}}
+
+
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
