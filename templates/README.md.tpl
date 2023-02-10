@@ -34,8 +34,7 @@
 |---|---|---|
 {{range recentReleases 5}}
 | [{{.Name}}]({{.URL}}) | ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{ with .Description }} | {{.}}{{ end }} |  
-
-  {{- end}}
+{{end}}
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
