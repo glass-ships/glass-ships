@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative API and webapp | 
-| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | 1 day ago | Monarch Python API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative API and webapp | 
+| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | 2 days ago | Monarch Python API | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 week ago | Data ingest application for Monarch Initiative using Koza | 
 | [monarch-initiative/monarch-technical-documentation](https://github.com/monarch-initiative/monarch-technical-documentation) | 1 week ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
