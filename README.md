@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 2 days ago | Data ingest application for Monarch Initiative using Koza | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 5 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 6 days ago | Monarch Initiative API and webapp | 
-| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | 6 days ago | Monarch Python API | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 3 days ago | Data ingest application for Monarch Initiative using Koza | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 6 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative API and webapp | 
+| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | 1 week ago | Monarch Python API | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
