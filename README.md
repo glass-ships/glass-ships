@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 3 days ago | Data ingest application for Monarch Initiative using Koza | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 6 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 4 days ago | Data ingest application for Monarch Initiative using Koza | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative API and webapp | 
 | [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | 1 week ago | Monarch Python API | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
@@ -33,9 +33,9 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | [v0.12.3](https://github.com/monarch-initiative/monarch-py/releases/tag/v0.12.3) | Monarch Python API | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.5.6](https://github.com/linkml/linkml/releases/tag/v1.5.6) | Linked Open Data Modeling Language | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.3.33](https://github.com/mapping-commons/sssom-py/releases/tag/v0.3.33) | Python toolkit for SSSOM mapping format | 
-| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | [v0.11.1](https://github.com/monarch-initiative/monarch-py/releases/tag/v0.11.1) | Monarch Python API | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.12](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.12) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.3.1](https://github.com/monarch-initiative/koza/releases/tag/v0.3.1) | Data transformation framework for LinkML data models | 
 
