@@ -26,7 +26,7 @@
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
 | [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | 1 week ago | Monarch Python API | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative API and webapp | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 3 weeks ago | Data ingest application for Monarch Initiative using Koza | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 4 weeks ago | Data ingest application for Monarch Initiative using Koza | 
 
 
 ### 🚀 Recent releases I contributed to
