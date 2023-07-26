@@ -26,14 +26,14 @@
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
 | [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | 1 week ago | Monarch Python API | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative API and webapp | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 4 weeks ago | Data ingest application for Monarch Initiative using Koza | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 month ago | Data ingest application for Monarch Initiative using Koza | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.13-rc3](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.13-rc3) | Ontology Access Kit: A python library and command line application for working with ontologies | 
+| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.13-rc4](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.13-rc4) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.13.5](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.13.5) | Monarch Initiative API and webapp | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.3.35](https://github.com/mapping-commons/sssom-py/releases/tag/v0.3.35) | Python toolkit for SSSOM mapping format | 
 | [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | [v0.12.3](https://github.com/monarch-initiative/monarch-py/releases/tag/v0.12.3) | Monarch Python API | 
