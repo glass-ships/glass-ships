@@ -34,11 +34,12 @@
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
 - Quantum Computing with Qiskit
+- Rust
 
 ### 👯 I’m looking to collaborate on
-- Physics experiments
+- Physics research
 - AI/Machine learning and Quantum computing
-- Scientific research with software infrastructure needs
+- Research experiments with software infrastructure needs
 
 <br/>
 
