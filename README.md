@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
+| [anthonysSlab/pot_rust](https://github.com/anthonysSlab/pot_rust) | today | Pot - The Official WickedWiz discord bot. Now written in Rust | 
 | [glass-ships/cam-viewer](https://github.com/glass-ships/cam-viewer) | 3 days ago |  | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative API and webapp | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 5 days ago |  | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 6 days ago | Data ingest application for Monarch Initiative using Koza | 
-| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 2 weeks ago | Building a fully exectuable workflow for boomer | 
 
 
 ### 🚀 Recent releases I contributed to
@@ -42,11 +42,12 @@
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
 - Quantum Computing with Qiskit
+- Rust
 
 ### 👯 I’m looking to collaborate on
-- Physics experiments
+- Physics research
 - AI/Machine learning and Quantum computing
-- Scientific research with software infrastructure needs
+- Research experiments with software infrastructure needs
 
 <br/>
 
