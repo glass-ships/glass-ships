@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [anthonysSlab/pot_rust](https://github.com/anthonysSlab/pot_rust) | 5 days ago | Pot - The Official WickedWiz discord bot. Now written in Rust | 
+| [anthonysSlab/pot_rust](https://github.com/anthonysSlab/pot_rust) | 6 days ago | Pot - The Official WickedWiz discord bot. Now written in Rust | 
 | [glass-ships/cam-viewer](https://github.com/glass-ships/cam-viewer) | 1 week ago |  | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative API and webapp | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
