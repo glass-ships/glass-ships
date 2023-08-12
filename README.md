@@ -22,20 +22,20 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
+| [linkml/linkml](https://github.com/linkml/linkml) | 1 day ago | Linked Open Data Modeling Language | 
 | [anthonysSlab/pot_rust](https://github.com/anthonysSlab/pot_rust) | 1 week ago | Pot - The Official WickedWiz discord bot. Now written in Rust | 
 | [glass-ships/cam-viewer](https://github.com/glass-ships/cam-viewer) | 1 week ago |  | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative API and webapp | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 2 weeks ago | Data ingest application for Monarch Initiative using Koza | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 weeks ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.14.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.14.1) | Monarch Initiative API and webapp | 
+| [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.3.40](https://github.com/mapping-commons/sssom-py/releases/tag/v0.3.40) | Python toolkit for SSSOM mapping format | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.16-rc1](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.16-rc1) | Ontology Access Kit: A python library and command line application for working with ontologies | 
-| [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.3.39](https://github.com/mapping-commons/sssom-py/releases/tag/v0.3.39) | Python toolkit for SSSOM mapping format | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.14.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.14.0) | Monarch Initiative API and webapp | 
 | [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | [v0.12.3](https://github.com/monarch-initiative/monarch-py/releases/tag/v0.12.3) | Monarch Python API | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.5.6](https://github.com/linkml/linkml/releases/tag/v1.5.6) | Linked Open Data Modeling Language | 
 
