@@ -23,10 +23,10 @@
 | Project | Last Commit | Description | 
 |---|:-:|---| 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 day ago | Data ingest application for Monarch Initiative using Koza | 
-| [linkml/linkml](https://github.com/linkml/linkml) | 6 days ago | Linked Open Data Modeling Language | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [linkml/linkml](https://github.com/linkml/linkml) | 1 week ago | Linked Open Data Modeling Language | 
 | [anthonysSlab/pot_rust](https://github.com/anthonysSlab/pot_rust) | 2 weeks ago | Pot - The Official WickedWiz discord bot. Now written in Rust | 
 | [glass-ships/cam-viewer](https://github.com/glass-ships/cam-viewer) | 2 weeks ago |  | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 weeks ago | Monarch Initiative API and webapp | 
 
 
 ### 🚀 Recent releases I contributed to
