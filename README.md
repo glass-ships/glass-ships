@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 3 days ago | Data ingest application for Monarch Initiative using Koza | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative API and webapp | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 4 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 4 days ago | Data ingest application for Monarch Initiative using Koza | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 days ago | Monarch Initiative API and webapp | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 5 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [linkml/linkml](https://github.com/linkml/linkml) | 1 week ago | Linked Open Data Modeling Language | 
 | [anthonysSlab/pot_rust](https://github.com/anthonysSlab/pot_rust) | 2 weeks ago | Pot - The Official WickedWiz discord bot. Now written in Rust | 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/cat-merge](https://github.com/monarch-initiative/cat-merge) | [0.1.19](https://github.com/monarch-initiative/cat-merge/releases/tag/0.1.19) | Tooling for merging individual source KGX files in the Monarch ingest pipeline | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.16](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.16) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.5.7](https://github.com/linkml/linkml/releases/tag/v1.5.7) | Linked Open Data Modeling Language | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.14.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.14.1) | Monarch Initiative API and webapp | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.3.40](https://github.com/mapping-commons/sssom-py/releases/tag/v0.3.40) | Python toolkit for SSSOM mapping format | 
-| [monarch-initiative/monarch-py](https://github.com/monarch-initiative/monarch-py) | [v0.12.3](https://github.com/monarch-initiative/monarch-py/releases/tag/v0.12.3) | Monarch Python API | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
