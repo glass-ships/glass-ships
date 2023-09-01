@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 2 days ago | Data ingest application for Monarch Initiative using Koza | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative API and webapp | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 3 days ago | Data ingest application for Monarch Initiative using Koza | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative API and webapp | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [linkml/linkml](https://github.com/linkml/linkml) | 2 weeks ago | Linked Open Data Modeling Language | 
+| [linkml/linkml](https://github.com/linkml/linkml) | 3 weeks ago | Linked Open Data Modeling Language | 
 | [anthonysSlab/pot_rust](https://github.com/anthonysSlab/pot_rust) | 4 weeks ago | Pot - The Official WickedWiz discord bot. Now written in Rust | 
 
 
@@ -33,8 +33,8 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.18](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.18) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.15.4](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.15.4) | Monarch Initiative API and webapp | 
-| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.18-rc2](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.18-rc2) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [monarch-initiative/cat-merge](https://github.com/monarch-initiative/cat-merge) | [0.1.20](https://github.com/monarch-initiative/cat-merge/releases/tag/0.1.20) | Tooling for merging individual source KGX files in the Monarch ingest pipeline | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.5.7](https://github.com/linkml/linkml/releases/tag/v1.5.7) | Linked Open Data Modeling Language | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.3.40](https://github.com/mapping-commons/sssom-py/releases/tag/v0.3.40) | Python toolkit for SSSOM mapping format | 
