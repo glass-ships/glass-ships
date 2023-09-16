@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 3 days ago | Building a fully exectuable workflow for boomer | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative API and webapp | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative API and webapp | 
+| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 4 days ago | Building a fully exectuable workflow for boomer | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 week ago | Data ingest application for Monarch Initiative using Koza | 
 | [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 1 week ago | A simple, yet modern event scheduling web app | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
@@ -33,9 +33,9 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.15.7](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.15.7) | Monarch Initiative API and webapp | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.5.8rc1](https://github.com/linkml/linkml/releases/tag/v1.5.8rc1) | Linked Open Data Modeling Language | 
 | [monarch-initiative/cat-merge](https://github.com/monarch-initiative/cat-merge) | [0.1.21](https://github.com/monarch-initiative/cat-merge/releases/tag/0.1.21) | Tooling for merging individual source KGX files in the Monarch ingest pipeline | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.15.6](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.15.6) | Monarch Initiative API and webapp | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.19](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.19) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.3.41](https://github.com/mapping-commons/sssom-py/releases/tag/v0.3.41) | Python toolkit for SSSOM mapping format | 
 
