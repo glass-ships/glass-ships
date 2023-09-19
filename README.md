@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative API and webapp | 
-| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 6 days ago | Building a fully exectuable workflow for boomer | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 days ago | Monarch Initiative API and webapp | 
+| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 1 week ago | Building a fully exectuable workflow for boomer | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 week ago | Data ingest application for Monarch Initiative using Koza | 
 | [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 2 weeks ago | A simple, yet modern event scheduling web app | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
