@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative API and webapp | 
-| [glass-ships/semsimian-server](https://github.com/glass-ships/semsimian-server) | 3 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [glass-ships/semsimian-server](https://github.com/glass-ships/semsimian-server) | 1 day ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 days ago | Monarch Initiative API and webapp | 
 | [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 1 week ago | Building a fully exectuable workflow for boomer | 
 | [glass-ships/ERT-Coding-Exercises](https://github.com/glass-ships/ERT-Coding-Exercises) | 1 week ago |  | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.17.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.17.1) | Monarch Initiative API and webapp | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.17.2](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.17.2) | Monarch Initiative API and webapp | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.1](https://github.com/linkml/linkml/releases/tag/v1.6.1) | Linked Open Data Modeling Language | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.21-rc2](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.21-rc2) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [monarch-initiative/cat-merge](https://github.com/monarch-initiative/cat-merge) | [0.2.0](https://github.com/monarch-initiative/cat-merge/releases/tag/0.2.0) | Tooling for merging individual source KGX files in the Monarch ingest pipeline | 
