@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | 3 days ago | Configuration based file caching downloader | 
-| [glass-ships/semsimian-server](https://github.com/glass-ships/semsimian-server) | 4 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | 4 days ago | Configuration based file caching downloader | 
+| [glass-ships/semsimian-server](https://github.com/glass-ships/semsimian-server) | 5 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative API and webapp | 
 | [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 2 weeks ago | Building a fully exectuable workflow for boomer | 
 | [glass-ships/ERT-Coding-Exercises](https://github.com/glass-ships/ERT-Coding-Exercises) | 2 weeks ago |  | 
