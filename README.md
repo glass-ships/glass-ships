@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 1 day ago | A simple, yet modern event scheduling web app | 
-| [biolink/biolink-model](https://github.com/biolink/biolink-model) | 6 days ago | Schema and generated objects for biolink data model and upper ontology | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 6 days ago | Monarch Initiative API and webapp | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 week ago | Data ingest application for Monarch Initiative using Koza | 
-| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | 2 weeks ago | Configuration based file caching downloader | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 day ago | Data transformation framework for LinkML data models | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 2 days ago | A simple, yet modern event scheduling web app | 
+| [biolink/biolink-model](https://github.com/biolink/biolink-model) | 1 week ago | Schema and generated objects for biolink data model and upper ontology | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative API and webapp | 
 
 
 ### 🚀 Recent releases I contributed to
