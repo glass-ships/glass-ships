@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative API and webapp | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 day ago | Data ingest application for Monarch Initiative using Koza | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 2 days ago | Data transformation framework for LinkML data models | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 3 days ago | A simple, yet modern event scheduling web app | 
+| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 1 day ago | A simple, yet modern event scheduling web app | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 2 days ago | Data ingest application for Monarch Initiative using Koza | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative API and webapp | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 3 days ago | Data transformation framework for LinkML data models | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
 ### 🚀 Recent releases I contributed to
