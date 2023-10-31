@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 3 days ago | A simple, yet modern event scheduling web app | 
-| [glass-ships/semsimian-server](https://github.com/glass-ships/semsimian-server) | 3 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 5 days ago | Monarch Initiative API and webapp | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 5 days ago | Data ingest application for Monarch Initiative using Koza | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 6 days ago | Data transformation framework for LinkML data models | 
+| [glass-ships/semsimian-server](https://github.com/glass-ships/semsimian-server) | 4 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 4 days ago | A simple, yet modern event scheduling web app | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 6 days ago | Monarch Initiative API and webapp | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 6 days ago | Data ingest application for Monarch Initiative using Koza | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 week ago | Data transformation framework for LinkML data models | 
 
 
 ### 🚀 Recent releases I contributed to
