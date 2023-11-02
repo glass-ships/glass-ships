@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/semsimian-server](https://github.com/glass-ships/semsimian-server) | 5 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 5 days ago | A simple, yet modern event scheduling web app | 
+| [glass-ships/semsimian-server](https://github.com/glass-ships/semsimian-server) | 6 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 6 days ago | A simple, yet modern event scheduling web app | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative API and webapp | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 week ago | Data ingest application for Monarch Initiative using Koza | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 week ago | Data transformation framework for LinkML data models | 
@@ -33,10 +33,10 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.21](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.21) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.17.11](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.17.11) | Monarch Initiative API and webapp | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.4](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.4) | Configuration based file caching downloader | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.1](https://github.com/linkml/linkml/releases/tag/v1.6.1) | Linked Open Data Modeling Language | 
-| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.21-rc2](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.21-rc2) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.3.41](https://github.com/mapping-commons/sssom-py/releases/tag/v0.3.41) | Python toolkit for SSSOM mapping format | 
 
 ### 🌱 I’m currently learning
