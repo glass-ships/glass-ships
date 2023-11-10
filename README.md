@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 day ago | Data ingest application for Monarch Initiative using Koza | 
-| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 1 day ago | A simple, yet modern event scheduling web app | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 2 days ago | Data ingest application for Monarch Initiative using Koza | 
+| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 2 days ago | A simple, yet modern event scheduling web app | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative website and API | 
-| [glass-ships/semsimian-server](https://github.com/glass-ships/semsimian-server) | 1 week ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [glass-ships/semsimian-server](https://github.com/glass-ships/semsimian-server) | 2 weeks ago | Rust web server for Semsimian - a semantic similarity implementation | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 2 weeks ago | Data transformation framework for LinkML data models | 
 
 
