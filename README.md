@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 2 days ago | Data ingest application for Monarch Initiative using Koza | 
-| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 2 days ago | A simple, yet modern event scheduling web app | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 day ago | Data transformation framework for LinkML data models | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 3 days ago | Data ingest application for Monarch Initiative using Koza | 
+| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 3 days ago | A simple, yet modern event scheduling web app | 
 | [glass-ships/semsimian-server](https://github.com/glass-ships/semsimian-server) | 2 weeks ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 2 weeks ago | Data transformation framework for LinkML data models | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.5.0](https://github.com/monarch-initiative/koza/releases/tag/v0.5.0) | Data transformation framework for LinkML data models | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.2](https://github.com/linkml/linkml/releases/tag/v1.6.2) | Linked Open Data Modeling Language | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.21](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.21) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.17.11](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.17.11) | Monarch Initiative website and API | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.4](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.4) | Configuration based file caching downloader | 
-| [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.3.41](https://github.com/mapping-commons/sssom-py/releases/tag/v0.3.41) | Python toolkit for SSSOM mapping format | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
