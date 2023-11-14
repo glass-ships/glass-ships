@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative website and API | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 3 days ago | Data transformation framework for LinkML data models | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 5 days ago | Data ingest application for Monarch Initiative using Koza | 
-| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 5 days ago | A simple, yet modern event scheduling web app | 
-| [glass-ships/semsimian-server](https://github.com/glass-ships/semsimian-server) | 2 weeks ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | 1 day ago | Code for mapping source namespaces to preffered namespacing | 
+| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 1 day ago | Building a fully exectuable workflow for boomer | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 4 days ago | Data transformation framework for LinkML data models | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 days ago | Monarch Initiative website and API | 
+| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 6 days ago | A simple, yet modern event scheduling web app | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | [0.1.6](https://github.com/monarch-initiative/monarch-gene-mapping/releases/tag/0.1.6) | Code for mapping source namespaces to preffered namespacing | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.5.0](https://github.com/monarch-initiative/koza/releases/tag/v0.5.0) | Data transformation framework for LinkML data models | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.2](https://github.com/linkml/linkml/releases/tag/v1.6.2) | Linked Open Data Modeling Language | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.21](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.21) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.17.11](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.17.11) | Monarch Initiative website and API | 
-| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.4](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.4) | Configuration based file caching downloader | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
