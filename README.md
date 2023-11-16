@@ -22,18 +22,18 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | 2 days ago | Code for mapping source namespaces to preffered namespacing | 
-| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 2 days ago | Building a fully exectuable workflow for boomer | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 2 days ago | Data ingest application for Monarch Initiative using Koza | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 5 days ago | Data transformation framework for LinkML data models | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 5 days ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | 1 day ago | Code for mapping source namespaces to preffered namespacing | 
+| [monarch-initiative/monarch-file-server](https://github.com/monarch-initiative/monarch-file-server) | 1 day ago | Terraform, scripts, and documentation for the monarch public file server | 
+| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 1 day ago | Building a fully exectuable workflow for boomer | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 3 days ago | Data ingest application for Monarch Initiative using Koza | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 6 days ago | Data transformation framework for LinkML data models | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | [0.1.6](https://github.com/monarch-initiative/monarch-gene-mapping/releases/tag/0.1.6) | Code for mapping source namespaces to preffered namespacing | 
+| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | [0.1.7](https://github.com/monarch-initiative/monarch-gene-mapping/releases/tag/0.1.7) | Code for mapping source namespaces to preffered namespacing | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.5.0](https://github.com/monarch-initiative/koza/releases/tag/v0.5.0) | Data transformation framework for LinkML data models | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.2](https://github.com/linkml/linkml/releases/tag/v1.6.2) | Linked Open Data Modeling Language | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.21](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.21) | Ontology Access Kit: A python library and command line application for working with ontologies | 
