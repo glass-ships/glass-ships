@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | 1 day ago | Code for mapping source namespaces to preffered namespacing | 
-| [monarch-initiative/monarch-file-server](https://github.com/monarch-initiative/monarch-file-server) | 1 day ago | Terraform, scripts, and documentation for the monarch public file server | 
-| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 1 day ago | Building a fully exectuable workflow for boomer | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 3 days ago | Data ingest application for Monarch Initiative using Koza | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 6 days ago | Data transformation framework for LinkML data models | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
+| [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | 1 day ago | Simple rust implementation of semantic similarity | 
+| [glass-ships/semsimian-server](https://github.com/glass-ships/semsimian-server) | 1 day ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [monarch-initiative/monarch-file-server](https://github.com/monarch-initiative/monarch-file-server) | 2 days ago | Terraform, scripts, and documentation for the monarch public file server | 
+| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | 2 days ago | Code for mapping source namespaces to preffered namespacing | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.18.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.18.1) | Monarch Initiative website and API | 
+| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.22](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.22) | Ontology Access Kit: A python library and command line application for working with ontologies | 
+| [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.10](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.10) | Simple rust implementation of semantic similarity | 
 | [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | [0.1.7](https://github.com/monarch-initiative/monarch-gene-mapping/releases/tag/0.1.7) | Code for mapping source namespaces to preffered namespacing | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.5.0](https://github.com/monarch-initiative/koza/releases/tag/v0.5.0) | Data transformation framework for LinkML data models | 
-| [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.2](https://github.com/linkml/linkml/releases/tag/v1.6.2) | Linked Open Data Modeling Language | 
-| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.21](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.21) | Ontology Access Kit: A python library and command line application for working with ontologies | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.17.11](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.17.11) | Monarch Initiative website and API | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
