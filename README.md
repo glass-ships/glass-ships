@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 2 days ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
-| [glass-ships/semsimian-server](https://github.com/glass-ships/semsimian-server) | 3 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | 3 days ago | Simple rust implementation of semantic similarity | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative website and API | 
-| [monarch-initiative/monarch-file-server](https://github.com/monarch-initiative/monarch-file-server) | 4 days ago | Terraform, scripts, and documentation for the monarch public file server | 
+| [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 3 days ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
+| [glass-ships/semsimian-server](https://github.com/glass-ships/semsimian-server) | 4 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | 4 days ago | Simple rust implementation of semantic similarity | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 days ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-file-server](https://github.com/monarch-initiative/monarch-file-server) | 5 days ago | Terraform, scripts, and documentation for the monarch public file server | 
 
 
 ### 🚀 Recent releases I contributed to
