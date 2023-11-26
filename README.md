@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 3 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [linkml/linkml](https://github.com/linkml/linkml) | 3 days ago | Linked Open Data Modeling Language | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 3 days ago | Data transformation framework for LinkML data models | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 days ago | Monarch Initiative website and API | 
-| [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | 5 days ago | Semantic prefix map registry | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 4 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [linkml/linkml](https://github.com/linkml/linkml) | 4 days ago | Linked Open Data Modeling Language | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 4 days ago | Data transformation framework for LinkML data models | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 5 days ago | Monarch Initiative website and API | 
+| [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | 6 days ago | Semantic prefix map registry | 
 
 
 ### 🚀 Recent releases I contributed to
