@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/cam-viewer](https://github.com/glass-ships/cam-viewer) | 1 day ago |  | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 6 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [linkml/linkml](https://github.com/linkml/linkml) | 6 days ago | Linked Open Data Modeling Language | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 6 days ago | Data transformation framework for LinkML data models | 
+| [glass-ships/cam-viewer](https://github.com/glass-ships/cam-viewer) | 2 days ago |  | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 week ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [linkml/linkml](https://github.com/linkml/linkml) | 1 week ago | Linked Open Data Modeling Language | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 week ago | Data transformation framework for LinkML data models | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative website and API | 
 
 
