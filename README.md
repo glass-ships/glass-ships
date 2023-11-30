@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/cam-viewer](https://github.com/glass-ships/cam-viewer) | 2 days ago |  | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 week ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [biolink/kgx](https://github.com/biolink/kgx) | 1 day ago | KGX is a Python library for exchanging Knowledge Graphs | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
+| [glass-ships/cam-viewer](https://github.com/glass-ships/cam-viewer) | 3 days ago |  | 
 | [linkml/linkml](https://github.com/linkml/linkml) | 1 week ago | Linked Open Data Modeling Language | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 week ago | Data transformation framework for LinkML data models | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative website and API | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v3.6.0](https://github.com/biolink/biolink-model/releases/tag/v3.6.0) | Schema and generated objects for biolink data model and upper ontology | 
+| [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.11](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.11) | Simple rust implementation of semantic similarity | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.5.1](https://github.com/monarch-initiative/koza/releases/tag/v0.5.1) | Data transformation framework for LinkML data models | 
 | [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.0](https://github.com/linkml/prefixmaps/releases/tag/v0.2.0) | Semantic prefix map registry | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.0-rc1](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.0-rc1) | Python toolkit for SSSOM mapping format | 
-| [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.3](https://github.com/linkml/linkml/releases/tag/v1.6.3) | Linked Open Data Modeling Language | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.18.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.18.1) | Monarch Initiative website and API | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
