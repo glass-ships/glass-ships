@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 day ago | Data transformation framework for LinkML data models | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative website and API | 
-| [biolink/kgx](https://github.com/biolink/kgx) | 3 days ago | KGX is a Python library for exchanging Knowledge Graphs | 
-| [glass-ships/cam-viewer](https://github.com/glass-ships/cam-viewer) | 5 days ago |  | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 2 days ago | Data transformation framework for LinkML data models | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative website and API | 
+| [biolink/kgx](https://github.com/biolink/kgx) | 4 days ago | KGX is a Python library for exchanging Knowledge Graphs | 
+| [glass-ships/cam-viewer](https://github.com/glass-ships/cam-viewer) | 6 days ago |  | 
 | [linkml/linkml](https://github.com/linkml/linkml) | 1 week ago | Linked Open Data Modeling Language | 
 
 
