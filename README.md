@@ -22,18 +22,18 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 3 days ago | Data transformation framework for LinkML data models | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 days ago | Monarch Initiative website and API | 
-| [biolink/kgx](https://github.com/biolink/kgx) | 5 days ago | KGX is a Python library for exchanging Knowledge Graphs | 
-| [glass-ships/cam-viewer](https://github.com/glass-ships/cam-viewer) | 1 week ago |  | 
-| [linkml/linkml](https://github.com/linkml/linkml) | 1 week ago | Linked Open Data Modeling Language | 
+| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | 1 day ago | Code for mapping source namespaces to preffered namespacing | 
+| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 1 day ago | Building a fully exectuable workflow for boomer | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 4 days ago | Data transformation framework for LinkML data models | 
+| [biolink/kgx](https://github.com/biolink/kgx) | 6 days ago | KGX is a Python library for exchanging Knowledge Graphs | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v3.6.0](https://github.com/biolink/biolink-model/releases/tag/v3.6.0) | Schema and generated objects for biolink data model and upper ontology | 
+| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.0.0](https://github.com/biolink/biolink-model/releases/tag/v4.0.0) | Schema and generated objects for biolink data model and upper ontology | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.11](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.11) | Simple rust implementation of semantic similarity | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.5.1](https://github.com/monarch-initiative/koza/releases/tag/v0.5.1) | Data transformation framework for LinkML data models | 
 | [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.0](https://github.com/linkml/prefixmaps/releases/tag/v0.2.0) | Semantic prefix map registry | 
