@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | 1 day ago | Code for mapping source namespaces to preffered namespacing | 
-| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 1 day ago | Building a fully exectuable workflow for boomer | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 4 days ago | Data transformation framework for LinkML data models | 
-| [biolink/kgx](https://github.com/biolink/kgx) | 6 days ago | KGX is a Python library for exchanging Knowledge Graphs | 
+| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | 2 days ago | Code for mapping source namespaces to preffered namespacing | 
+| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 2 days ago | Building a fully exectuable workflow for boomer | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative website and API | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 5 days ago | Data transformation framework for LinkML data models | 
+| [biolink/kgx](https://github.com/biolink/kgx) | 1 week ago | KGX is a Python library for exchanging Knowledge Graphs | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.23](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.23) | Ontology Access Kit: A python library and command line application for working with ontologies | 
+| [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [0.4.0](https://github.com/mapping-commons/sssom-py/releases/tag/0.4.0) | Python toolkit for SSSOM mapping format | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.0.0](https://github.com/biolink/biolink-model/releases/tag/v4.0.0) | Schema and generated objects for biolink data model and upper ontology | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.11](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.11) | Simple rust implementation of semantic similarity | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.5.1](https://github.com/monarch-initiative/koza/releases/tag/v0.5.1) | Data transformation framework for LinkML data models | 
-| [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.0](https://github.com/linkml/prefixmaps/releases/tag/v0.2.0) | Semantic prefix map registry | 
-| [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.0-rc1](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.0-rc1) | Python toolkit for SSSOM mapping format | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
