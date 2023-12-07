@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | 2 days ago | Code for mapping source namespaces to preffered namespacing | 
-| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 2 days ago | Building a fully exectuable workflow for boomer | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative website and API | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 5 days ago | Data transformation framework for LinkML data models | 
+| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | 3 days ago | Code for mapping source namespaces to preffered namespacing | 
+| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 3 days ago | Building a fully exectuable workflow for boomer | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative website and API | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 6 days ago | Data transformation framework for LinkML data models | 
 | [biolink/kgx](https://github.com/biolink/kgx) | 1 week ago | KGX is a Python library for exchanging Knowledge Graphs | 
 
 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.23](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.23) | Ontology Access Kit: A python library and command line application for working with ontologies | 
+| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.24](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.24) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [0.4.0](https://github.com/mapping-commons/sssom-py/releases/tag/0.4.0) | Python toolkit for SSSOM mapping format | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.0.0](https://github.com/biolink/biolink-model/releases/tag/v4.0.0) | Schema and generated objects for biolink data model and upper ontology | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.11](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.11) | Simple rust implementation of semantic similarity | 
