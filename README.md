@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [linkml/linkml](https://github.com/linkml/linkml) | 1 day ago | Linked Open Data Modeling Language | 
-| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 1 day ago | Building a fully exectuable workflow for boomer | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 days ago | Monarch Initiative website and API | 
-| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | 4 days ago | Code for mapping source namespaces to preffered namespacing | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 week ago | Data transformation framework for LinkML data models | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 day ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
+| [linkml/linkml](https://github.com/linkml/linkml) | 2 days ago | Linked Open Data Modeling Language | 
+| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 2 days ago | Building a fully exectuable workflow for boomer | 
+| [monarch-initiative/monarch-gene-mapping](https://github.com/monarch-initiative/monarch-gene-mapping) | 2 days ago | Code for mapping source namespaces to preffered namespacing | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 5 days ago | Monarch Initiative website and API | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.5.2](https://github.com/monarch-initiative/koza/releases/tag/v0.5.2) | Data transformation framework for LinkML data models | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.4](https://github.com/linkml/linkml/releases/tag/v1.6.4) | Linked Open Data Modeling Language | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.24](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.24) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [0.4.0](https://github.com/mapping-commons/sssom-py/releases/tag/0.4.0) | Python toolkit for SSSOM mapping format | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.0.0](https://github.com/biolink/biolink-model/releases/tag/v4.0.0) | Schema and generated objects for biolink data model and upper ontology | 
-| [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.11](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.11) | Simple rust implementation of semantic similarity | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
