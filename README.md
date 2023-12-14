@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
-| [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 1 day ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 2 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 5 days ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 5 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 day ago | Data transformation framework for LinkML data models | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 2 days ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 3 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 6 days ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.5.3](https://github.com/monarch-initiative/koza/releases/tag/v0.5.3) | Data transformation framework for LinkML data models | 
+| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | [v2023-12-13](https://github.com/monarch-initiative/monarch-mapping-commons/releases/tag/v2023-12-13) | Building a fully exectuable workflow for boomer | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.5](https://github.com/linkml/linkml/releases/tag/v1.6.5) | Linked Open Data Modeling Language | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.1.0](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.1.0) | Rust web server for Semsimian - a semantic similarity implementation | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.2](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.2) | Python toolkit for SSSOM mapping format | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.5.2](https://github.com/monarch-initiative/koza/releases/tag/v0.5.2) | Data transformation framework for LinkML data models | 
-| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.24](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.24) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
