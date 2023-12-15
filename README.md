@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 day ago | Data transformation framework for LinkML data models | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative website and API | 
-| [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 2 days ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 3 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 6 days ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 2 days ago | Data transformation framework for LinkML data models | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 3 days ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 4 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 week ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 
 
 ### 🚀 Recent releases I contributed to
