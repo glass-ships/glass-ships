@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 2 days ago | Data transformation framework for LinkML data models | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative website and API | 
-| [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 3 days ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 4 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 week ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 days ago |  | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 3 days ago | Data transformation framework for LinkML data models | 
+| [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 4 days ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 5 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.1.0](https://github.com/biolink/biolink-model/releases/tag/v4.1.0) | Schema and generated objects for biolink data model and upper ontology | 
+| [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.6](https://github.com/linkml/linkml/releases/tag/v1.6.6) | Linked Open Data Modeling Language | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.5.3](https://github.com/monarch-initiative/koza/releases/tag/v0.5.3) | Data transformation framework for LinkML data models | 
 | [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | [v2023-12-13](https://github.com/monarch-initiative/monarch-mapping-commons/releases/tag/v2023-12-13) | Building a fully exectuable workflow for boomer | 
-| [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.5](https://github.com/linkml/linkml/releases/tag/v1.6.5) | Linked Open Data Modeling Language | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.1.0](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.1.0) | Rust web server for Semsimian - a semantic similarity implementation | 
-| [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.2](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.2) | Python toolkit for SSSOM mapping format | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
