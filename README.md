@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative website and API | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 5 days ago |  | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 6 days ago | Data transformation framework for LinkML data models | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 6 days ago |  | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 week ago | Data transformation framework for LinkML data models | 
 | [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 1 week ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 week ago | Rust web server for Semsimian - a semantic similarity implementation | 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.1](https://github.com/linkml/prefixmaps/releases/tag/v0.2.1) | Semantic prefix map registry | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.1.0](https://github.com/biolink/biolink-model/releases/tag/v4.1.0) | Schema and generated objects for biolink data model and upper ontology | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.6](https://github.com/linkml/linkml/releases/tag/v1.6.6) | Linked Open Data Modeling Language | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.5.3](https://github.com/monarch-initiative/koza/releases/tag/v0.5.3) | Data transformation framework for LinkML data models | 
 | [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | [v2023-12-13](https://github.com/monarch-initiative/monarch-mapping-commons/releases/tag/v2023-12-13) | Building a fully exectuable workflow for boomer | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.1.0](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.1.0) | Rust web server for Semsimian - a semantic similarity implementation | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
