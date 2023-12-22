@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative website and API | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 week ago | Data transformation framework for LinkML data models | 
 | [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 1 week ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.19.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.19.0) | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.19.2](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.19.2) | Monarch Initiative website and API | 
 | [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.1](https://github.com/linkml/prefixmaps/releases/tag/v0.2.1) | Semantic prefix map registry | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.1.0](https://github.com/biolink/biolink-model/releases/tag/v4.1.0) | Schema and generated objects for biolink data model and upper ontology | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.6](https://github.com/linkml/linkml/releases/tag/v1.6.6) | Linked Open Data Modeling Language | 
