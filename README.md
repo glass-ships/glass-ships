@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 1 day ago | Building a fully exectuable workflow for boomer | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative website and API | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 3 weeks ago |  | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 3 weeks ago | Data transformation framework for LinkML data models | 
 | [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 3 weeks ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 3 weeks ago | Rust web server for Semsimian - a semantic similarity implementation | 
 
 
 ### 🚀 Recent releases I contributed to
