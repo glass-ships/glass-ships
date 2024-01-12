@@ -23,18 +23,18 @@
 | Project | Last Commit | Description | 
 |---|:-:|---| 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
-| [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 3 days ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
-| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 3 days ago | Building a fully exectuable workflow for boomer | 
+| [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 4 days ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
+| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 4 days ago | Building a fully exectuable workflow for boomer | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 4 weeks ago |  | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 4 weeks ago | Data transformation framework for LinkML data models | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 month ago | Data transformation framework for LinkML data models | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.8](https://github.com/linkml/linkml/releases/tag/v1.6.8) | Linked Open Data Modeling Language | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.1.1](https://github.com/biolink/biolink-model/releases/tag/v4.1.1) | Schema and generated objects for biolink data model and upper ontology | 
-| [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.7](https://github.com/linkml/linkml/releases/tag/v1.6.7) | Linked Open Data Modeling Language | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.25](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.25) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.19.2](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.19.2) | Monarch Initiative website and API | 
 | [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.1](https://github.com/linkml/prefixmaps/releases/tag/v0.2.1) | Semantic prefix map registry | 
