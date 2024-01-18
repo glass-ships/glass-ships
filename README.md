@@ -23,7 +23,7 @@
 | Project | Last Commit | Description | 
 |---|:-:|---| 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 days ago |  | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 3 days ago |  | 
 | [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 1 week ago | Building a fully exectuable workflow for boomer | 
 | [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 1 week ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 month ago | Data transformation framework for LinkML data models | 
