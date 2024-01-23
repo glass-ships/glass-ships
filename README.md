@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 4 days ago |  | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 5 days ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 day ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 5 days ago |  | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 6 days ago | Monarch Initiative website and API | 
 | [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 2 weeks ago | Building a fully exectuable workflow for boomer | 
 | [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 2 weeks ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 month ago | Data transformation framework for LinkML data models | 
 
 
 ### 🚀 Recent releases I contributed to
@@ -35,9 +35,9 @@
 |---|:-:|---| 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.9](https://github.com/linkml/linkml/releases/tag/v1.6.9) | Linked Open Data Modeling Language | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.3](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.3) | Python toolkit for SSSOM mapping format | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2023-12-16](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2023-12-16) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.20.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.20.0) | Monarch Initiative website and API | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.1.1](https://github.com/biolink/biolink-model/releases/tag/v4.1.1) | Schema and generated objects for biolink data model and upper ontology | 
+| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.25](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.25) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
