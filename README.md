@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 1 day ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
-| [monarch-initiative/monarch-file-server](https://github.com/monarch-initiative/monarch-file-server) | 1 day ago | Terraform, scripts, and documentation for the monarch public file server | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 2 days ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 6 days ago |  | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 2 days ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
+| [monarch-initiative/monarch-file-server](https://github.com/monarch-initiative/monarch-file-server) | 2 days ago | Terraform, scripts, and documentation for the monarch public file server | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 3 days ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
