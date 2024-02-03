@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative website and API | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 week ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 1 week ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
 | [monarch-initiative/monarch-file-server](https://github.com/monarch-initiative/monarch-file-server) | 1 week ago | Terraform, scripts, and documentation for the monarch public file server | 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.10](https://github.com/linkml/linkml/releases/tag/v1.6.10) | Linked Open Data Modeling Language | 
+| [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.0rc2](https://github.com/linkml/linkml/releases/tag/v1.7.0rc2) | Linked Open Data Modeling Language | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-01-13](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-01-13) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.3](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.3) | Python toolkit for SSSOM mapping format | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.20.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.20.0) | Monarch Initiative website and API | 
