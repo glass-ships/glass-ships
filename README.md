@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 6 days ago | Monarch Initiative website and API | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 week ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 2 weeks ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 2 weeks ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
 | [monarch-initiative/monarch-file-server](https://github.com/monarch-initiative/monarch-file-server) | 2 weeks ago | Terraform, scripts, and documentation for the monarch public file server | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 weeks ago |  | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.20.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.20.1) | Monarch Initiative website and API | 
+| [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.12](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.12) | Simple rust implementation of semantic similarity | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.6.11](https://github.com/linkml/linkml/releases/tag/v1.6.11) | Linked Open Data Modeling Language | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-01-13](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-01-13) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.3](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.3) | Python toolkit for SSSOM mapping format | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.20.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.20.0) | Monarch Initiative website and API | 
-| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.1.1](https://github.com/biolink/biolink-model/releases/tag/v4.1.1) | Schema and generated objects for biolink data model and upper ontology | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
