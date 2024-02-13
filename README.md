@@ -22,20 +22,20 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 3 days ago |  | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative website and API | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | 4 days ago | Configuration based file caching downloader | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 5 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 days ago | Monarch Initiative website and API | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 4 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 4 days ago |  | 
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | 5 days ago | Configuration based file caching downloader | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 6 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.3](https://github.com/linkml/linkml/releases/tag/v1.7.3) | Linked Open Data Modeling Language | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.5](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.5) | Configuration based file caching downloader | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.4](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.4) | Python toolkit for SSSOM mapping format | 
-| [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.2](https://github.com/linkml/linkml/releases/tag/v1.7.2) | Linked Open Data Modeling Language | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.1.2](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.1.2) | Rust web server for Semsimian - a semantic similarity implementation | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v0.20.2](https://github.com/monarch-initiative/monarch-app/releases/tag/v0.20.2) | Monarch Initiative website and API | 
 
