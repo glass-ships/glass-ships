@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 days ago | Monarch Initiative website and API | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 4 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 4 days ago |  | 
-| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | 5 days ago | Configuration based file caching downloader | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 6 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 5 days ago | Monarch Initiative website and API | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 5 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 5 days ago |  | 
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | 6 days ago | Configuration based file caching downloader | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 week ago | Rust web server for Semsimian - a semantic similarity implementation | 
 
 
 ### 🚀 Recent releases I contributed to
