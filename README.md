@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative website and API | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | 1 week ago | Configuration based file caching downloader | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 week ago | Rust web server for Semsimian - a semantic similarity implementation | 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.2](https://github.com/linkml/prefixmaps/releases/tag/v0.2.2) | Semantic prefix map registry | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.0.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.0.0) | Monarch Initiative website and API | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.4](https://github.com/linkml/linkml/releases/tag/v1.7.4) | Linked Open Data Modeling Language | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.5](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.5) | Configuration based file caching downloader | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.4](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.4) | Python toolkit for SSSOM mapping format | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.1.2](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.1.2) | Rust web server for Semsimian - a semantic similarity implementation | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
