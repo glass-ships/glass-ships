@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 weeks ago |  | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | 2 weeks ago | Configuration based file caching downloader | 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.1.2](https://github.com/biolink/biolink-model/releases/tag/v4.1.2) | Schema and generated objects for biolink data model and upper ontology | 
+| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.1.3](https://github.com/biolink/biolink-model/releases/tag/v4.1.3) | Schema and generated objects for biolink data model and upper ontology | 
 | [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.2](https://github.com/linkml/prefixmaps/releases/tag/v0.2.2) | Semantic prefix map registry | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.0.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.0.0) | Monarch Initiative website and API | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.4](https://github.com/linkml/linkml/releases/tag/v1.7.4) | Linked Open Data Modeling Language | 
