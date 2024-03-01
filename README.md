@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative website and API | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 days ago |  | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 6 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 3 days ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 week ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | 3 weeks ago | Configuration based file caching downloader | 
 
