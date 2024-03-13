@@ -23,19 +23,19 @@
 | Project | Last Commit | Description | 
 |---|:-:|---| 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 day ago |  | 
-| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 4 days ago | Building a fully exectuable workflow for boomer | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 4 days ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
-| [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 4 days ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 days ago |  | 
+| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 5 days ago | Building a fully exectuable workflow for boomer | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 5 days ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
+| [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 5 days ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.0-rc.1](https://github.com/biolink/biolink-model/releases/tag/v4.2.0-rc.1) | Schema and generated objects for biolink data model and upper ontology | 
+| [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.14-rc1](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.14-rc1) | Simple rust implementation of semantic similarity | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.26](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.26) | Ontology Access Kit: A python library and command line application for working with ontologies | 
-| [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.13](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.13) | Simple rust implementation of semantic similarity | 
-| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.1.6](https://github.com/biolink/biolink-model/releases/tag/v4.1.6) | Schema and generated objects for biolink data model and upper ontology | 
 | [biolink/kgx](https://github.com/biolink/kgx) | [v2.3.0](https://github.com/biolink/kgx/releases/tag/v2.3.0) | KGX is a Python library for exchanging Knowledge Graphs | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.5](https://github.com/linkml/linkml/releases/tag/v1.7.5) | Linked Open Data Modeling Language | 
 
