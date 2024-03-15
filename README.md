@@ -22,20 +22,20 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 day ago | Rust web server for Semsimian - a semantic similarity implementation | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 3 days ago |  | 
-| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 6 days ago | Building a fully exectuable workflow for boomer | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 6 days ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 4 days ago |  | 
+| [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 1 week ago | Building a fully exectuable workflow for boomer | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [0.2.14-rc3](https://github.com/monarch-initiative/semsimian/releases/tag/0.2.14-rc3) | Simple rust implementation of semantic similarity | 
+| [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.15](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.15) | Simple rust implementation of semantic similarity | 
+| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.29](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.29) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.0-rc.2](https://github.com/biolink/biolink-model/releases/tag/v4.2.0-rc.2) | Schema and generated objects for biolink data model and upper ontology | 
-| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.26](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.26) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [biolink/kgx](https://github.com/biolink/kgx) | [v2.3.0](https://github.com/biolink/kgx/releases/tag/v2.3.0) | KGX is a Python library for exchanging Knowledge Graphs | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.5](https://github.com/linkml/linkml/releases/tag/v1.7.5) | Linked Open Data Modeling Language | 
 
