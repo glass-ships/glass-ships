@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative website and API | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 4 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 4 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 days ago | Monarch Initiative website and API | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 5 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 5 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
 | [monarch-initiative/monarch-mapping-commons](https://github.com/monarch-initiative/monarch-mapping-commons) | 1 week ago | Building a fully exectuable workflow for boomer | 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.1.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.1.0) | Monarch Initiative website and API | 
+| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.30](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.30) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.15](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.15) | Simple rust implementation of semantic similarity | 
-| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.29](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.29) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.0-rc.2](https://github.com/biolink/biolink-model/releases/tag/v4.2.0-rc.2) | Schema and generated objects for biolink data model and upper ontology | 
 | [biolink/kgx](https://github.com/biolink/kgx) | [v2.3.0](https://github.com/biolink/kgx/releases/tag/v2.3.0) | KGX is a Python library for exchanging Knowledge Graphs | 
-| [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.5](https://github.com/linkml/linkml/releases/tag/v1.7.5) | Linked Open Data Modeling Language | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
