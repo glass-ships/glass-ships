@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 day ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 6 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 6 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 2 days ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative website and API | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 week ago | Rust web server for Semsimian - a semantic similarity implementation | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.6](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.6) | Configuration based file caching downloader | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.1.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.1.1) | Monarch Initiative website and API | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.31](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.31) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.15](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.15) | Simple rust implementation of semantic similarity | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.0-rc.2](https://github.com/biolink/biolink-model/releases/tag/v4.2.0-rc.2) | Schema and generated objects for biolink data model and upper ontology | 
-| [biolink/kgx](https://github.com/biolink/kgx) | [v2.3.0](https://github.com/biolink/kgx/releases/tag/v2.3.0) | KGX is a Python library for exchanging Knowledge Graphs | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue
