@@ -33,14 +33,14 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.7](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.7) | Configuration based file caching downloader | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.32](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.32) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.6](https://github.com/linkml/linkml/releases/tag/v1.7.6) | Linked Open Data Modeling Language | 
-| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.6](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.6) | Configuration based file caching downloader | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.1.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.1.1) | Monarch Initiative website and API | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.15](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.15) | Simple rust implementation of semantic similarity | 
 
 ### 🌱 I’m currently learning
-- Front End development w/ TypeScript and Vue
+- Front End development w/ TypeScript and Vue/React
 - Quantum Computing with Qiskit
 - Rust
 
@@ -54,11 +54,10 @@
 ## 💻 Tools & Languages  
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/>](https://ubuntu.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" alt="linux" width="40" height="40"/>](https://wiki.centos.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>](https://www.gnu.org/software/bash/)
 [<img src="https://raw.githubusercontent.com/fish-shell/fish-shell/master/doc_src/python_docs_theme/static/fish.png" alt="Fish" width="40" height="40"/>](https://fishshell.com)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>](https://www.jenkins.io)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>](https://www.docker.com)
 [<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>](https://cloud.google.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="40" height="40"/>](https://www.digitalocean.com)
@@ -77,7 +76,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">]("https://www.typescriptlang.org")
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/> ](https://vuejs.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> ](https://react.dev)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/> ](https://www.rust-lang.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/> ](https://www.rust-lang.org/)
 
 ## 
 
@@ -101,7 +100,6 @@
 
 
 </br>
-
 
 
 🧿
