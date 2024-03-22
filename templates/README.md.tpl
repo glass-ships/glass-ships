@@ -87,7 +87,8 @@
 
 ## 🎓 Certificates & Trainings
 
-CREDLY_BADGE_SECTION
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 </br>
 
