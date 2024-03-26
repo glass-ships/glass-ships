@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative website and API | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 6 days ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 week ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 week ago | Rust web server for Semsimian - a semantic similarity implementation | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 weeks ago |  | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.1.2](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.1.2) | Monarch Initiative website and API | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.5](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.5) | Python toolkit for SSSOM mapping format | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.7](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.7) | Configuration based file caching downloader | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.5.32](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.5.32) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.6](https://github.com/linkml/linkml/releases/tag/v1.7.6) | Linked Open Data Modeling Language | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.1.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.1.1) | Monarch Initiative website and API | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
