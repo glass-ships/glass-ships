@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
+| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 1 day ago | A simple, yet modern event scheduling web app | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative website and API | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 week ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 2 weeks ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 weeks ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.6.0](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.6.0) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.7](https://github.com/linkml/linkml/releases/tag/v1.7.7) | Linked Open Data Modeling Language | 
 | [biolink/kgx](https://github.com/biolink/kgx) | [v2.3.1](https://github.com/biolink/kgx/releases/tag/v2.3.1) | KGX is a Python library for exchanging Knowledge Graphs | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.1.2](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.1.2) | Monarch Initiative website and API | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.5](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.5) | Python toolkit for SSSOM mapping format | 
-| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.7](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.7) | Configuration based file caching downloader | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
