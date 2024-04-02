@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 4 days ago | A simple, yet modern event scheduling web app | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 5 days ago | Monarch Initiative website and API | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 week ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 2 weeks ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 day ago |  | 
+| [glass-ships/cookiecutter-monarch-ingest](https://github.com/glass-ships/cookiecutter-monarch-ingest) | 1 day ago | A Cruft cookiecutter for modular Koza ingests | 
+| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 5 days ago | A simple, yet modern event scheduling web app | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 6 days ago | Monarch Initiative website and API | 
 
 
 ### 🚀 Recent releases I contributed to
