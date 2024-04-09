@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/cookiecutter-monarch-ingest](https://github.com/glass-ships/cookiecutter-monarch-ingest) | 3 days ago | A Cruft cookiecutter for modular Koza ingests | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative website and API | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 5 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 5 days ago |  | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 6 days ago |  | 
+| [glass-ships/cookiecutter-monarch-ingest](https://github.com/glass-ships/cookiecutter-monarch-ingest) | 4 days ago | A Cruft cookiecutter for modular Koza ingests | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 days ago | Monarch Initiative website and API | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 6 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 6 days ago |  | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [biolink/kgx](https://github.com/biolink/kgx) | [v2.3.2](https://github.com/biolink/kgx/releases/tag/v2.3.2) | KGX is a Python library for exchanging Knowledge Graphs | 
+| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.6.1](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.6.1) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.6](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.6) | Python toolkit for SSSOM mapping format | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.8](https://github.com/linkml/linkml/releases/tag/v1.7.8) | Linked Open Data Modeling Language | 
 | [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.3](https://github.com/linkml/prefixmaps/releases/tag/v0.2.3) | Semantic prefix map registry | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.5.4](https://github.com/monarch-initiative/koza/releases/tag/v0.5.4) | Data transformation framework for LinkML data models | 
-| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.6.0](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.6.0) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
