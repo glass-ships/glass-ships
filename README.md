@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.4](https://github.com/linkml/prefixmaps/releases/tag/v0.2.4) | Semantic prefix map registry | 
 | [biolink/kgx](https://github.com/biolink/kgx) | [v2.4.0](https://github.com/biolink/kgx/releases/tag/v2.4.0) | KGX is a Python library for exchanging Knowledge Graphs | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.0](https://github.com/biolink/biolink-model/releases/tag/v4.2.0) | Schema and generated objects for biolink data model and upper ontology | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.7](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.7) | Python toolkit for SSSOM mapping format | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.6.2](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.6.2) | Ontology Access Kit: A python library and command line application for working with ontologies | 
-| [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.8](https://github.com/linkml/linkml/releases/tag/v1.7.8) | Linked Open Data Modeling Language | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
