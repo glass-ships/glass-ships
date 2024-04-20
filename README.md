@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
-| [glass-ships/cookiecutter-monarch-ingest](https://github.com/glass-ships/cookiecutter-monarch-ingest) | 2 weeks ago | A Cruft cookiecutter for modular Koza ingests | 
+| [glass-ships/cookiecutter-monarch-ingest](https://github.com/glass-ships/cookiecutter-monarch-ingest) | 1 day ago | A Cruft cookiecutter for modular Koza ingests | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative website and API | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 2 weeks ago | Data transformation framework for LinkML data models | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.2.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.2.0-rc1) | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-04-17](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-04-17) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.6.3](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.6.3) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.4](https://github.com/linkml/prefixmaps/releases/tag/v0.2.4) | Semantic prefix map registry | 
 | [biolink/kgx](https://github.com/biolink/kgx) | [v2.4.0](https://github.com/biolink/kgx/releases/tag/v2.4.0) | KGX is a Python library for exchanging Knowledge Graphs | 
-| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.0](https://github.com/biolink/biolink-model/releases/tag/v4.2.0) | Schema and generated objects for biolink data model and upper ontology | 
-| [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.7](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.7) | Python toolkit for SSSOM mapping format | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
