@@ -22,18 +22,18 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/cookiecutter-monarch-ingest](https://github.com/glass-ships/cookiecutter-monarch-ingest) | 3 days ago | A Cruft cookiecutter for modular Koza ingests | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 days ago | Monarch Initiative website and API | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
+| [glass-ships/cookiecutter-monarch-ingest](https://github.com/glass-ships/cookiecutter-monarch-ingest) | 1 day ago | A Cruft cookiecutter for modular Koza ingests | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 5 days ago | Monarch Initiative website and API | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 2 weeks ago | Data transformation framework for LinkML data models | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 3 weeks ago | Data transformation framework for LinkML data models | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.2.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.2.0-rc1) | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.2.0-rc2](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.2.0-rc2) | Monarch Initiative website and API | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-04-17](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-04-17) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.6.3](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.6.3) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.4](https://github.com/linkml/prefixmaps/releases/tag/v0.2.4) | Semantic prefix map registry | 
