@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/cern-electron-recoil](https://github.com/glass-ships/cern-electron-recoil) | 2 days ago |  | 
-| [glass-ships/cookiecutter-monarch-ingest](https://github.com/glass-ships/cookiecutter-monarch-ingest) | 3 days ago | A Cruft cookiecutter for modular Koza ingests | 
-| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 3 days ago | A simple, yet modern event scheduling web app | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | 4 days ago | Configuration based file caching downloader | 
+| [glass-ships/cern-electron-recoil](https://github.com/glass-ships/cern-electron-recoil) | 3 days ago |  | 
+| [glass-ships/cookiecutter-monarch-ingest](https://github.com/glass-ships/cookiecutter-monarch-ingest) | 4 days ago | A Cruft cookiecutter for modular Koza ingests | 
+| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 4 days ago | A simple, yet modern event scheduling web app | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 4 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | 5 days ago | Configuration based file caching downloader | 
 
 
 ### 🚀 Recent releases I contributed to
