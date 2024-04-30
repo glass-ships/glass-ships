@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/cern-electron-recoil](https://github.com/glass-ships/cern-electron-recoil) | 3 days ago |  | 
-| [glass-ships/cookiecutter-monarch-ingest](https://github.com/glass-ships/cookiecutter-monarch-ingest) | 4 days ago | A Cruft cookiecutter for modular Koza ingests | 
-| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 4 days ago | A simple, yet modern event scheduling web app | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 4 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | 5 days ago | Configuration based file caching downloader | 
+| [glass-ships/cookiecutter-monarch-ingest](https://github.com/glass-ships/cookiecutter-monarch-ingest) | 1 day ago | A Cruft cookiecutter for modular Koza ingests | 
+| [glass-ships/cern-electron-recoil](https://github.com/glass-ships/cern-electron-recoil) | 4 days ago |  | 
+| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 5 days ago | A simple, yet modern event scheduling web app | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 5 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | 6 days ago | Configuration based file caching downloader | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.8](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.8) | Python toolkit for SSSOM mapping format | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.6.5](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.6.5) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.8](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.8) | Configuration based file caching downloader | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.2.0-rc3](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.2.0-rc3) | Monarch Initiative website and API | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-04-17](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-04-17) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
-| [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.4](https://github.com/linkml/prefixmaps/releases/tag/v0.2.4) | Semantic prefix map registry | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
