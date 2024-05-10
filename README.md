@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
-| [glass-ships/Cern-Electron-Recoil](https://github.com/glass-ships/Cern-Electron-Recoil) | 5 days ago |  | 
-| [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 6 days ago | A Cruft cookiecutter for modular Koza ingests | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative website and API | 
+| [glass-ships/Cern-Electron-Recoil](https://github.com/glass-ships/Cern-Electron-Recoil) | 6 days ago |  | 
+| [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 1 week ago | A Cruft cookiecutter for modular Koza ingests | 
 | [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 2 weeks ago | A simple, yet modern event scheduling web app | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
@@ -33,10 +33,10 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.6.6](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.6.6) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.16](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.16) | Simple rust implementation of semantic similarity | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.9](https://github.com/linkml/linkml/releases/tag/v1.7.9) | Linked Open Data Modeling Language | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.8](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.8) | Python toolkit for SSSOM mapping format | 
-| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.6.5](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.6.5) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.8](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.8) | Configuration based file caching downloader | 
 
 ### 🌱 I’m currently learning
