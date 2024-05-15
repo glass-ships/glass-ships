@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/Cern-Electron-Recoil](https://github.com/glass-ships/Cern-Electron-Recoil) | 1 day ago |  | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 day ago | Data transformation framework for LinkML data models | 
-| [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 1 day ago | A Cruft cookiecutter for modular Koza ingests | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 6 days ago | Monarch Initiative website and API | 
+| [glass-ships/Cern-Electron-Recoil](https://github.com/glass-ships/Cern-Electron-Recoil) | 2 days ago |  | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 2 days ago | Data transformation framework for LinkML data models | 
+| [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 2 days ago | A Cruft cookiecutter for modular Koza ingests | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative website and API | 
 | [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 2 weeks ago | A simple, yet modern event scheduling web app | 
 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.1](https://github.com/biolink/biolink-model/releases/tag/v4.2.1) | Schema and generated objects for biolink data model and upper ontology | 
+| [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.9](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.9) | Python toolkit for SSSOM mapping format | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.6.0](https://github.com/monarch-initiative/koza/releases/tag/v0.6.0) | Data transformation framework for LinkML data models | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.11rc1](https://github.com/linkml/linkml/releases/tag/v1.7.11rc1) | Linked Open Data Modeling Language | 
 | [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.6.6](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.6.6) | Ontology Access Kit: A python library and command line application for working with ontologies | 
-| [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.16](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.16) | Simple rust implementation of semantic similarity | 
-| [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.8](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.8) | Python toolkit for SSSOM mapping format | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
