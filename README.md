@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 day ago |  | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 day ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 4 days ago | Data transformation framework for LinkML data models | 
-| [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 4 days ago | A Cruft cookiecutter for modular Koza ingests | 
-| [glass-ships/Cern-Electron-Recoil](https://github.com/glass-ships/Cern-Electron-Recoil) | 4 days ago |  | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 days ago |  | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 2 days ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 5 days ago | Data transformation framework for LinkML data models | 
+| [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 5 days ago | A Cruft cookiecutter for modular Koza ingests | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.3.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.3.0-rc1) | Monarch Initiative website and API | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.1](https://github.com/biolink/biolink-model/releases/tag/v4.2.1) | Schema and generated objects for biolink data model and upper ontology | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.9](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.9) | Python toolkit for SSSOM mapping format | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.6.0](https://github.com/monarch-initiative/koza/releases/tag/v0.6.0) | Data transformation framework for LinkML data models | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.11rc1](https://github.com/linkml/linkml/releases/tag/v1.7.11rc1) | Linked Open Data Modeling Language | 
-| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.6.6](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.6.6) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
