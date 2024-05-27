@@ -25,8 +25,8 @@
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative website and API | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 week ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 week ago | Data transformation framework for LinkML data models | 
-| [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 1 week ago | A Cruft cookiecutter for modular Koza ingests | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 2 weeks ago | Data transformation framework for LinkML data models | 
+| [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 2 weeks ago | A Cruft cookiecutter for modular Koza ingests | 
 
 
 ### 🚀 Recent releases I contributed to
