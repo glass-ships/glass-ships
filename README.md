@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 weeks ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 2 weeks ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 2 weeks ago | Data transformation framework for LinkML data models | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.6.7](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.6.7) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.3.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.3.0) | Monarch Initiative website and API | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-05-22](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-05-22) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.1](https://github.com/biolink/biolink-model/releases/tag/v4.2.1) | Schema and generated objects for biolink data model and upper ontology | 
 | [mapping-commons/sssom-py](https://github.com/mapping-commons/sssom-py) | [v0.4.9](https://github.com/mapping-commons/sssom-py/releases/tag/v0.4.9) | Python toolkit for SSSOM mapping format | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.6.0](https://github.com/monarch-initiative/koza/releases/tag/v0.6.0) | Data transformation framework for LinkML data models | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
