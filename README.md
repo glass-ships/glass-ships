@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 5 days ago | Monarch Initiative website and API | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 2 weeks ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 6 days ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 3 weeks ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 3 weeks ago |  | 
 | [glass-ships/Cern-Electron-Recoil](https://github.com/glass-ships/Cern-Electron-Recoil) | 3 weeks ago |  | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 3 weeks ago | Data transformation framework for LinkML data models | 
 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.6.7](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.6.7) | Ontology Access Kit: A python library and command line application for working with ontologies | 
+| [INCATools/ontology-access-kit](https://github.com/INCATools/ontology-access-kit) | [v0.6.9](https://github.com/INCATools/ontology-access-kit/releases/tag/v0.6.9) | Ontology Access Kit: A python library and command line application for working with ontologies | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.3.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.3.0) | Monarch Initiative website and API | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-05-22](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-05-22) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.1](https://github.com/biolink/biolink-model/releases/tag/v4.2.1) | Schema and generated objects for biolink data model and upper ontology | 
