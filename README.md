@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 3 weeks ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 3 weeks ago |  | 
 | [glass-ships/Cern-Electron-Recoil](https://github.com/glass-ships/Cern-Electron-Recoil) | 4 weeks ago |  | 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.3.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.3.0) | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.4.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.4.0) | Monarch Initiative website and API | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.1](https://github.com/biolink/biolink-model/releases/tag/v4.2.1) | Schema and generated objects for biolink data model and upper ontology | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.6.0](https://github.com/monarch-initiative/koza/releases/tag/v0.6.0) | Data transformation framework for LinkML data models | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.11rc1](https://github.com/linkml/linkml/releases/tag/v1.7.11rc1) | Linked Open Data Modeling Language | 
