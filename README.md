@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative website and API | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 4 weeks ago |  | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 4 weeks ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 month ago | Data transformation framework for LinkML data models | 
