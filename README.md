@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | 1 day ago |  | 
-| [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 2 days ago | A Cruft cookiecutter for modular Koza ingests | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 5 days ago | Data transformation framework for LinkML data models | 
+| [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | 2 days ago |  | 
+| [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 3 days ago | A Cruft cookiecutter for modular Koza ingests | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 6 days ago | Data transformation framework for LinkML data models | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative website and API | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 month ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 
