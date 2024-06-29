@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | 3 days ago |  | 
-| [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 3 days ago | A Cruft cookiecutter for modular Koza ingests | 
+| [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | 1 day ago |  | 
+| [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 4 days ago | A Cruft cookiecutter for modular Koza ingests | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 week ago | Data transformation framework for LinkML data models | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 weeks ago | Monarch Initiative website and API | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 month ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2024-06-25](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2024-06-25) |  | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.4.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.4.0) | Monarch Initiative website and API | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.1](https://github.com/biolink/biolink-model/releases/tag/v4.2.1) | Schema and generated objects for biolink data model and upper ontology | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.6.0](https://github.com/monarch-initiative/koza/releases/tag/v0.6.0) | Data transformation framework for LinkML data models | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.7.11rc1](https://github.com/linkml/linkml/releases/tag/v1.7.11rc1) | Linked Open Data Modeling Language | 
+| [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.16](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.16) | Simple rust implementation of semantic similarity | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
