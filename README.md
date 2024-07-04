@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | 5 days ago |  | 
+| [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | 6 days ago |  | 
 | [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 1 week ago | A Cruft cookiecutter for modular Koza ingests | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 2 weeks ago | Data transformation framework for LinkML data models | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 weeks ago | Monarch Initiative website and API | 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [linkml/linkml](https://github.com/linkml/linkml) | [v1.8.0rc2](https://github.com/linkml/linkml/releases/tag/v1.8.0rc2) | Linked Open Data Modeling Language | 
+| [linkml/linkml](https://github.com/linkml/linkml) | [v1.8.1](https://github.com/linkml/linkml/releases/tag/v1.8.1) | Linked Open Data Modeling Language | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.4.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.4.0) | Monarch Initiative website and API | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.1](https://github.com/biolink/biolink-model/releases/tag/v4.2.1) | Schema and generated objects for biolink data model and upper ontology | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.6.0](https://github.com/monarch-initiative/koza/releases/tag/v0.6.0) | Data transformation framework for LinkML data models | 
