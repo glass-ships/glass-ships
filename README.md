@@ -33,8 +33,8 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.5.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.5.0-rc1) | Monarch Initiative website and API | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.8.1](https://github.com/linkml/linkml/releases/tag/v1.8.1) | Linked Open Data Modeling Language | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.4.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.4.0) | Monarch Initiative website and API | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.1](https://github.com/biolink/biolink-model/releases/tag/v4.2.1) | Schema and generated objects for biolink data model and upper ontology | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.6.0](https://github.com/monarch-initiative/koza/releases/tag/v0.6.0) | Data transformation framework for LinkML data models | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.16](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.16) | Simple rust implementation of semantic similarity | 
