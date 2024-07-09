@@ -23,9 +23,9 @@
 | Project | Last Commit | Description | 
 |---|:-:|---| 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | 1 week ago |  | 
-| [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 1 week ago | A Cruft cookiecutter for modular Koza ingests | 
+| [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 2 weeks ago | A Cruft cookiecutter for modular Koza ingests | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 3 weeks ago | Data transformation framework for LinkML data models | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 weeks ago | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 weeks ago | Monarch Initiative website and API | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 1 month ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 
 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.5.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.5.0-rc1) | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.5.0-rc2](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.5.0-rc2) | Monarch Initiative website and API | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.8.1](https://github.com/linkml/linkml/releases/tag/v1.8.1) | Linked Open Data Modeling Language | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.1](https://github.com/biolink/biolink-model/releases/tag/v4.2.1) | Schema and generated objects for biolink data model and upper ontology | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.6.0](https://github.com/monarch-initiative/koza/releases/tag/v0.6.0) | Data transformation framework for LinkML data models | 
