@@ -33,10 +33,10 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.17](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.17) | Simple rust implementation of semantic similarity | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.6.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.6.0) | Monarch Initiative website and API | 
 | [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.5](https://github.com/linkml/prefixmaps/releases/tag/v0.2.5) | Semantic prefix map registry | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.2.1](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.2.1) | Rust web server for Semsimian - a semantic similarity implementation | 
-| [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.17rc1](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.17rc1) | Simple rust implementation of semantic similarity | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.8.1](https://github.com/linkml/linkml/releases/tag/v1.8.1) | Linked Open Data Modeling Language | 
 
 ### 🌱 I’m currently learning
