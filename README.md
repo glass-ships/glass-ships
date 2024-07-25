@@ -23,7 +23,7 @@
 | Project | Last Commit | Description | 
 |---|:-:|---| 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | 3 weeks ago |  | 
-| [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 4 weeks ago | A Cruft cookiecutter for modular Koza ingests | 
+| [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 1 month ago | A Cruft cookiecutter for modular Koza ingests | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 month ago | Data transformation framework for LinkML data models | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 month ago | Monarch Initiative website and API | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | 2 months ago | Data ingest application for Monarch Initiative knowledge graph using Koza | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [biolink/kgx](https://github.com/biolink/kgx) | [v2.4.2](https://github.com/biolink/kgx/releases/tag/v2.4.2) | KGX is a Python library for exchanging Knowledge Graphs | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.17](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.17) | Simple rust implementation of semantic similarity | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.6.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.6.0) | Monarch Initiative website and API | 
 | [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.5](https://github.com/linkml/prefixmaps/releases/tag/v0.2.5) | Semantic prefix map registry | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.2.1](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.2.1) | Rust web server for Semsimian - a semantic similarity implementation | 
-| [linkml/linkml](https://github.com/linkml/linkml) | [v1.8.1](https://github.com/linkml/linkml/releases/tag/v1.8.1) | Linked Open Data Modeling Language | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
