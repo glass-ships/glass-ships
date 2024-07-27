@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.2](https://github.com/biolink/biolink-model/releases/tag/v4.2.2) | Schema and generated objects for biolink data model and upper ontology | 
 | [biolink/kgx](https://github.com/biolink/kgx) | [v2.4.2](https://github.com/biolink/kgx/releases/tag/v2.4.2) | KGX is a Python library for exchanging Knowledge Graphs | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.17](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.17) | Simple rust implementation of semantic similarity | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.6.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.6.0) | Monarch Initiative website and API | 
 | [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.5](https://github.com/linkml/prefixmaps/releases/tag/v0.2.5) | Semantic prefix map registry | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.2.1](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.2.1) | Rust web server for Semsimian - a semantic similarity implementation | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
