@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | 1 month ago |  | 
 | [monarch-initiative/cookiecutter-monarch-ingest](https://github.com/monarch-initiative/cookiecutter-monarch-ingest) | 1 month ago | A Cruft cookiecutter for modular Koza ingests | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 month ago | Data transformation framework for LinkML data models | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.9](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.9) | Configuration based file caching downloader | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.2](https://github.com/biolink/biolink-model/releases/tag/v4.2.2) | Schema and generated objects for biolink data model and upper ontology | 
 | [biolink/kgx](https://github.com/biolink/kgx) | [v2.4.2](https://github.com/biolink/kgx/releases/tag/v2.4.2) | KGX is a Python library for exchanging Knowledge Graphs | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.17](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.17) | Simple rust implementation of semantic similarity | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.6.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.6.0) | Monarch Initiative website and API | 
-| [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.5](https://github.com/linkml/prefixmaps/releases/tag/v0.2.5) | Semantic prefix map registry | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
