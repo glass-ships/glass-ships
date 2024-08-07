@@ -22,18 +22,18 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 4 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 4 days ago |  | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 5 days ago | Main repository for Mantid code | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 5 days ago |  | 
-| [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | 1 month ago |  | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 day ago |  | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 day ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 1 day ago | Data server for data plots | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 6 days ago | Main repository for Mantid code | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20240802.2119](https://github.com/mantidproject/mantid/releases/tag/v6.10.20240802.2119) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20240805.1549](https://github.com/mantidproject/mantid/releases/tag/v6.10.20240805.1549) | Main repository for Mantid code | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.18](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.18) | Simple rust implementation of semantic similarity | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.9](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.9) | Configuration based file caching downloader | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.2](https://github.com/biolink/biolink-model/releases/tag/v4.2.2) | Schema and generated objects for biolink data model and upper ontology | 
