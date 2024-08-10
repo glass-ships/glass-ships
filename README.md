@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 3 days ago |  | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 days ago |  | 
-| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 3 days ago | Data server for data plots | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 1 day ago | Data server for data plots | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 4 days ago |  | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 4 days ago |  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 week ago | Main repository for Mantid code | 
 
 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20240807.1557](https://github.com/mantidproject/mantid/releases/tag/v6.10.20240807.1557) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20240808.1555](https://github.com/mantidproject/mantid/releases/tag/v6.10.20240808.1555) | Main repository for Mantid code | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.6.1](https://github.com/monarch-initiative/koza/releases/tag/v0.6.1) | Data transformation framework for LinkML data models | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.18](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.18) | Simple rust implementation of semantic similarity | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.9](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.9) | Configuration based file caching downloader | 
