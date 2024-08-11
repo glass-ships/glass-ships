@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 1 day ago | Data server for data plots | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 4 days ago |  | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 4 days ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 2 days ago | Data server for data plots | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 5 days ago |  | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 5 days ago |  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 week ago | Main repository for Mantid code | 
 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20240808.1555](https://github.com/mantidproject/mantid/releases/tag/v6.10.20240808.1555) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20240809.0915](https://github.com/mantidproject/mantid/releases/tag/v6.10.20240809.0915) | Main repository for Mantid code | 
+| [linkml/linkml](https://github.com/linkml/linkml) | [v1.8.2](https://github.com/linkml/linkml/releases/tag/v1.8.2) | Linked Open Data Modeling Language | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.6.1](https://github.com/monarch-initiative/koza/releases/tag/v0.6.1) | Data transformation framework for LinkML data models | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.18](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.18) | Simple rust implementation of semantic similarity | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.9](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.9) | Configuration based file caching downloader | 
-| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.2](https://github.com/biolink/biolink-model/releases/tag/v4.2.2) | Schema and generated objects for biolink data model and upper ontology | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
