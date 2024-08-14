@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 4 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 4 days ago | Data server for data plots | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 day ago |  | 
+| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 1 day ago | Data server for data plots | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 week ago | Main repository for Mantid code | 
 
 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20240809.0915](https://github.com/mantidproject/mantid/releases/tag/v6.10.20240809.0915) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20240812.1648](https://github.com/mantidproject/mantid/releases/tag/v6.10.20240812.1648) | Main repository for Mantid code | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.8.2](https://github.com/linkml/linkml/releases/tag/v1.8.2) | Linked Open Data Modeling Language | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.6.1](https://github.com/monarch-initiative/koza/releases/tag/v0.6.1) | Data transformation framework for LinkML data models | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.18](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.18) | Simple rust implementation of semantic similarity | 
