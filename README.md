@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 day ago |  | 
-| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 1 day ago | Data server for data plots | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 days ago |  | 
+| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 2 days ago | Data server for data plots | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 week ago | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 weeks ago | Main repository for Mantid code | 
 
 
 ### 🚀 Recent releases I contributed to
