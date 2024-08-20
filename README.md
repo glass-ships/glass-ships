@@ -22,19 +22,19 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 4 days ago |  | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 4 days ago |  | 
-| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 6 days ago | Data server for data plots | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
+| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 1 day ago | Data server for data plots | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 5 days ago |  | 
+| [mla/pg_sample](https://github.com/mla/pg_sample) | 5 days ago | PostgreSQL utility for creating a small, sample database from a larger one | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 5 days ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.7.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.7.0) | Monarch Initiative website and API | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20240816.0910](https://github.com/mantidproject/mantid/releases/tag/v6.10.20240816.0910) | Main repository for Mantid code | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.7.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.7.0-rc1) | Monarch Initiative website and API | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.8.2](https://github.com/linkml/linkml/releases/tag/v1.8.2) | Linked Open Data Modeling Language | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.6.1](https://github.com/monarch-initiative/koza/releases/tag/v0.6.1) | Data transformation framework for LinkML data models | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.18](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.18) | Simple rust implementation of semantic similarity | 
