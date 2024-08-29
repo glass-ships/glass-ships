@@ -22,18 +22,18 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 5 days ago | Data server for data plots | 
+| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 6 days ago | Data server for data plots | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [mla/pg_sample](https://github.com/mla/pg_sample) | 1 week ago | PostgreSQL utility for creating a small, sample database from a larger one | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
+| [mla/pg_sample](https://github.com/mla/pg_sample) | 2 weeks ago | PostgreSQL utility for creating a small, sample database from a larger one | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20240826.1553](https://github.com/mantidproject/mantid/releases/tag/v6.10.20240826.1553) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20240827.2058](https://github.com/mantidproject/mantid/releases/tag/v6.10.20240827.2058) | Main repository for Mantid code | 
 | [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.19](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.19) | Simple rust implementation of semantic similarity | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.8.3](https://github.com/linkml/linkml/releases/tag/v1.8.3) | Linked Open Data Modeling Language | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.7.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.7.0) | Monarch Initiative website and API | 
