@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 6 days ago | Data server for data plots | 
+| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 1 week ago | Data server for data plots | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [mla/pg_sample](https://github.com/mla/pg_sample) | 2 weeks ago | PostgreSQL utility for creating a small, sample database from a larger one | 
