@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 5 days ago | 1-D reflectometry fitting | 
-| [bumps/bumps](https://github.com/bumps/bumps) | 5 days ago | Data fitting with uncertainty analysis | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 3 weeks ago | Data server for data plots | 
+| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 1 day ago | Data server for data plots | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 6 days ago | Data fitting with uncertainty analysis | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 6 days ago | 1-D reflectometry fitting | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 4 weeks ago |  | 
 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.8.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.8.0-rc1) | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.8.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.8.0) | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-09-11](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-09-11) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20240916.1815](https://github.com/mantidproject/mantid/releases/tag/v6.10.20240916.1815) | Main repository for Mantid code | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.10](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.10) | Configuration based file caching downloader | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a0](https://github.com/bumps/bumps/releases/tag/v1.0.0a0) | Data fitting with uncertainty analysis | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20240909.1130](https://github.com/mantidproject/mantid/releases/tag/v6.10.20240909.1130) | Main repository for Mantid code | 
-| [monarch-initiative/semsimian](https://github.com/monarch-initiative/semsimian) | [v0.2.19](https://github.com/monarch-initiative/semsimian/releases/tag/v0.2.19) | Simple rust implementation of semantic similarity | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
