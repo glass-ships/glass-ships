@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 2 days ago | Data server for data plots | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 3 days ago | Data server for data plots | 
 | [bumps/bumps](https://github.com/bumps/bumps) | 1 week ago | Data fitting with uncertainty analysis | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 week ago | 1-D reflectometry fitting | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 month ago |  | 
@@ -33,8 +33,8 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20240918.1328](https://github.com/mantidproject/mantid/releases/tag/v6.10.20240918.1328) | Main repository for Mantid code | 
-| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a1](https://github.com/bumps/bumps/releases/tag/v1.0.0a1) | Data fitting with uncertainty analysis | 
+| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a2](https://github.com/bumps/bumps/releases/tag/v1.0.0a2) | Data fitting with uncertainty analysis | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20240919.1618](https://github.com/mantidproject/mantid/releases/tag/v6.10.20240919.1618) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.8.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.8.0) | Monarch Initiative website and API | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-09-11](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-09-11) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.10](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.10) | Configuration based file caching downloader | 
