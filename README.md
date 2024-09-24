@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 5 days ago | Data server for data plots | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 day ago |  | 
+| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 6 days ago | Data server for data plots | 
 | [bumps/bumps](https://github.com/bumps/bumps) | 1 week ago | Data fitting with uncertainty analysis | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 week ago | 1-D reflectometry fitting | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 month ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
