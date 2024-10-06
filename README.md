@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 day ago |  | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 4 days ago |  | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 days ago |  | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 5 days ago |  | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 2 weeks ago | Data server for data plots | 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.7.1](https://github.com/monarch-initiative/koza/releases/tag/v0.7.1) | Data transformation framework for LinkML data models | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.7.2](https://github.com/monarch-initiative/koza/releases/tag/v0.7.2) | Data transformation framework for LinkML data models | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20241003.1633](https://github.com/mantidproject/mantid/releases/tag/v6.10.20241003.1633) | Main repository for Mantid code | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.8.4](https://github.com/linkml/linkml/releases/tag/v1.8.4) | Linked Open Data Modeling Language | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a2](https://github.com/bumps/bumps/releases/tag/v1.0.0a2) | Data fitting with uncertainty analysis | 
