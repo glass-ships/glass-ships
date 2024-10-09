@@ -22,19 +22,19 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 4 days ago |  | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 5 days ago |  | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 weeks ago |  | 
-| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 2 weeks ago | Data server for data plots | 
+| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 3 weeks ago | Data server for data plots | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20241007.1418](https://github.com/mantidproject/mantid/releases/tag/v6.10.20241007.1418) | Main repository for Mantid code | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.7.2](https://github.com/monarch-initiative/koza/releases/tag/v0.7.2) | Data transformation framework for LinkML data models | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20241003.1633](https://github.com/mantidproject/mantid/releases/tag/v6.10.20241003.1633) | Main repository for Mantid code | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.8.4](https://github.com/linkml/linkml/releases/tag/v1.8.4) | Linked Open Data Modeling Language | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a2](https://github.com/bumps/bumps/releases/tag/v1.0.0a2) | Data fitting with uncertainty analysis | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.8.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.8.0) | Monarch Initiative website and API | 
