@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 6 days ago |  | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 weeks ago |  | 
 | [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 3 weeks ago | Data server for data plots | 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2024-10-09](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2024-10-09) |  | 
-| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.3](https://github.com/biolink/biolink-model/releases/tag/v4.2.3) | Schema and generated objects for biolink data model and upper ontology | 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.0a1](https://github.com/reflectometry/refl1d/releases/tag/v1.0.0a1) | 1-D reflectometry fitting | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20241007.1418](https://github.com/mantidproject/mantid/releases/tag/v6.10.20241007.1418) | Main repository for Mantid code | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v0.7.2](https://github.com/monarch-initiative/koza/releases/tag/v0.7.2) | Data transformation framework for LinkML data models | 
+| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.5-rc1](https://github.com/biolink/biolink-model/releases/tag/v4.2.5-rc1) | Schema and generated objects for biolink data model and upper ontology | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.0a2](https://github.com/reflectometry/refl1d/releases/tag/v1.0.0a2) | 1-D reflectometry fitting | 
+| [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2024-10-10](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2024-10-10) |  | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20241009.1255](https://github.com/mantidproject/mantid/releases/tag/v6.10.20241009.1255) | Main repository for Mantid code | 
+| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a3](https://github.com/bumps/bumps/releases/tag/v1.0.0a3) | Data fitting with uncertainty analysis | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
