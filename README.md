@@ -23,7 +23,7 @@
 | Project | Last Commit | Description | 
 |---|:-:|---| 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 weeks ago |  | 
 | [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 3 weeks ago | Data server for data plots | 
@@ -33,9 +33,9 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.5-rc2](https://github.com/biolink/biolink-model/releases/tag/v4.2.5-rc2) | Schema and generated objects for biolink data model and upper ontology | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20241011.1619](https://github.com/mantidproject/mantid/releases/tag/v6.10.20241011.1619) | Main repository for Mantid code | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.0a3](https://github.com/reflectometry/refl1d/releases/tag/v1.0.0a3) | 1-D reflectometry fitting | 
-| [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.5-rc1](https://github.com/biolink/biolink-model/releases/tag/v4.2.5-rc1) | Schema and generated objects for biolink data model and upper ontology | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2024-10-10](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2024-10-10) |  | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a3](https://github.com/bumps/bumps/releases/tag/v1.0.0a3) | Data fitting with uncertainty analysis | 
 
