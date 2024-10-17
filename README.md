@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.0a4](https://github.com/reflectometry/refl1d/releases/tag/v1.0.0a4) | 1-D reflectometry fitting | 
+| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a4](https://github.com/bumps/bumps/releases/tag/v1.0.0a4) | Data fitting with uncertainty analysis | 
 | [biolink/biolink-model](https://github.com/biolink/biolink-model) | [v4.2.5-rc2](https://github.com/biolink/biolink-model/releases/tag/v4.2.5-rc2) | Schema and generated objects for biolink data model and upper ontology | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20241011.1619](https://github.com/mantidproject/mantid/releases/tag/v6.10.20241011.1619) | Main repository for Mantid code | 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.0a3](https://github.com/reflectometry/refl1d/releases/tag/v1.0.0a3) | 1-D reflectometry fitting | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2024-10-10](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2024-10-10) |  | 
-| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a3](https://github.com/bumps/bumps/releases/tag/v1.0.0a3) | Data fitting with uncertainty analysis | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
