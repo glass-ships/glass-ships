@@ -25,7 +25,7 @@
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 weeks ago |  | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 weeks ago |  | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 4 weeks ago |  | 
 | [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 1 month ago | Data server for data plots | 
 
 
