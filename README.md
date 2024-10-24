@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.9.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.9.0) | Monarch Initiative website and API | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.0a5](https://github.com/reflectometry/refl1d/releases/tag/v1.0.0a5) | 1-D reflectometry fitting | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.9.0-rc2](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.9.0-rc2) | Monarch Initiative website and API | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a6](https://github.com/bumps/bumps/releases/tag/v1.0.0a6) | Data fitting with uncertainty analysis | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20241021.1917](https://github.com/mantidproject/mantid/releases/tag/v6.10.20241021.1917) | Main repository for Mantid code | 
 | [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.6](https://github.com/linkml/prefixmaps/releases/tag/v0.2.6) | Semantic prefix map registry | 
+| [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2024-10-10](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2024-10-10) |  | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
