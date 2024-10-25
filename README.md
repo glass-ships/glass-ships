@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 weeks ago |  | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 1 day ago | Data fitting with uncertainty analysis | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 3 weeks ago |  | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 3 weeks ago |  | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 4 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 month ago |  | 
-| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | 1 month ago | Data server for data plots | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.9.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.9.0) | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.9.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.9.1) | Monarch Initiative website and API | 
+| [linkml/linkml](https://github.com/linkml/linkml) | [v1.8.5](https://github.com/linkml/linkml/releases/tag/v1.8.5) | Linked Open Data Modeling Language | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20241023.1829](https://github.com/mantidproject/mantid/releases/tag/v6.10.20241023.1829) | Main repository for Mantid code | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.0a5](https://github.com/reflectometry/refl1d/releases/tag/v1.0.0a5) | 1-D reflectometry fitting | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a6](https://github.com/bumps/bumps/releases/tag/v1.0.0a6) | Data fitting with uncertainty analysis | 
-| [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.6](https://github.com/linkml/prefixmaps/releases/tag/v0.2.6) | Semantic prefix map registry | 
-| [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2024-10-10](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2024-10-10) |  | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
