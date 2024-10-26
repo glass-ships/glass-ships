@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.0a6](https://github.com/reflectometry/refl1d/releases/tag/v1.0.0a6) | 1-D reflectometry fitting | 
+| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a7](https://github.com/bumps/bumps/releases/tag/v1.0.0a7) | Data fitting with uncertainty analysis | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241024.1646](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241024.1646) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.9.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.9.1) | Monarch Initiative website and API | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.8.5](https://github.com/linkml/linkml/releases/tag/v1.8.5) | Linked Open Data Modeling Language | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.10.20241023.1829](https://github.com/mantidproject/mantid/releases/tag/v6.10.20241023.1829) | Main repository for Mantid code | 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.0a5](https://github.com/reflectometry/refl1d/releases/tag/v1.0.0a5) | 1-D reflectometry fitting | 
-| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a6](https://github.com/bumps/bumps/releases/tag/v1.0.0a6) | Data fitting with uncertainty analysis | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
