@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [bumps/bumps](https://github.com/bumps/bumps) | 2 days ago | Data fitting with uncertainty analysis | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 3 days ago | Data fitting with uncertainty analysis | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 3 weeks ago |  | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 3 weeks ago |  | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 month ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
