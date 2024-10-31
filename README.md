@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [bumps/bumps](https://github.com/bumps/bumps) | 5 days ago | Data fitting with uncertainty analysis | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 6 days ago | Data fitting with uncertainty analysis | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 3 weeks ago |  | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 4 weeks ago |  | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 month ago |  | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 month ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 month ago |  | 
 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241028.1933](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241028.1933) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241029.1613](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241029.1613) | Main repository for Mantid code | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a7](https://github.com/bumps/bumps/releases/tag/v1.0.0a7) | Data fitting with uncertainty analysis | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.9.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.9.1) | Monarch Initiative website and API | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.8.5](https://github.com/linkml/linkml/releases/tag/v1.8.5) | Linked Open Data Modeling Language | 
