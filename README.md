@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 days ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 days ago |  | 
 | [bumps/bumps](https://github.com/bumps/bumps) | 1 week ago | Data fitting with uncertainty analysis | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 month ago |  | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 month ago |  | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2024-11-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2024-11-03) |  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241101.1831](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241101.1831) | Main repository for Mantid code | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a7](https://github.com/bumps/bumps/releases/tag/v1.0.0a7) | Data fitting with uncertainty analysis | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.9.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.9.1) | Monarch Initiative website and API | 
 | [linkml/linkml](https://github.com/linkml/linkml) | [v1.8.5](https://github.com/linkml/linkml/releases/tag/v1.8.5) | Linked Open Data Modeling Language | 
-| [linkml/prefixmaps](https://github.com/linkml/prefixmaps) | [v0.2.6](https://github.com/linkml/prefixmaps/releases/tag/v0.2.6) | Semantic prefix map registry | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
