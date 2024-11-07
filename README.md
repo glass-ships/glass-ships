@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 day ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 days ago |  | 
 | [bumps/bumps](https://github.com/bumps/bumps) | 1 week ago | Data fitting with uncertainty analysis | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 month ago |  | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 month ago |  | 
