@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 days ago |  | 
-| [bumps/bumps](https://github.com/bumps/bumps) | 1 week ago | Data fitting with uncertainty analysis | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 days ago |  | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 2 weeks ago | Data fitting with uncertainty analysis | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 month ago |  | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 month ago |  | 
 
@@ -33,8 +33,8 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241106.2030](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241106.2030) | Main repository for Mantid code | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.11](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.11) | Configuration based file caching downloader | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241104.1613](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241104.1613) | Main repository for Mantid code | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2024-11-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2024-11-03) |  | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a7](https://github.com/bumps/bumps/releases/tag/v1.0.0a7) | Data fitting with uncertainty analysis | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.9.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.9.1) | Monarch Initiative website and API | 
