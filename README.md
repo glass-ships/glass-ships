@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 3 days ago | Data Reduction Software for the Liquids Reflectometer | 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 3 days ago | 1-D reflectometry fitting | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 4 days ago | Data Reduction Software for the Liquids Reflectometer | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 4 days ago | 1-D reflectometry fitting | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241114.1555](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241114.1555) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241115.1116](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241115.1116) | Main repository for Mantid code | 
 | [monarch-initiative/biogrid-ingest](https://github.com/monarch-initiative/biogrid-ingest) | [2024-11-05](https://github.com/monarch-initiative/biogrid-ingest/releases/tag/2024-11-05) | BioGRID ingest | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a8](https://github.com/bumps/bumps/releases/tag/v1.0.0a8) | Data fitting with uncertainty analysis | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.11](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.11) | Configuration based file caching downloader | 
