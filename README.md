@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 6 days ago | Data Reduction Software for the Liquids Reflectometer | 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 6 days ago | 1-D reflectometry fitting | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 day ago | 1-D reflectometry fitting | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 week ago | Data Reduction Software for the Liquids Reflectometer | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
