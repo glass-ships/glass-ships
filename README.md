@@ -26,18 +26,18 @@
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 week ago | Data Reduction Software for the Liquids Reflectometer | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 weeks ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241115.1116](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241115.1116) | Main repository for Mantid code | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.10.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.10.0-rc1) | Monarch Initiative website and API | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241119.1441](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241119.1441) | Main repository for Mantid code | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.0a8](https://github.com/bumps/bumps/releases/tag/v1.0.0a8) | Data fitting with uncertainty analysis | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.3.11](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.3.11) | Configuration based file caching downloader | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2024-11-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2024-11-03) |  | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.9.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.9.1) | Monarch Initiative website and API | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
