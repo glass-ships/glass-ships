@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 day ago | 1-D reflectometry fitting | 
-| [bumps/bumps](https://github.com/bumps/bumps) | 1 day ago | Data fitting with uncertainty analysis | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 days ago |  | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 days ago |  | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 2 days ago | 1-D reflectometry fitting | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 2 days ago | Data fitting with uncertainty analysis | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 3 days ago |  | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 week ago | Data Reduction Software for the Liquids Reflectometer | 
 
 
@@ -33,8 +33,8 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241122.1111](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241122.1111) | Main repository for Mantid code | 
 | [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | [1.4](https://github.com/neutrons/live_data_server/releases/tag/1.4) | Data server for data plots | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241121.1108](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241121.1108) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.10.0-rc2](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.10.0-rc2) | Monarch Initiative website and API | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.4.1](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.4.1) | Configuration based file caching downloader | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2024-11-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2024-11-03) |  | 
