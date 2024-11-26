@@ -23,10 +23,10 @@
 | Project | Last Commit | Description | 
 |---|:-:|---| 
 | [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 2 days ago | A simple, yet modern event scheduling web app | 
-| [bumps/bumps](https://github.com/bumps/bumps) | 3 days ago | Data fitting with uncertainty analysis | 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 3 days ago | 1-D reflectometry fitting | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 3 days ago |  | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 4 days ago |  | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 days ago |  | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 days ago |  | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 days ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
 ### 🚀 Recent releases I contributed to
