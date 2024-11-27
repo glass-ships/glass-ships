@@ -22,18 +22,18 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 2 days ago | A simple, yet modern event scheduling web app | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 days ago |  | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 days ago |  | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 days ago |  | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 days ago |  | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 3 days ago |  | 
+| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 3 days ago | A simple, yet modern event scheduling web app | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 3 days ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241122.1111](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241122.1111) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241125.1507](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241125.1507) | Main repository for Mantid code | 
 | [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | [1.4](https://github.com/neutrons/live_data_server/releases/tag/1.4) | Data server for data plots | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.10.0-rc2](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.10.0-rc2) | Monarch Initiative website and API | 
 | [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.4.1](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.4.1) | Configuration based file caching downloader | 
