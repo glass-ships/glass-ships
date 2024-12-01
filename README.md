@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 6 days ago |  | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 6 days ago |  | 
-| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 6 days ago | A simple, yet modern event scheduling web app | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 6 days ago |  | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 6 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
+| [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 1 week ago | A simple, yet modern event scheduling web app | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
 ### 🚀 Recent releases I contributed to
