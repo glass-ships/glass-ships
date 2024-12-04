@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 day ago |  | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 days ago |  | 
 | [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 1 week ago | A simple, yet modern event scheduling web app | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241202.1125](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241202.1125) | Main repository for Mantid code | 
+| [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2024-12-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2024-12-03) |  | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-11-19](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-11-19) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241128.1441](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241128.1441) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.10.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.10.0) | Monarch Initiative website and API | 
 | [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | [1.4](https://github.com/neutrons/live_data_server/releases/tag/1.4) | Data server for data plots | 
-| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.4.1](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.4.1) | Configuration based file caching downloader | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
