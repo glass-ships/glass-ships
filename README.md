@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 days ago |  | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 4 days ago |  | 
 | [glass-ships/whenworks](https://github.com/glass-ships/whenworks) | 1 week ago | A simple, yet modern event scheduling web app | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241203.2040](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241203.2040) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241204.1559](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241204.1559) | Main repository for Mantid code | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2024-12-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2024-12-03) |  | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-11-19](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-11-19) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.10.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.10.0) | Monarch Initiative website and API | 
