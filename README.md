@@ -22,18 +22,18 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 day ago | 1-D reflectometry fitting | 
-| [bumps/bumps](https://github.com/bumps/bumps) | 1 day ago | Data fitting with uncertainty analysis | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 5 days ago |  | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 2 days ago | 1-D reflectometry fitting | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 2 days ago | Data fitting with uncertainty analysis | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 6 days ago |  | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 weeks ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241204.1559](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241204.1559) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241206.1844](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241206.1844) | Main repository for Mantid code | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2024-12-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2024-12-03) |  | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-11-19](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-11-19) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.10.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.10.0) | Monarch Initiative website and API | 
