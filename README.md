@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | 2 days ago | The ORNL SANS instruments reduction package  | 
-| [bumps/bumps](https://github.com/bumps/bumps) | 5 days ago | Data fitting with uncertainty analysis | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | 3 days ago | The ORNL SANS instruments reduction package  | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 6 days ago | Data fitting with uncertainty analysis | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 week ago | 1-D reflectometry fitting | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 weeks ago |  | 
@@ -33,10 +33,10 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241216.1838](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241216.1838) | Main repository for Mantid code | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.11.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.11.0-rc1) | Monarch Initiative website and API | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241217.1618](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241217.1618) | Main repository for Mantid code | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2024-12-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2024-12-03) |  | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-11-19](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-11-19) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.10.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.10.0) | Monarch Initiative website and API | 
 | [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | [1.4](https://github.com/neutrons/live_data_server/releases/tag/1.4) | Data server for data plots | 
 
 ### 🌱 I’m currently learning
