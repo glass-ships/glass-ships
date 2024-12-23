@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | 6 days ago | The ORNL SANS instruments reduction package  | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | 1 week ago | The ORNL SANS instruments reduction package  | 
 | [bumps/bumps](https://github.com/bumps/bumps) | 1 week ago | Data fitting with uncertainty analysis | 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 week ago | 1-D reflectometry fitting | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 weeks ago |  | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 2 weeks ago | 1-D reflectometry fitting | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 weeks ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
