@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241220.2119](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241220.2119) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20241227.2035](https://github.com/mantidproject/mantid/releases/tag/v6.11.20241227.2035) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.11.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.11.0) | Monarch Initiative website and API | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2024-12-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2024-12-03) |  | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-11-19](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-11-19) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
