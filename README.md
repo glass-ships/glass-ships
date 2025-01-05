@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 day ago | 1-D reflectometry fitting | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 2 days ago | 1-D reflectometry fitting | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | 2 weeks ago | The ORNL SANS instruments reduction package  | 
 | [bumps/bumps](https://github.com/bumps/bumps) | 3 weeks ago | Data fitting with uncertainty analysis | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20250102.1645](https://github.com/mantidproject/mantid/releases/tag/v6.11.20250102.1645) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20250103.1630](https://github.com/mantidproject/mantid/releases/tag/v6.11.20250103.1630) | Main repository for Mantid code | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2025-01-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2025-01-03) |  | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.11.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.11.0) | Monarch Initiative website and API | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-11-19](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-11-19) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
