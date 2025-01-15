@@ -23,10 +23,10 @@
 | Project | Last Commit | Description | 
 |---|:-:|---| 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 week ago | Reduction scripts for the Liquids Reflectometer | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 week ago | 1-D reflectometry fitting | 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | 4 weeks ago | The ORNL SANS instruments reduction package  | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | 1 month ago | The ORNL SANS instruments reduction package  | 
 
 
 ### 🚀 Recent releases I contributed to
