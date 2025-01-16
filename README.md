@@ -22,21 +22,21 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
+| [bumps/bumps](https://github.com/bumps/bumps) | 1 day ago | Data fitting with uncertainty analysis | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 week ago | Reduction scripts for the Liquids Reflectometer | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 week ago | 1-D reflectometry fitting | 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | 1 month ago | The ORNL SANS instruments reduction package  | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20250110.1450](https://github.com/mantidproject/mantid/releases/tag/v6.11.20250110.1450) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20250114.1416](https://github.com/mantidproject/mantid/releases/tag/v6.11.20250114.1416) | Main repository for Mantid code | 
+| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-12-17](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-12-17) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2025-01-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2025-01-03) |  | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.11.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.11.0) | Monarch Initiative website and API | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-11-19](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-11-19) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | [1.4](https://github.com/neutrons/live_data_server/releases/tag/1.4) | Data server for data plots | 
 
 ### 🌱 I’m currently learning
