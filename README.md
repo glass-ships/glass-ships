@@ -33,10 +33,10 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.12.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.12.0-rc1) | Monarch Initiative website and API | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20250117.1720](https://github.com/mantidproject/mantid/releases/tag/v6.11.20250117.1720) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-12-17](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-12-17) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2025-01-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2025-01-03) |  | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.11.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.11.0) | Monarch Initiative website and API | 
 | [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | [1.4](https://github.com/neutrons/live_data_server/releases/tag/1.4) | Data server for data plots | 
 
 ### 🌱 I’m currently learning
