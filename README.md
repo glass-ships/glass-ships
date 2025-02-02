@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 days ago |  | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 week ago | 1-D reflectometry fitting | 
 | [bumps/bumps](https://github.com/bumps/bumps) | 2 weeks ago | Data fitting with uncertainty analysis | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 3 weeks ago | Reduction scripts for the Liquids Reflectometer | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 weeks ago |  | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20250128.1155](https://github.com/mantidproject/mantid/releases/tag/v6.11.20250128.1155) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20250131.1730](https://github.com/mantidproject/mantid/releases/tag/v6.11.20250131.1730) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.12.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.12.0) | Monarch Initiative website and API | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2024-12-17](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2024-12-17) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2025-01-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2025-01-03) |  | 
