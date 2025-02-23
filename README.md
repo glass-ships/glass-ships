@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 5 days ago | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 6 days ago | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 week ago | Reduction scripts for the Liquids Reflectometer | 
 | [bumps/bumps](https://github.com/bumps/bumps) | 1 week ago | Data fitting with uncertainty analysis | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
@@ -34,10 +34,10 @@
 | Project | Latest Release| Description |
 |---|:-:|---| 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.13.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.13.0) | Monarch Initiative website and API | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.11.20250220.1815](https://github.com/mantidproject/mantid/releases/tag/v6.11.20250220.1815) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2025-02-17](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2025-02-17) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2025-02-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2025-02-03) |  | 
 | [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | [1.4](https://github.com/neutrons/live_data_server/releases/tag/1.4) | Data server for data plots | 
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | [v0.4.1](https://github.com/monarch-initiative/kghub-downloader/releases/tag/v0.4.1) | Configuration based file caching downloader | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
