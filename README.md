@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | 1 day ago | The ORNL SANS instruments reduction package  | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 day ago | Reduction scripts for the Liquids Reflectometer | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | 2 days ago | The ORNL SANS instruments reduction package  | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 week ago | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 2 weeks ago | Reduction scripts for the Liquids Reflectometer | 
 | [bumps/bumps](https://github.com/bumps/bumps) | 2 weeks ago | Data fitting with uncertainty analysis | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
