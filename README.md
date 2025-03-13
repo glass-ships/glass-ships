@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 day ago |  | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 days ago |  | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 5 days ago | Magnetism reflectometry reduction application. | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 5 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 5 days ago | General shell-agnostic configuration for personalized terminal environments | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 days ago |  | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 4 days ago |  | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 6 days ago | Magnetism reflectometry reduction application. | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 6 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 6 days ago | General shell-agnostic configuration for personalized terminal environments | 
 
 
 ### 🚀 Recent releases I contributed to
