@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 5 days ago | Main repository for Mantid code | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 6 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 6 days ago | Main repository for Mantid code | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.12.20250313.1634](https://github.com/mantidproject/mantid/releases/tag/v6.12.20250313.1634) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.12.20250314.1925](https://github.com/mantidproject/mantid/releases/tag/v6.12.20250314.1925) | Main repository for Mantid code | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2025-03-10](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2025-03-10) |  | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.13.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.13.0) | Monarch Initiative website and API | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2025-02-17](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2025-02-17) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
