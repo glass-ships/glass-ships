@@ -25,7 +25,7 @@
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 week ago | Main repository for Mantid code | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 weeks ago |  | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 weeks ago | Magnetism reflectometry reduction application. | 
 
 
@@ -33,8 +33,8 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.12.20250321.0927](https://github.com/mantidproject/mantid/releases/tag/v6.12.20250321.0927) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2025-03-10](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2025-03-10) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.12.20250320.1713](https://github.com/mantidproject/mantid/releases/tag/v6.12.20250320.1713) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.14.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.14.0) | Monarch Initiative website and API | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2025-03-10](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2025-03-10) |  | 
 | [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | [1.4](https://github.com/neutrons/live_data_server/releases/tag/1.4) | Data server for data plots | 
