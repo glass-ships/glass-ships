@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 3 days ago | General shell-agnostic configuration for personalized terminal environments | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 4 days ago | Magnetism reflectometry reduction application. | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 5 days ago | Main repository for Mantid code | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 4 days ago | General shell-agnostic configuration for personalized terminal environments | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 4 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 5 days ago | Magnetism reflectometry reduction application. | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 6 days ago | Main repository for Mantid code | 
 | [neutrons/SNAPRed](https://github.com/neutrons/SNAPRed) | 2 weeks ago | A desktop application for Lifecycle Managment of data collected from the SNAP instrument. Planned to include: Reduction, Calibration, Data Exploration, and Diagnosis | 
 
 
