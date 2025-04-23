@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 5 days ago | General shell-agnostic configuration for personalized terminal environments | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 5 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 6 days ago | Magnetism reflectometry reduction application. | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 6 days ago | General shell-agnostic configuration for personalized terminal environments | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 6 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 week ago | Main repository for Mantid code | 
 | [neutrons/SNAPRed](https://github.com/neutrons/SNAPRed) | 2 weeks ago | A desktop application for Lifecycle Managment of data collected from the SNAP instrument. Planned to include: Reduction, Calibration, Data Exploration, and Diagnosis | 
 
@@ -33,8 +33,8 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.12.20250421.1909](https://github.com/mantidproject/mantid/releases/tag/v6.12.20250421.1909) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.15.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.15.0) | Monarch Initiative website and API | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.12.20250417.1611](https://github.com/mantidproject/mantid/releases/tag/v6.12.20250417.1611) | Main repository for Mantid code | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2025-04-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2025-04-03) |  | 
 | [neutrons/SNAPRed](https://github.com/neutrons/SNAPRed) | [v1.1.0](https://github.com/neutrons/SNAPRed/releases/tag/v1.1.0) | A desktop application for Lifecycle Managment of data collected from the SNAP instrument. Planned to include: Reduction, Calibration, Data Exploration, and Diagnosis | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2025-03-10](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2025-03-10) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
