@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 1 day ago | General shell-agnostic configuration for personalized terminal environments | 
+| [mystr0man/d2-chess-puzzle](https://github.com/mystr0man/d2-chess-puzzle) | 1 day ago | A python script written to assemble images used in a Destiny 2 ARG from 2025 | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 1 week ago | General shell-agnostic configuration for personalized terminal environments | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 weeks ago | Main repository for Mantid code | 
-| [neutrons/SNAPRed](https://github.com/neutrons/SNAPRed) | 3 weeks ago | A desktop application for Lifecycle Managment of data collected from the SNAP instrument. Planned to include: Reduction, Calibration, Data Exploration, and Diagnosis | 
 
 
 ### 🚀 Recent releases I contributed to
