@@ -22,20 +22,20 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 day ago | Main repository for Mantid code | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 2 days ago | Reduction scripts for the Liquids Reflectometer | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 2 days ago | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 days ago | Magnetism reflectometry reduction application. | 
-| [mystr0man/d2-chess-puzzle](https://github.com/mystr0man/d2-chess-puzzle) | 3 days ago | A python script written to assemble images used in a Destiny 2 ARG from 2025 | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 days ago | Main repository for Mantid code | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 3 days ago | Reduction scripts for the Liquids Reflectometer | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 3 days ago | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 days ago | Magnetism reflectometry reduction application. | 
+| [mystr0man/d2-chess-puzzle](https://github.com/mystr0man/d2-chess-puzzle) | 4 days ago | A python script written to assemble images used in a Destiny 2 ARG from 2025 | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.12.20250430.1325](https://github.com/mantidproject/mantid/releases/tag/v6.12.20250430.1325) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.12.20250502.1726](https://github.com/mantidproject/mantid/releases/tag/v6.12.20250502.1726) | Main repository for Mantid code | 
+| [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2025-05-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2025-05-03) |  | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.15.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.15.0) | Monarch Initiative website and API | 
-| [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2025-04-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2025-04-03) |  | 
 | [neutrons/SNAPRed](https://github.com/neutrons/SNAPRed) | [v1.1.0](https://github.com/neutrons/SNAPRed/releases/tag/v1.1.0) | A desktop application for Lifecycle Managment of data collected from the SNAP instrument. Planned to include: Reduction, Calibration, Data Exploration, and Diagnosis | 
 | [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2025-03-10](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2025-03-10) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
 
