@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 1 day ago | General shell-agnostic configuration for personalized terminal environments | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 day ago |  | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 4 days ago | Magnetism reflectometry reduction application. | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 4 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 2 days ago | General shell-agnostic configuration for personalized terminal environments | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 days ago |  | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 5 days ago | Magnetism reflectometry reduction application. | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 5 days ago | Reduction code for the SNS Magnetism Reflectometer | 
 
 
 ### 🚀 Recent releases I contributed to
