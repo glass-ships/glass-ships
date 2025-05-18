@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 days ago | Main repository for Mantid code | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 3 days ago |  | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 5 days ago | General shell-agnostic configuration for personalized terminal environments | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 5 days ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 3 days ago | Main repository for Mantid code | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 4 days ago |  | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 6 days ago | General shell-agnostic configuration for personalized terminal environments | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 6 days ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.12.20250516.1919](https://github.com/mantidproject/mantid/releases/tag/v6.12.20250516.1919) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.16.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.16.0) | Monarch Initiative website and API | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.12.20250514.1956](https://github.com/mantidproject/mantid/releases/tag/v6.12.20250514.1956) | Main repository for Mantid code | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2025-05-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2025-05-03) |  | 
 | [neutrons/SNAPRed](https://github.com/neutrons/SNAPRed) | [v1.1.0](https://github.com/neutrons/SNAPRed/releases/tag/v1.1.0) | A desktop application for Lifecycle Managment of data collected from the SNAP instrument. Planned to include: Reduction, Calibration, Data Exploration, and Diagnosis | 
-| [monarch-initiative/monarch-ingest](https://github.com/monarch-initiative/monarch-ingest) | [2025-03-10](https://github.com/monarch-initiative/monarch-ingest/releases/tag/2025-03-10) | Data ingest application for Monarch Initiative knowledge graph using Koza | 
+| [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | [1.4](https://github.com/neutrons/live_data_server/releases/tag/1.4) | Data server for data plots | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
