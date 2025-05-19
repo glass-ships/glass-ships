@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 3 days ago | Main repository for Mantid code | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 4 days ago |  | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 6 days ago | General shell-agnostic configuration for personalized terminal environments | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 6 days ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 4 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 4 days ago | Main repository for Mantid code | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 5 days ago |  | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 1 week ago | General shell-agnostic configuration for personalized terminal environments | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
