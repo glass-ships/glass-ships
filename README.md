@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 day ago | Magnetism reflectometry reduction application. | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 weeks ago | Main repository for Mantid code | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 weeks ago |  | 
