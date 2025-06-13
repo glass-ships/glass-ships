@@ -22,20 +22,20 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 1 day ago | General shell-agnostic configuration for personalized terminal environments | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 day ago |  | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 4 days ago |  | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 day ago | Magnetism reflectometry reduction application. | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 day ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 days ago |  | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 2 days ago | General shell-agnostic configuration for personalized terminal environments | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.17.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.17.0) | Monarch Initiative website and API | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.12.20250609.0805](https://github.com/mantidproject/mantid/releases/tag/v6.12.20250609.0805) | Main repository for Mantid code | 
 | [monarch-initiative/ncbi-gene](https://github.com/monarch-initiative/ncbi-gene) | [2025-06-03](https://github.com/monarch-initiative/ncbi-gene/releases/tag/2025-06-03) |  | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.16.3](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.16.3) | Monarch Initiative website and API | 
 | [neutrons/SNAPRed](https://github.com/neutrons/SNAPRed) | [v1.1.0](https://github.com/neutrons/SNAPRed/releases/tag/v1.1.0) | A desktop application for Lifecycle Managment of data collected from the SNAP instrument. Planned to include: Reduction, Calibration, Data Exploration, and Diagnosis | 
 | [neutrons/live_data_server](https://github.com/neutrons/live_data_server) | [1.4](https://github.com/neutrons/live_data_server/releases/tag/1.4) | Data server for data plots | 
 
