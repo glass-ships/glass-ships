@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [bumps/bumps](https://github.com/bumps/bumps) | 1 day ago | Data fitting with uncertainty analysis | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 days ago | Monarch Initiative website and API | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 5 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | 5 days ago | Configuration based file caching downloader | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 5 days ago | Magnetism reflectometry reduction application. | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 2 days ago | Data fitting with uncertainty analysis | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 5 days ago | Monarch Initiative website and API | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 6 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [monarch-initiative/kghub-downloader](https://github.com/monarch-initiative/kghub-downloader) | 6 days ago | Configuration based file caching downloader | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 6 days ago | Magnetism reflectometry reduction application. | 
 
 
 ### 🚀 Recent releases I contributed to
