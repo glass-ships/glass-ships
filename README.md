@@ -22,20 +22,20 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 2 days ago | Data Reduction Software for the Liquids Reflectometer | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 6 days ago | Monarch Initiative website and API | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 6 days ago | Magnetism reflectometry reduction application. | 
-| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 6 days ago | This repository is a template repository for Python projects under neutrons. | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 day ago | Reduction scripts for the Liquids Reflectometer | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 3 days ago | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 1 week ago | This repository is a template repository for Python projects under neutrons. | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative website and API | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.12.20250627.1705](https://github.com/mantidproject/mantid/releases/tag/v6.12.20250627.1705) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.12.20250630.0858](https://github.com/mantidproject/mantid/releases/tag/v6.12.20250630.0858) | Main repository for Mantid code | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.4.0rc2](https://github.com/neutrons/RefRed/releases/tag/v5.4.0rc2) | Data Reduction Software for the Liquids Reflectometer | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.1](https://github.com/bumps/bumps/releases/tag/v1.0.1) | Data fitting with uncertainty analysis | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.4.0rc1](https://github.com/neutrons/RefRed/releases/tag/v5.4.0rc1) | Data Reduction Software for the Liquids Reflectometer | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.17.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.17.0) | Monarch Initiative website and API | 
 | [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | [v1.1.0](https://github.com/neutrons/python_project_template/releases/tag/v1.1.0) | This repository is a template repository for Python projects under neutrons. | 
 
