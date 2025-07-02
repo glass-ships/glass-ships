@@ -48,4 +48,3 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           COMMIT_MESSAGE: "Update credly badges"
-          CREDLY_SORT: POPULAR
