@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 day ago | Reduction scripts for the Liquids Reflectometer | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 day ago | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 days ago | Magnetism reflectometry reduction application. | 
-| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 3 days ago | This repository is a template repository for Python projects under neutrons. | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 2 days ago | Reduction scripts for the Liquids Reflectometer | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 2 days ago | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 days ago | Magnetism reflectometry reduction application. | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 4 days ago | This repository is a template repository for Python projects under neutrons. | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 week ago | Monarch Initiative website and API | 
 
 
