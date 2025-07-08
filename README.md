@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 day ago |  | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 days ago |  | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 4 days ago | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 4 days ago | Reduction scripts for the Liquids Reflectometer | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 5 days ago | Magnetism reflectometry reduction application. | 
+| [glass-ships/conda-verify](https://github.com/glass-ships/conda-verify) | 1 day ago | A GitHub action to verify that a conda package is installable | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 day ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 day ago | Data Reduction Software for the Liquids Reflectometer | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 days ago |  | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 3 days ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.13.0](https://github.com/mantidproject/mantid/releases/tag/v6.13.0) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.4.0rc2](https://github.com/neutrons/RefRed/releases/tag/v5.4.0rc2) | Data Reduction Software for the Liquids Reflectometer | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.1](https://github.com/bumps/bumps/releases/tag/v1.0.1) | Data fitting with uncertainty analysis | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.17.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.17.0) | Monarch Initiative website and API | 
 | [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | [v1.1.0](https://github.com/neutrons/python_project_template/releases/tag/v1.1.0) | This repository is a template repository for Python projects under neutrons. | 
-| [neutrons/SNAPRed](https://github.com/neutrons/SNAPRed) | [v1.1.0](https://github.com/neutrons/SNAPRed/releases/tag/v1.1.0) | A desktop application for Lifecycle Managment of data collected from the SNAP instrument. Planned to include: Reduction, Calibration, Data Exploration, and Diagnosis | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
