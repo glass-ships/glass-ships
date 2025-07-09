@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/conda-verify](https://github.com/glass-ships/conda-verify) | 1 day ago | A GitHub action to verify that a conda package is installable | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 day ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 day ago | Data Reduction Software for the Liquids Reflectometer | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 days ago |  | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 3 days ago |  | 
+| [neutrons/garnet](https://github.com/neutrons/garnet) | 1 day ago | The Single Crystal Graphical Advanced Reduction Neutron Event Toolkit Project | 
+| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 1 day ago | A GitHub action to verify that a conda package is installable | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 day ago | Main repository for Mantid code | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 2 days ago | Data Reduction Software for the Liquids Reflectometer | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | [v0.1.0](https://github.com/neutrons/conda-verify/releases/tag/v0.1.0) | A GitHub action to verify that a conda package is installable | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.13.0](https://github.com/mantidproject/mantid/releases/tag/v6.13.0) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.4.0rc2](https://github.com/neutrons/RefRed/releases/tag/v5.4.0rc2) | Data Reduction Software for the Liquids Reflectometer | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.1](https://github.com/bumps/bumps/releases/tag/v1.0.1) | Data fitting with uncertainty analysis | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.17.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.17.0) | Monarch Initiative website and API | 
-| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | [v1.1.0](https://github.com/neutrons/python_project_template/releases/tag/v1.1.0) | This repository is a template repository for Python projects under neutrons. | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
