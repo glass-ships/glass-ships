@@ -22,18 +22,18 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 1 day ago | A GitHub action to verify that a conda package is installable | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 2 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 2 days ago | General shell-agnostic configuration for personalized terminal environments | 
-| [neutrons/garnet](https://github.com/neutrons/garnet) | 3 days ago | The Single Crystal Graphical Advanced Reduction Neutron Event Toolkit Project | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 day ago | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/garnet](https://github.com/neutrons/garnet) | 1 day ago | The Single Crystal Graphical Advanced Reduction Neutron Event Toolkit Project | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 day ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 2 days ago | A GitHub action to verify that a conda package is installable | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.2a0](https://github.com/bumps/bumps/releases/tag/v1.0.2a0) | Data fitting with uncertainty analysis | 
+| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.2rc0](https://github.com/bumps/bumps/releases/tag/v1.0.2rc0) | Data fitting with uncertainty analysis | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.2.2](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.2.2) | Rust web server for Semsimian - a semantic similarity implementation | 
 | [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | [v0.1.0](https://github.com/neutrons/conda-verify/releases/tag/v0.1.0) | A GitHub action to verify that a conda package is installable | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.13.0](https://github.com/mantidproject/mantid/releases/tag/v6.13.0) | Main repository for Mantid code | 
