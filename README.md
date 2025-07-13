@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 day ago | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/garnet](https://github.com/neutrons/garnet) | 1 day ago | The Single Crystal Graphical Advanced Reduction Neutron Event Toolkit Project | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 day ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 2 days ago | A GitHub action to verify that a conda package is installable | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 2 days ago | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/garnet](https://github.com/neutrons/garnet) | 2 days ago | The Single Crystal Graphical Advanced Reduction Neutron Event Toolkit Project | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 3 days ago | A GitHub action to verify that a conda package is installable | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 4 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
 ### 🚀 Recent releases I contributed to
