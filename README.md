@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 3 days ago | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/garnet](https://github.com/neutrons/garnet) | 3 days ago | The Single Crystal Graphical Advanced Reduction Neutron Event Toolkit Project | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 3 days ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 4 days ago | A GitHub action to verify that a conda package is installable | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 5 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 4 days ago | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/garnet](https://github.com/neutrons/garnet) | 4 days ago | The Single Crystal Graphical Advanced Reduction Neutron Event Toolkit Project | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 4 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 5 days ago | A GitHub action to verify that a conda package is installable | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 6 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.2rc0](https://github.com/bumps/bumps/releases/tag/v1.0.2rc0) | Data fitting with uncertainty analysis | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.18.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.18.0) | Monarch Initiative website and API | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.10.0rc1](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.10.0rc1) | Reduction code for the SNS Magnetism Reflectometer | 
+| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.2](https://github.com/bumps/bumps/releases/tag/v1.0.2) | Data fitting with uncertainty analysis | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.2.2](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.2.2) | Rust web server for Semsimian - a semantic similarity implementation | 
 | [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | [v0.1.0](https://github.com/neutrons/conda-verify/releases/tag/v0.1.0) | A GitHub action to verify that a conda package is installable | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.13.0](https://github.com/mantidproject/mantid/releases/tag/v6.13.0) | Main repository for Mantid code | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.4.0rc2](https://github.com/neutrons/RefRed/releases/tag/v5.4.0rc2) | Data Reduction Software for the Liquids Reflectometer | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
