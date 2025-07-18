@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 6 days ago | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/garnet](https://github.com/neutrons/garnet) | 6 days ago | The Single Crystal Graphical Advanced Reduction Neutron Event Toolkit Project | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 6 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 day ago | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/garnet](https://github.com/neutrons/garnet) | 1 week ago | The Single Crystal Graphical Advanced Reduction Neutron Event Toolkit Project | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 1 week ago | A GitHub action to verify that a conda package is installable | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.4.0rc4](https://github.com/neutrons/RefRed/releases/tag/v5.4.0rc4) | Data Reduction Software for the Liquids Reflectometer | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.13.20250717.0031](https://github.com/mantidproject/mantid/releases/tag/v6.13.20250717.0031) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.18.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.18.0) | Monarch Initiative website and API | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.10.0rc1](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.10.0rc1) | Reduction code for the SNS Magnetism Reflectometer | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.2](https://github.com/bumps/bumps/releases/tag/v1.0.2) | Data fitting with uncertainty analysis | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.2.2](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.2.2) | Rust web server for Semsimian - a semantic similarity implementation | 
-| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | [v0.1.0](https://github.com/neutrons/conda-verify/releases/tag/v0.1.0) | A GitHub action to verify that a conda package is installable | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
