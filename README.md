@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 day ago | Reduction scripts for the Liquids Reflectometer | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 day ago | Magnetism reflectometry reduction application. | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 day ago | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 2 days ago | Reduction scripts for the Liquids Reflectometer | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 days ago | Magnetism reflectometry reduction application. | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 2 days ago | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/garnet](https://github.com/neutrons/garnet) | 1 week ago | The Single Crystal Graphical Advanced Reduction Neutron Event Toolkit Project | 
 
@@ -33,10 +33,10 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.13.20250718.1149](https://github.com/mantidproject/mantid/releases/tag/v6.13.20250718.1149) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.4.0rc5](https://github.com/neutrons/RefRed/releases/tag/v5.4.0rc5) | Data Reduction Software for the Liquids Reflectometer | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.19.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.19.0-rc1) | Monarch Initiative website and API | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.7.0](https://github.com/neutrons/quicknxs/releases/tag/v4.7.0) | Magnetism reflectometry reduction application. | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.13.20250717.0031](https://github.com/mantidproject/mantid/releases/tag/v6.13.20250717.0031) | Main repository for Mantid code | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.10.0rc1](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.10.0rc1) | Reduction code for the SNS Magnetism Reflectometer | 
 
 ### 🌱 I’m currently learning
