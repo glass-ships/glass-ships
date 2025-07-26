@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 2 days ago | A GitHub action to verify that a conda package is installable | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 3 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 4 days ago | Magnetism reflectometry reduction application. | 
+| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 3 days ago | A GitHub action to verify that a conda package is installable | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 4 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 5 days ago | Magnetism reflectometry reduction application. | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 week ago | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 week ago | Reduction scripts for the Liquids Reflectometer | 
 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.13.1](https://github.com/mantidproject/mantid/releases/tag/v6.13.1) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.13.20250724.2030](https://github.com/mantidproject/mantid/releases/tag/v6.13.20250724.2030) | Main repository for Mantid code | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.3.0rc1](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.3.0rc1) | Reduction scripts for the Liquids Reflectometer | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.4.0rc5](https://github.com/neutrons/RefRed/releases/tag/v5.4.0rc5) | Data Reduction Software for the Liquids Reflectometer | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.19.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.19.0-rc1) | Monarch Initiative website and API | 
