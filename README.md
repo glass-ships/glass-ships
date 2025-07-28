@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 4 days ago | A GitHub action to verify that a conda package is installable | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 5 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 6 days ago | Magnetism reflectometry reduction application. | 
+| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 5 days ago | A GitHub action to verify that a conda package is installable | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 6 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 week ago | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 week ago | Reduction scripts for the Liquids Reflectometer | 
 
