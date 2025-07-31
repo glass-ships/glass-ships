@@ -22,22 +22,21 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 1 week ago | A GitHub action to verify that a conda package is installable | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 week ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 week ago | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 1 day ago | A GitHub action to verify that a conda package is installable | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 1 day ago | This repository is a template repository for Python projects under neutrons. | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/garnet](https://github.com/neutrons/garnet) | 2 weeks ago | The Single Crystal Graphical Advanced Reduction Neutron Event Toolkit Project | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.4.0](https://github.com/neutrons/RefRed/releases/tag/v5.4.0) | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.9.0rc1](https://github.com/neutrons/quicknxs/releases/tag/v4.9.0rc1) | Magnetism reflectometry reduction application. | 
+| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | [v0.1.1](https://github.com/neutrons/conda-verify/releases/tag/v0.1.1) | A GitHub action to verify that a conda package is installable | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.10.0](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.10.0) | Reduction code for the SNS Magnetism Reflectometer | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.13.20250724.2030](https://github.com/mantidproject/mantid/releases/tag/v6.13.20250724.2030) | Main repository for Mantid code | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.3.0rc1](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.3.0rc1) | Reduction scripts for the Liquids Reflectometer | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.2.2](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.2.2) | Rust web server for Semsimian - a semantic similarity implementation | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | [v1.1.0](https://github.com/neutrons/python_project_template/releases/tag/v1.1.0) | This repository is a template repository for Python projects under neutrons. | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
