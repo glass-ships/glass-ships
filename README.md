@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 1 day ago | A GitHub action to verify that a conda package is installable | 
-| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 1 day ago | This repository is a template repository for Python projects under neutrons. | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [neutrons/garnet](https://github.com/neutrons/garnet) | 2 weeks ago | The Single Crystal Graphical Advanced Reduction Neutron Event Toolkit Project | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 2 days ago | A GitHub action to verify that a conda package is installable | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 2 days ago | This repository is a template repository for Python projects under neutrons. | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/garnet](https://github.com/neutrons/garnet) | 3 weeks ago | The Single Crystal Graphical Advanced Reduction Neutron Event Toolkit Project | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 3 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
 
 
 ### 🚀 Recent releases I contributed to
