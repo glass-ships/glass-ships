@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 1 day ago | A GitHub action to verify that a conda package is installable | 
-| [neutrons/pystog](https://github.com/neutrons/pystog) | 1 day ago | PyStoG: Total scattering function manipulator | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 1 day ago | General shell-agnostic configuration for personalized terminal environments | 
-| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 3 days ago | This repository is a template repository for Python projects under neutrons. | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 4 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 2 days ago | A GitHub action to verify that a conda package is installable | 
+| [neutrons/pystog](https://github.com/neutrons/pystog) | 2 days ago | PyStoG: Total scattering function manipulator | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 2 days ago | General shell-agnostic configuration for personalized terminal environments | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 4 days ago | This repository is a template repository for Python projects under neutrons. | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 5 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
 ### 🚀 Recent releases I contributed to
