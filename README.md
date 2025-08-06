@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 4 days ago | A GitHub action to verify that a conda package is installable | 
-| [neutrons/pystog](https://github.com/neutrons/pystog) | 4 days ago | PyStoG: Total scattering function manipulator | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 4 days ago | General shell-agnostic configuration for personalized terminal environments | 
-| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 6 days ago | This repository is a template repository for Python projects under neutrons. | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
+| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 5 days ago | A GitHub action to verify that a conda package is installable | 
+| [neutrons/pystog](https://github.com/neutrons/pystog) | 5 days ago | PyStoG: Total scattering function manipulator | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 5 days ago | General shell-agnostic configuration for personalized terminal environments | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 1 week ago | This repository is a template repository for Python projects under neutrons. | 
 
 
 ### 🚀 Recent releases I contributed to
@@ -35,9 +35,9 @@
 |---|:-:|---| 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.11.0rc1](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.11.0rc1) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | [v0.1.1](https://github.com/neutrons/conda-verify/releases/tag/v0.1.1) | A GitHub action to verify that a conda package is installable | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.19.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.19.0-rc1) | Monarch Initiative website and API | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.2.2](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.2.2) | Rust web server for Semsimian - a semantic similarity implementation | 
 | [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | [v1.1.0](https://github.com/neutrons/python_project_template/releases/tag/v1.1.0) | This repository is a template repository for Python projects under neutrons. | 
-| [neutrons/pystog](https://github.com/neutrons/pystog) | [v0.3.6](https://github.com/neutrons/pystog/releases/tag/v0.3.6) | PyStoG: Total scattering function manipulator | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
