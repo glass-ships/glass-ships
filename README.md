@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 1 day ago | Monarch Initiative website and API | 
-| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 5 days ago | A GitHub action to verify that a conda package is installable | 
-| [neutrons/pystog](https://github.com/neutrons/pystog) | 5 days ago | PyStoG: Total scattering function manipulator | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 5 days ago | General shell-agnostic configuration for personalized terminal environments | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 1 day ago | General shell-agnostic configuration for personalized terminal environments | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 2 days ago | Monarch Initiative website and API | 
+| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 6 days ago | A GitHub action to verify that a conda package is installable | 
+| [neutrons/pystog](https://github.com/neutrons/pystog) | 6 days ago | PyStoG: Total scattering function manipulator | 
 | [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 1 week ago | This repository is a template repository for Python projects under neutrons. | 
 
 
