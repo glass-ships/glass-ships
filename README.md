@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 day ago |  | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 2 days ago | General shell-agnostic configuration for personalized terminal environments | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 3 days ago | Monarch Initiative website and API | 
-| [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | 1 week ago | A GitHub action to verify that a conda package is installable | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 days ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 3 days ago | General shell-agnostic configuration for personalized terminal environments | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 days ago | Monarch Initiative website and API | 
+| [neutrons/pystog](https://github.com/neutrons/pystog) | 1 week ago | PyStoG: Total scattering function manipulator | 
 
 
 ### 🚀 Recent releases I contributed to
