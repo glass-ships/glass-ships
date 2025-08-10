@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 days ago |  | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 3 days ago | General shell-agnostic configuration for personalized terminal environments | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 4 days ago | Monarch Initiative website and API | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 days ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 4 days ago | General shell-agnostic configuration for personalized terminal environments | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | 5 days ago | Monarch Initiative website and API | 
 | [neutrons/pystog](https://github.com/neutrons/pystog) | 1 week ago | PyStoG: Total scattering function manipulator | 
 
 
