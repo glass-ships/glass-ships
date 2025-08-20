@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 day ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 5 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 day ago |  | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 2 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 6 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 week ago | Data Reduction Software for the Liquids Reflectometer | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 1 week ago | General shell-agnostic configuration for personalized terminal environments | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 2 weeks ago | General shell-agnostic configuration for personalized terminal environments | 
 
 
 ### 🚀 Recent releases I contributed to
