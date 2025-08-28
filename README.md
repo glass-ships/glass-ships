@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 2 days ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 day ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [monarch-initiative/monarch-documentation](https://github.com/monarch-initiative/monarch-documentation) | 3 days ago | Technical documentation for all Monarch applications, packages, services and related projects. | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 week ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 2 weeks ago | Data Reduction Software for the Liquids Reflectometer | 
 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.2.3](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.2.3) | Rust web server for Semsimian - a semantic similarity implementation | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.12.0rc1](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.12.0rc1) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/conda-verify](https://github.com/neutrons/conda-verify) | [v0.1.2](https://github.com/neutrons/conda-verify/releases/tag/v0.1.2) | A GitHub action to verify that a conda package is installable | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.4.0](https://github.com/neutrons/RefRed/releases/tag/v5.4.0) | Data Reduction Software for the Liquids Reflectometer | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.19.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.19.0-rc1) | Monarch Initiative website and API | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.2.2](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.2.2) | Rust web server for Semsimian - a semantic similarity implementation | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
