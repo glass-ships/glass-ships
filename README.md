@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 5 days ago | Data Reduction Software for the Liquids Reflectometer | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 6 days ago |  | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 day ago |  | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 6 days ago | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 week ago | Rust web server for Semsimian - a semantic similarity implementation | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.13.0rc1](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.13.0rc1) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.17.0rc2](https://github.com/neutrons/drtsans/releases/tag/v1.17.0rc2) | The ORNL SANS instruments reduction package  | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.5.0rc1](https://github.com/neutrons/RefRed/releases/tag/v5.5.0rc1) | Data Reduction Software for the Liquids Reflectometer | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.20](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.20) | Monarch Initiative website and API | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.2.3](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.2.3) | Rust web server for Semsimian - a semantic similarity implementation | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.12.0rc1](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.12.0rc1) | Reduction code for the SNS Magnetism Reflectometer | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
