@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 day ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 days ago |  | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 week ago | Rust web server for Semsimian - a semantic similarity implementation | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 2 weeks ago | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 weeks ago | Magnetism reflectometry reduction application. | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
 ### 🚀 Recent releases I contributed to
