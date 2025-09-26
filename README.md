@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [bumps/bumps](https://github.com/bumps/bumps) | 1 day ago | Data fitting with uncertainty analysis | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 5 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 6 days ago |  | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 week ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 3 weeks ago | Data Reduction Software for the Liquids Reflectometer | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 day ago | 1-D reflectometry fitting | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 3 days ago | Data fitting with uncertainty analysis | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 2 weeks ago | Rust web server for Semsimian - a semantic similarity implementation | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.3](https://github.com/bumps/bumps/releases/tag/v1.0.3) | Data fitting with uncertainty analysis | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.10.0](https://github.com/neutrons/quicknxs/releases/tag/v4.10.0) | Magnetism reflectometry reduction application. | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.5.0](https://github.com/neutrons/RefRed/releases/tag/v5.5.0) | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.17.0](https://github.com/neutrons/drtsans/releases/tag/v1.17.0) | The ORNL SANS instruments reduction package  | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.14.0rc1](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.14.0rc1) | Reduction code for the SNS Magnetism Reflectometer | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.2.4](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.2.4) | Rust web server for Semsimian - a semantic similarity implementation | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
