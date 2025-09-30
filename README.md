@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 4 days ago | 1-D reflectometry fitting | 
-| [bumps/bumps](https://github.com/bumps/bumps) | 6 days ago | Data fitting with uncertainty analysis | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 5 days ago | 1-D reflectometry fitting | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 1 week ago | Data fitting with uncertainty analysis | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 2 weeks ago | Rust web server for Semsimian - a semantic similarity implementation | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.14.0](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.14.0) | Reduction code for the SNS Magnetism Reflectometer | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.3](https://github.com/bumps/bumps/releases/tag/v1.0.3) | Data fitting with uncertainty analysis | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.10.0](https://github.com/neutrons/quicknxs/releases/tag/v4.10.0) | Magnetism reflectometry reduction application. | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.5.0](https://github.com/neutrons/RefRed/releases/tag/v5.5.0) | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.17.0](https://github.com/neutrons/drtsans/releases/tag/v1.17.0) | The ORNL SANS instruments reduction package  | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.14.0rc1](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.14.0rc1) | Reduction code for the SNS Magnetism Reflectometer | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
