@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 5 days ago | 1-D reflectometry fitting | 
-| [bumps/bumps](https://github.com/bumps/bumps) | 1 week ago | Data fitting with uncertainty analysis | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 1 day ago | Data fitting with uncertainty analysis | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 6 days ago | 1-D reflectometry fitting | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 2 weeks ago | Rust web server for Semsimian - a semantic similarity implementation | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.21.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.21.0) | Monarch Initiative website and API | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.0](https://github.com/reflectometry/refl1d/releases/tag/v1.0.0) | 1-D reflectometry fitting | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.6.0rc1](https://github.com/neutrons/RefRed/releases/tag/v5.6.0rc1) | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.14.0](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.14.0) | Reduction code for the SNS Magnetism Reflectometer | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.3](https://github.com/bumps/bumps/releases/tag/v1.0.3) | Data fitting with uncertainty analysis | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.10.0](https://github.com/neutrons/quicknxs/releases/tag/v4.10.0) | Magnetism reflectometry reduction application. | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.5.0](https://github.com/neutrons/RefRed/releases/tag/v5.5.0) | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.17.0](https://github.com/neutrons/drtsans/releases/tag/v1.17.0) | The ORNL SANS instruments reduction package  | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
