@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 3 days ago |  | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 4 days ago |  | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
-| [bumps/bumps](https://github.com/bumps/bumps) | 2 weeks ago | Data fitting with uncertainty analysis | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 3 weeks ago | Data fitting with uncertainty analysis | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 3 weeks ago | 1-D reflectometry fitting | 
 
 
@@ -33,10 +33,10 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.18.0rc2](https://github.com/neutrons/drtsans/releases/tag/v1.18.0rc2) | The ORNL SANS instruments reduction package  | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.12.0rc1](https://github.com/neutrons/quicknxs/releases/tag/v4.12.0rc1) | Magnetism reflectometry reduction application. | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.6.0rc3](https://github.com/neutrons/RefRed/releases/tag/v5.6.0rc3) | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.12.0](https://github.com/neutrons/quicknxs/releases/tag/v4.12.0) | Magnetism reflectometry reduction application. | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.18.0](https://github.com/neutrons/drtsans/releases/tag/v1.18.0) | The ORNL SANS instruments reduction package  | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.15.0rc1](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.15.0rc1) | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.6.0rc2](https://github.com/neutrons/RefRed/releases/tag/v5.6.0rc2) | Data Reduction Software for the Liquids Reflectometer | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.21.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.21.0) | Monarch Initiative website and API | 
 
 ### 🌱 I’m currently learning
