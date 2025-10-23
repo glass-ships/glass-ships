@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 5 days ago |  | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 day ago | Magnetism reflectometry reduction application. | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 6 days ago |  | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 weeks ago | Magnetism reflectometry reduction application. | 
 | [bumps/bumps](https://github.com/bumps/bumps) | 3 weeks ago | Data fitting with uncertainty analysis | 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 3 weeks ago | 1-D reflectometry fitting | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 4 weeks ago | 1-D reflectometry fitting | 
 
 
 ### 🚀 Recent releases I contributed to
