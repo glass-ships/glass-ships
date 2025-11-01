@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/pystog](https://github.com/neutrons/pystog) | 2 days ago | PyStoG: Total scattering function manipulator | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 day ago | Main repository for Mantid code | 
+| [neutrons/pystog](https://github.com/neutrons/pystog) | 3 days ago | PyStoG: Total scattering function manipulator | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 3 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [bumps/bumps](https://github.com/bumps/bumps) | 1 month ago | Data fitting with uncertainty analysis | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20251027.2219](https://github.com/mantidproject/mantid/releases/tag/v6.14.20251027.2219) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.6.0rc4](https://github.com/neutrons/RefRed/releases/tag/v5.6.0rc4) | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.15.0rc2](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.15.0rc2) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.13.0rc3](https://github.com/neutrons/quicknxs/releases/tag/v4.13.0rc3) | Magnetism reflectometry reduction application. | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.19.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.19.0rc1) | The ORNL SANS instruments reduction package  | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.21.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.21.0) | Monarch Initiative website and API | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
