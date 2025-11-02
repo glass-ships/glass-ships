@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 day ago | Main repository for Mantid code | 
-| [neutrons/pystog](https://github.com/neutrons/pystog) | 3 days ago | PyStoG: Total scattering function manipulator | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 day ago |  | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 days ago | Main repository for Mantid code | 
+| [neutrons/pystog](https://github.com/neutrons/pystog) | 4 days ago | PyStoG: Total scattering function manipulator | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 3 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
 
 
