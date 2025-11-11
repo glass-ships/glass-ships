@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [bumps/bumps](https://github.com/bumps/bumps) | 4 days ago | Data fitting with uncertainty analysis | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 6 days ago | Magnetism reflectometry reduction application. | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 5 days ago | Data fitting with uncertainty analysis | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 week ago | Main repository for Mantid code | 
 | [neutrons/pystog](https://github.com/neutrons/pystog) | 1 week ago | PyStoG: Total scattering function manipulator | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.20.0](https://github.com/neutrons/drtsans/releases/tag/v1.20.0) | The ORNL SANS instruments reduction package  | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.13.0rc4](https://github.com/neutrons/quicknxs/releases/tag/v4.13.0rc4) | Magnetism reflectometry reduction application. | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20251105.2153](https://github.com/mantidproject/mantid/releases/tag/v6.14.20251105.2153) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.7.0rc1](https://github.com/neutrons/RefRed/releases/tag/v5.7.0rc1) | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.15.0](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.15.0) | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.20.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.20.0rc1) | The ORNL SANS instruments reduction package  | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.13.0rc3](https://github.com/neutrons/quicknxs/releases/tag/v4.13.0rc3) | Magnetism reflectometry reduction application. | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
