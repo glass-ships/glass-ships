@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.21.0](https://github.com/neutrons/drtsans/releases/tag/v1.21.0) | The ORNL SANS instruments reduction package  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20251120.1948](https://github.com/mantidproject/mantid/releases/tag/v6.14.20251120.1948) | Main repository for Mantid code | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.1a1](https://github.com/reflectometry/refl1d/releases/tag/v1.0.1a1) | 1-D reflectometry fitting | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.7.0](https://github.com/neutrons/RefRed/releases/tag/v5.7.0) | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.13.0rc5](https://github.com/neutrons/quicknxs/releases/tag/v4.13.0rc5) | Magnetism reflectometry reduction application. | 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.21.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.21.0rc1) | The ORNL SANS instruments reduction package  | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
