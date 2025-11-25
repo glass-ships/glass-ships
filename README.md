@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 day ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [bumps/bumps](https://github.com/bumps/bumps) | 1 week ago | Data fitting with uncertainty analysis | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 weeks ago | Magnetism reflectometry reduction application. | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 weeks ago | Magnetism reflectometry reduction application. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 3 weeks ago |  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 3 weeks ago | Main repository for Mantid code | 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.21.0](https://github.com/neutrons/drtsans/releases/tag/v1.21.0) | The ORNL SANS instruments reduction package  | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.8.0rc2](https://github.com/neutrons/RefRed/releases/tag/v5.8.0rc2) | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.22.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.22.0rc1) | The ORNL SANS instruments reduction package  | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.16.0rc1](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.16.0rc1) | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.13.0rc6](https://github.com/neutrons/quicknxs/releases/tag/v4.13.0rc6) | Magnetism reflectometry reduction application. | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20251120.1948](https://github.com/mantidproject/mantid/releases/tag/v6.14.20251120.1948) | Main repository for Mantid code | 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.1a1](https://github.com/reflectometry/refl1d/releases/tag/v1.0.1a1) | 1-D reflectometry fitting | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.7.0](https://github.com/neutrons/RefRed/releases/tag/v5.7.0) | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.13.0rc5](https://github.com/neutrons/quicknxs/releases/tag/v4.13.0rc5) | Magnetism reflectometry reduction application. | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
