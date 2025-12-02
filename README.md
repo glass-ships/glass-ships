@@ -24,8 +24,8 @@
 |---|:-:|---| 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [bumps/bumps](https://github.com/bumps/bumps) | 2 weeks ago | Data fitting with uncertainty analysis | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 weeks ago | Magnetism reflectometry reduction application. | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 4 weeks ago |  | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 4 weeks ago | Magnetism reflectometry reduction application. | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 month ago |  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 month ago | Main repository for Mantid code | 
 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.13.0](https://github.com/neutrons/quicknxs/releases/tag/v4.13.0) | Magnetism reflectometry reduction application. | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.22.0](https://github.com/neutrons/drtsans/releases/tag/v1.22.0) | The ORNL SANS instruments reduction package  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20251128.0852](https://github.com/mantidproject/mantid/releases/tag/v6.14.20251128.0852) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.8.0rc2](https://github.com/neutrons/RefRed/releases/tag/v5.8.0rc2) | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.22.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.22.0rc1) | The ORNL SANS instruments reduction package  | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.16.0rc1](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.16.0rc1) | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.13.0rc6](https://github.com/neutrons/quicknxs/releases/tag/v4.13.0rc6) | Magnetism reflectometry reduction application. | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
