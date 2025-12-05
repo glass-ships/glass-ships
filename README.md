@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [bumps/bumps](https://github.com/bumps/bumps) | 1 day ago | Data fitting with uncertainty analysis | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 2 days ago | Data fitting with uncertainty analysis | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 month ago | Magnetism reflectometry reduction application. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 month ago |  | 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20251202.1521](https://github.com/mantidproject/mantid/releases/tag/v6.14.20251202.1521) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20251203.1433](https://github.com/mantidproject/mantid/releases/tag/v6.14.20251203.1433) | Main repository for Mantid code | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.13.0](https://github.com/neutrons/quicknxs/releases/tag/v4.13.0) | Magnetism reflectometry reduction application. | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.22.0](https://github.com/neutrons/drtsans/releases/tag/v1.22.0) | The ORNL SANS instruments reduction package  | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.8.0rc2](https://github.com/neutrons/RefRed/releases/tag/v5.8.0rc2) | Data Reduction Software for the Liquids Reflectometer | 
