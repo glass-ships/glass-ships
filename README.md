@@ -22,19 +22,19 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 day ago | Data Reduction Software for the Liquids Reflectometer | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 days ago |  | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 3 days ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 3 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 2 days ago | Data Reduction Software for the Liquids Reflectometer | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 4 days ago |  | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 4 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 4 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 4 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20251211.2005](https://github.com/mantidproject/mantid/releases/tag/v6.14.20251211.2005) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.8.0rc3](https://github.com/neutrons/RefRed/releases/tag/v5.8.0rc3) | Data Reduction Software for the Liquids Reflectometer | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20251210.2054](https://github.com/mantidproject/mantid/releases/tag/v6.14.20251210.2054) | Main repository for Mantid code | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.14.0rc1](https://github.com/neutrons/quicknxs/releases/tag/v4.14.0rc1) | Magnetism reflectometry reduction application. | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.23.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.23.1) | Monarch Initiative website and API | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.23.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.23.0rc1) | The ORNL SANS instruments reduction package  | 
