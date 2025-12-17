@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 5 days ago | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 6 days ago | Data Reduction Software for the Liquids Reflectometer | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 week ago | Rust web server for Semsimian - a semantic similarity implementation | 
@@ -33,8 +33,8 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.12.20251216.0947](https://github.com/mantidproject/mantid/releases/tag/v6.12.20251216.0947) | Main repository for Mantid code | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.24.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.24.0rc1) | The ORNL SANS instruments reduction package  | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20251211.2005](https://github.com/mantidproject/mantid/releases/tag/v6.14.20251211.2005) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.8.0rc3](https://github.com/neutrons/RefRed/releases/tag/v5.8.0rc3) | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.14.0rc1](https://github.com/neutrons/quicknxs/releases/tag/v4.14.0rc1) | Magnetism reflectometry reduction application. | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.23.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.23.1) | Monarch Initiative website and API | 
