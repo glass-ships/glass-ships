@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20251224.1257](https://github.com/mantidproject/mantid/releases/tag/v6.14.20251224.1257) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20251229.2138](https://github.com/mantidproject/mantid/releases/tag/v6.14.20251229.2138) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.8.0rc3](https://github.com/neutrons/RefRed/releases/tag/v5.8.0rc3) | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.14.0rc1](https://github.com/neutrons/quicknxs/releases/tag/v4.14.0rc1) | Magnetism reflectometry reduction application. | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.23.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.23.1) | Monarch Initiative website and API | 
