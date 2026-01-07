@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20251231.2019](https://github.com/mantidproject/mantid/releases/tag/v6.14.20251231.2019) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260105.2019](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260105.2019) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.8.0rc3](https://github.com/neutrons/RefRed/releases/tag/v5.8.0rc3) | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.7.0rc1](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.7.0rc1) | Reduction scripts for the Liquids Reflectometer | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.14.0rc1](https://github.com/neutrons/quicknxs/releases/tag/v4.14.0rc1) | Magnetism reflectometry reduction application. | 
