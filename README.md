@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 day ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 2 days ago | Reduction scripts for the Liquids Reflectometer | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 3 days ago | Reduction scripts for the Liquids Reflectometer | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 4 weeks ago | Data Reduction Software for the Liquids Reflectometer | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 month ago |  | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 month ago |  | 
