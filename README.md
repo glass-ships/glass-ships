@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 day ago | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 day ago | Reduction scripts for the Liquids Reflectometer | 
-| [ornlneutronimaging/iBeatles](https://github.com/ornlneutronimaging/iBeatles) | 1 day ago | Python GUI that fit Bragg Edges and display strain parameters | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 month ago |  | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | 1 day ago | The ORNL SANS instruments reduction package  | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 1 day ago | General shell-agnostic configuration for personalized terminal environments | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/SNAPWrap](https://github.com/neutrons/SNAPWrap) | 1 day ago | Instrument Scientist Scripting interface into SNAPRed | 
+| [ornlneutronimaging/iBeatles](https://github.com/ornlneutronimaging/iBeatles) | 2 days ago | Python GUI that fit Bragg Edges and display strain parameters | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260113.2326](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260113.2326) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260114.2320](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260114.2320) | Main repository for Mantid code | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.24.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.24.0) | Monarch Initiative website and API | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.16.0rc2](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.16.0rc2) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.14.0rc2](https://github.com/neutrons/quicknxs/releases/tag/v4.14.0rc2) | Magnetism reflectometry reduction application. | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.8.0rc3](https://github.com/neutrons/RefRed/releases/tag/v5.8.0rc3) | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.7.0rc1](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.7.0rc1) | Reduction scripts for the Liquids Reflectometer | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.24.0](https://github.com/neutrons/drtsans/releases/tag/v1.24.0) | The ORNL SANS instruments reduction package  | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
