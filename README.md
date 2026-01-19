@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/PyRS](https://github.com/neutrons/PyRS) | 2 days ago | Reduction and visualization software for Stress Residual (HB2B) | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 2 days ago | USANS Data Reduction and Data Analysis | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 days ago | Magnetism reflectometry reduction application. | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 3 days ago |  | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 3 days ago | General shell-agnostic configuration for personalized terminal environments | 
+| [neutrons/PyRS](https://github.com/neutrons/PyRS) | 3 days ago | Reduction and visualization software for Stress Residual (HB2B) | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 3 days ago | USANS Data Reduction and Data Analysis | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 days ago | Magnetism reflectometry reduction application. | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 4 days ago |  | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 4 days ago | General shell-agnostic configuration for personalized terminal environments | 
 
 
 ### 🚀 Recent releases I contributed to
