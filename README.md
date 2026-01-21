@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/PyRS](https://github.com/neutrons/PyRS) | 4 days ago | Reduction and visualization software for Stress Residual (HB2B) | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 4 days ago | USANS Data Reduction and Data Analysis | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 4 days ago | Magnetism reflectometry reduction application. | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 5 days ago |  | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 5 days ago | General shell-agnostic configuration for personalized terminal environments | 
+| [neutrons/hyspecppt](https://github.com/neutrons/hyspecppt) | 1 day ago | polarizaton tool  | 
+| [neutrons/Shiver](https://github.com/neutrons/Shiver) | 1 day ago | Spectroscopy Histogram Visualizer for Event Reduction | 
+| [neutrons/inspired](https://github.com/neutrons/inspired) | 5 days ago |  | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 5 days ago | USANS Data Reduction and Data Analysis | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 5 days ago | Magnetism reflectometry reduction application. | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260116.1839](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260116.1839) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260119.1412](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260119.1412) | Main repository for Mantid code | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.8.0](https://github.com/neutrons/RefRed/releases/tag/v5.8.0) | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.16.0](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.16.0) | Reduction code for the SNS Magnetism Reflectometer | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.24.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.24.0) | Monarch Initiative website and API | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.14.0rc2](https://github.com/neutrons/quicknxs/releases/tag/v4.14.0rc2) | Magnetism reflectometry reduction application. | 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.24.0](https://github.com/neutrons/drtsans/releases/tag/v1.24.0) | The ORNL SANS instruments reduction package  | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
