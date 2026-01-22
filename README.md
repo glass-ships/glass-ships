@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/hyspecppt](https://github.com/neutrons/hyspecppt) | 1 day ago | polarizaton tool  | 
-| [neutrons/Shiver](https://github.com/neutrons/Shiver) | 1 day ago | Spectroscopy Histogram Visualizer for Event Reduction | 
-| [neutrons/inspired](https://github.com/neutrons/inspired) | 5 days ago |  | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 5 days ago | USANS Data Reduction and Data Analysis | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 5 days ago | Magnetism reflectometry reduction application. | 
+| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 1 day ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
+| [neutrons/TAVI](https://github.com/neutrons/TAVI) | 1 day ago | Triple Axis data Visualization Toolkit (TAVI) | 
+| [neutrons/Shiver](https://github.com/neutrons/Shiver) | 2 days ago | Spectroscopy Histogram Visualizer for Event Reduction | 
+| [neutrons/hyspecppt](https://github.com/neutrons/hyspecppt) | 2 days ago | polarizaton tool  | 
+| [neutrons/addie](https://github.com/neutrons/addie) | 6 days ago | ADvanced DIffraction Environment - GUI for Reduction of Neturon Time-of-Flight Total Scattering Diffraction Data | 
 
 
 ### 🚀 Recent releases I contributed to
