@@ -22,18 +22,18 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 1 day ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
-| [neutrons/TAVI](https://github.com/neutrons/TAVI) | 1 day ago | Triple Axis data Visualization Toolkit (TAVI) | 
-| [neutrons/Shiver](https://github.com/neutrons/Shiver) | 2 days ago | Spectroscopy Histogram Visualizer for Event Reduction | 
-| [neutrons/hyspecppt](https://github.com/neutrons/hyspecppt) | 2 days ago | polarizaton tool  | 
-| [neutrons/addie](https://github.com/neutrons/addie) | 6 days ago | ADvanced DIffraction Environment - GUI for Reduction of Neturon Time-of-Flight Total Scattering Diffraction Data | 
+| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 2 days ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
+| [neutrons/TAVI](https://github.com/neutrons/TAVI) | 2 days ago | Triple Axis data Visualization Toolkit (TAVI) | 
+| [neutrons/Shiver](https://github.com/neutrons/Shiver) | 3 days ago | Spectroscopy Histogram Visualizer for Event Reduction | 
+| [neutrons/hyspecppt](https://github.com/neutrons/hyspecppt) | 3 days ago | polarizaton tool  | 
+| [neutrons/addie](https://github.com/neutrons/addie) | 1 week ago | ADvanced DIffraction Environment - GUI for Reduction of Neturon Time-of-Flight Total Scattering Diffraction Data | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260119.1412](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260119.1412) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260121.2013](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260121.2013) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.8.0](https://github.com/neutrons/RefRed/releases/tag/v5.8.0) | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.16.0](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.16.0) | Reduction code for the SNS Magnetism Reflectometer | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.24.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.24.0) | Monarch Initiative website and API | 
