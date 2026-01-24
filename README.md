@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 2 days ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
-| [neutrons/TAVI](https://github.com/neutrons/TAVI) | 2 days ago | Triple Axis data Visualization Toolkit (TAVI) | 
-| [neutrons/Shiver](https://github.com/neutrons/Shiver) | 3 days ago | Spectroscopy Histogram Visualizer for Event Reduction | 
-| [neutrons/hyspecppt](https://github.com/neutrons/hyspecppt) | 3 days ago | polarizaton tool  | 
-| [neutrons/addie](https://github.com/neutrons/addie) | 1 week ago | ADvanced DIffraction Environment - GUI for Reduction of Neturon Time-of-Flight Total Scattering Diffraction Data | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 day ago | Main repository for Mantid code | 
+| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 3 days ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
+| [neutrons/TAVI](https://github.com/neutrons/TAVI) | 3 days ago | Triple Axis data Visualization Toolkit (TAVI) | 
+| [neutrons/hyspecppt](https://github.com/neutrons/hyspecppt) | 4 days ago | polarizaton tool  | 
+| [neutrons/Shiver](https://github.com/neutrons/Shiver) | 4 days ago | Spectroscopy Histogram Visualizer for Event Reduction | 
 
 
 ### 🚀 Recent releases I contributed to
