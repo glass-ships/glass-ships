@@ -22,18 +22,18 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 day ago | Main repository for Mantid code | 
-| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 3 days ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
-| [neutrons/TAVI](https://github.com/neutrons/TAVI) | 3 days ago | Triple Axis data Visualization Toolkit (TAVI) | 
-| [neutrons/hyspecppt](https://github.com/neutrons/hyspecppt) | 4 days ago | polarizaton tool  | 
-| [neutrons/Shiver](https://github.com/neutrons/Shiver) | 4 days ago | Spectroscopy Histogram Visualizer for Event Reduction | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 day ago |  | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 days ago | Main repository for Mantid code | 
+| [neutrons/TAVI](https://github.com/neutrons/TAVI) | 4 days ago | Triple Axis data Visualization Toolkit (TAVI) | 
+| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 4 days ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
+| [neutrons/Shiver](https://github.com/neutrons/Shiver) | 5 days ago | Spectroscopy Histogram Visualizer for Event Reduction | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260121.2013](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260121.2013) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260123.1937](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260123.1937) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.8.0](https://github.com/neutrons/RefRed/releases/tag/v5.8.0) | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.16.0](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.16.0) | Reduction code for the SNS Magnetism Reflectometer | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.24.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.24.0) | Monarch Initiative website and API | 
