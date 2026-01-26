@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 day ago |  | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 days ago | Main repository for Mantid code | 
-| [neutrons/TAVI](https://github.com/neutrons/TAVI) | 4 days ago | Triple Axis data Visualization Toolkit (TAVI) | 
-| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 4 days ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
-| [neutrons/Shiver](https://github.com/neutrons/Shiver) | 5 days ago | Spectroscopy Histogram Visualizer for Event Reduction | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 days ago |  | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 3 days ago | Main repository for Mantid code | 
+| [neutrons/TAVI](https://github.com/neutrons/TAVI) | 5 days ago | Triple Axis data Visualization Toolkit (TAVI) | 
+| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 5 days ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
+| [neutrons/Shiver](https://github.com/neutrons/Shiver) | 6 days ago | Spectroscopy Histogram Visualizer for Event Reduction | 
 
 
 ### 🚀 Recent releases I contributed to
