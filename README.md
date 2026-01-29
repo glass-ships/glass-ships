@@ -22,21 +22,21 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 day ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 1 day ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 day ago | Main repository for Mantid code | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 4 days ago |  | 
-| [neutrons/TAVI](https://github.com/neutrons/TAVI) | 1 week ago | Triple Axis data Visualization Toolkit (TAVI) | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 day ago | Magnetism reflectometry reduction application. | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 days ago | Main repository for Mantid code | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 2 days ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 5 days ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260127.2059](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260127.2059) | Main repository for Mantid code | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.15.0rc2](https://github.com/neutrons/quicknxs/releases/tag/v4.15.0rc2) | Magnetism reflectometry reduction application. | 
 | [ornlneutronimaging/iBeatles](https://github.com/ornlneutronimaging/iBeatles) | [v1.2.1](https://github.com/ornlneutronimaging/iBeatles/releases/tag/v1.2.1) | Python GUI that fit Bragg Edges and display strain parameters | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.7.0](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.7.0) | Reduction scripts for the Liquids Reflectometer | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260126.1431](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260126.1431) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.8.0](https://github.com/neutrons/RefRed/releases/tag/v5.8.0) | Data Reduction Software for the Liquids Reflectometer | 
 
 ### 🌱 I’m currently learning
