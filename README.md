@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 days ago | Magnetism reflectometry reduction application. | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 3 days ago | Main repository for Mantid code | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 3 days ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 3 days ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 6 days ago |  | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 days ago | Magnetism reflectometry reduction application. | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 4 days ago | Main repository for Mantid code | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 4 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 4 days ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
