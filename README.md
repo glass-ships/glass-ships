@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 5 days ago | Magnetism reflectometry reduction application. | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 6 days ago | Main repository for Mantid code | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 6 days ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 6 days ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 day ago | Main repository for Mantid code | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 6 days ago | Magnetism reflectometry reduction application. | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 1 week ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 1 week ago |  | 
 
 
@@ -33,8 +33,8 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.15.0rc3](https://github.com/neutrons/quicknxs/releases/tag/v4.15.0rc3) | Magnetism reflectometry reduction application. | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260127.2059](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260127.2059) | Main repository for Mantid code | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.15.0rc2](https://github.com/neutrons/quicknxs/releases/tag/v4.15.0rc2) | Magnetism reflectometry reduction application. | 
 | [ornlneutronimaging/iBeatles](https://github.com/ornlneutronimaging/iBeatles) | [v1.2.1](https://github.com/ornlneutronimaging/iBeatles/releases/tag/v1.2.1) | Python GUI that fit Bragg Edges and display strain parameters | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.7.0](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.7.0) | Reduction scripts for the Liquids Reflectometer | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.8.0](https://github.com/neutrons/RefRed/releases/tag/v5.8.0) | Data Reduction Software for the Liquids Reflectometer | 
