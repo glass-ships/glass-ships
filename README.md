@@ -24,8 +24,8 @@
 |---|:-:|---| 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 week ago | Main repository for Mantid code | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 1 week ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 2 weeks ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
 | [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 weeks ago |  | 
 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.9.0](https://github.com/neutrons/RefRed/releases/tag/v5.9.0) | Data Reduction Software for the Liquids Reflectometer | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.2.0](https://github.com/monarch-initiative/koza/releases/tag/v2.2.0) | Data transformation framework for LinkML data models | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260206.0836](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260206.0836) | Main repository for Mantid code | 
 | [neutrons/PyRS](https://github.com/neutrons/PyRS) | [v1.8.0](https://github.com/neutrons/PyRS/releases/tag/v1.8.0) | Reduction and visualization software for Stress Residual (HB2B) | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.17.0rc1](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.17.0rc1) | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.9.0rc2](https://github.com/neutrons/RefRed/releases/tag/v5.9.0rc2) | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.8.0](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.8.0) | Reduction scripts for the Liquids Reflectometer | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
