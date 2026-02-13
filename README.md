@@ -33,9 +33,9 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260211.1556](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260211.1556) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.25.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.25.1) | Monarch Initiative website and API | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.1b0](https://github.com/reflectometry/refl1d/releases/tag/v1.0.1b0) | 1-D reflectometry fitting | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260210.1513](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260210.1513) | Main repository for Mantid code | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.4b0](https://github.com/bumps/bumps/releases/tag/v1.0.4b0) | Data fitting with uncertainty analysis | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.9.0](https://github.com/neutrons/RefRed/releases/tag/v5.9.0) | Data Reduction Software for the Liquids Reflectometer | 
 
