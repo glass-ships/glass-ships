@@ -26,15 +26,15 @@
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 weeks ago | Magnetism reflectometry reduction application. | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 2 weeks ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
-| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 2 weeks ago |  | 
+| [glass-ships/compass-bot](https://github.com/glass-ships/compass-bot) | 3 weeks ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260211.1556](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260211.1556) | Main repository for Mantid code | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.25.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.25.1) | Monarch Initiative website and API | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.25.3](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.25.3) | Monarch Initiative website and API | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260212.1136](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260212.1136) | Main repository for Mantid code | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.1b0](https://github.com/reflectometry/refl1d/releases/tag/v1.0.1b0) | 1-D reflectometry fitting | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.4b0](https://github.com/bumps/bumps/releases/tag/v1.0.4b0) | Data fitting with uncertainty analysis | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.9.0](https://github.com/neutrons/RefRed/releases/tag/v5.9.0) | Data Reduction Software for the Liquids Reflectometer | 
