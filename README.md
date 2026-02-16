@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 week ago | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 weeks ago | Main repository for Mantid code | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 weeks ago | Magnetism reflectometry reduction application. | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 2 weeks ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
