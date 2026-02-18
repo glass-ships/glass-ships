@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 2 days ago | USANS Data Reduction and Data Analysis | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 day ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 3 days ago | USANS Data Reduction and Data Analysis | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 weeks ago | Main repository for Mantid code | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 weeks ago | Magnetism reflectometry reduction application. | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 3 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 weeks ago | Magnetism reflectometry reduction application. | 
 | [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 3 weeks ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/SNAPWrap](https://github.com/neutrons/SNAPWrap) | [v2.2.0](https://github.com/neutrons/SNAPWrap/releases/tag/v2.2.0) | Instrument Scientist Scripting interface into SNAPRed | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.15.0rc4](https://github.com/neutrons/quicknxs/releases/tag/v4.15.0rc4) | Magnetism reflectometry reduction application. | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260216.1115](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260216.1115) | Main repository for Mantid code | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.3.0rc1](https://github.com/neutrons/usansred/releases/tag/v1.3.0rc1) | USANS Data Reduction and Data Analysis | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.25.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.25.0rc1) | The ORNL SANS instruments reduction package  | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.9.0rc1](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.9.0rc1) | Reduction scripts for the Liquids Reflectometer | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.25.3](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.25.3) | Monarch Initiative website and API | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260212.1136](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260212.1136) | Main repository for Mantid code | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
