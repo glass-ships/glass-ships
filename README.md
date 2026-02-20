@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 days ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 4 days ago | USANS Data Reduction and Data Analysis | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 1 day ago | This repository is a template repository for Python projects under neutrons. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 day ago |  | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 3 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 5 days ago | USANS Data Reduction and Data Analysis | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 weeks ago | Main repository for Mantid code | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 weeks ago | Magnetism reflectometry reduction application. | 
-| [neutrons/mantid_total_scattering](https://github.com/neutrons/mantid_total_scattering) | 3 weeks ago | Implementing total neutron scattering data reduction using the Mantid Framework | 
 
 
 ### 🚀 Recent releases I contributed to
@@ -35,9 +35,9 @@
 |---|:-:|---| 
 | [neutrons/SNAPWrap](https://github.com/neutrons/SNAPWrap) | [v2.2.0](https://github.com/neutrons/SNAPWrap/releases/tag/v2.2.0) | Instrument Scientist Scripting interface into SNAPRed | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.15.0rc4](https://github.com/neutrons/quicknxs/releases/tag/v4.15.0rc4) | Magnetism reflectometry reduction application. | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.14.20260216.1115](https://github.com/mantidproject/mantid/releases/tag/v6.14.20260216.1115) | Main repository for Mantid code | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.3.0rc1](https://github.com/neutrons/usansred/releases/tag/v1.3.0rc1) | USANS Data Reduction and Data Analysis | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.25.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.25.0rc1) | The ORNL SANS instruments reduction package  | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.9.0rc1](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.9.0rc1) | Reduction scripts for the Liquids Reflectometer | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
