@@ -23,9 +23,9 @@
 | Project | Last Commit | Description | 
 |---|:-:|---| 
 | [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 1 day ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 4 days ago | Reduction scripts for the Liquids Reflectometer | 
-| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 5 days ago | This repository is a template repository for Python projects under neutrons. | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 5 days ago |  | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 5 days ago | Reduction scripts for the Liquids Reflectometer | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 6 days ago |  | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 6 days ago | This repository is a template repository for Python projects under neutrons. | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.4b1](https://github.com/bumps/bumps/releases/tag/v1.0.4b1) | Data fitting with uncertainty analysis | 
+| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | [v0.1.0](https://github.com/neutrons/dgs-resolution/releases/tag/v0.1.0) | Experimental data and modeling for resolution of DGS instruments at SNS | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.3.0](https://github.com/neutrons/usansred/releases/tag/v1.3.0) | USANS Data Reduction and Data Analysis | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.15.0](https://github.com/neutrons/quicknxs/releases/tag/v4.15.0) | Magnetism reflectometry reduction application. | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.25.0](https://github.com/neutrons/drtsans/releases/tag/v1.25.0) | The ORNL SANS instruments reduction package  | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.17.0rc2](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.17.0rc2) | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.10.0rc1](https://github.com/neutrons/RefRed/releases/tag/v5.10.0rc1) | Data Reduction Software for the Liquids Reflectometer | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
