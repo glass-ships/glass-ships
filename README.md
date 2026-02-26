@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 1 day ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 5 days ago | Reduction scripts for the Liquids Reflectometer | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 6 days ago |  | 
-| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 6 days ago | This repository is a template repository for Python projects under neutrons. | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 day ago |  | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 day ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 1 day ago | General shell-agnostic configuration for personalized terminal environments | 
+| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 2 days ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 6 days ago | Reduction scripts for the Liquids Reflectometer | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.17.0rc3](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.17.0rc3) | Reduction code for the SNS Magnetism Reflectometer | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260224.2216](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260224.2216) | Main repository for Mantid code | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.4b1](https://github.com/bumps/bumps/releases/tag/v1.0.4b1) | Data fitting with uncertainty analysis | 
 | [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | [v0.1.0](https://github.com/neutrons/dgs-resolution/releases/tag/v0.1.0) | Experimental data and modeling for resolution of DGS instruments at SNS | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.3.0](https://github.com/neutrons/usansred/releases/tag/v1.3.0) | USANS Data Reduction and Data Analysis | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.15.0](https://github.com/neutrons/quicknxs/releases/tag/v4.15.0) | Magnetism reflectometry reduction application. | 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.25.0](https://github.com/neutrons/drtsans/releases/tag/v1.25.0) | The ORNL SANS instruments reduction package  | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
