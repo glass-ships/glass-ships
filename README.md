@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 days ago |  | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 3 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 3 days ago | General shell-agnostic configuration for personalized terminal environments | 
-| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 4 days ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 4 days ago |  | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 4 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 4 days ago | General shell-agnostic configuration for personalized terminal environments | 
+| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 5 days ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 week ago | Reduction scripts for the Liquids Reflectometer | 
 
 
