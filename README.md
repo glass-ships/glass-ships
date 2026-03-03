@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 5 days ago |  | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 5 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 5 days ago | General shell-agnostic configuration for personalized terminal environments | 
-| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 6 days ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
+| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 1 day ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 6 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 6 days ago | General shell-agnostic configuration for personalized terminal environments | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 6 days ago |  | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 week ago | Reduction scripts for the Liquids Reflectometer | 
 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.4b2](https://github.com/bumps/bumps/releases/tag/v1.0.4b2) | Data fitting with uncertainty analysis | 
+| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.4rc0](https://github.com/bumps/bumps/releases/tag/v1.0.4rc0) | Data fitting with uncertainty analysis | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.18.0rc1](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.18.0rc1) | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.16.0rc1](https://github.com/neutrons/quicknxs/releases/tag/v4.16.0rc1) | Magnetism reflectometry reduction application. | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | [v0.2.5](https://github.com/monarch-initiative/semsimian-server/releases/tag/v0.2.5) | Rust web server for Semsimian - a semantic similarity implementation | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260226.1831](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260226.1831) | Main repository for Mantid code | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.17.0rc3](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.17.0rc3) | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | [v0.1.0](https://github.com/neutrons/dgs-resolution/releases/tag/v0.1.0) | Experimental data and modeling for resolution of DGS instruments at SNS | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
