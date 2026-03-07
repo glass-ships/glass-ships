@@ -23,21 +23,21 @@
 | Project | Last Commit | Description | 
 |---|:-:|---| 
 | [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 1 day ago | Collection of reusable conda related github actions | 
-| [mantidproject/mantid-sphinx-theme](https://github.com/mantidproject/mantid-sphinx-theme) | 2 days ago | The official Sphinx theme for the Mantid project | 
-| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 4 days ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 1 week ago | General shell-agnostic configuration for personalized terminal environments | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 week ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 1 day ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 day ago | Magnetism reflectometry reduction application. | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 1 day ago | This repository is a template repository for Python projects under neutrons. | 
+| [mantidproject/mantid-sphinx-theme](https://github.com/mantidproject/mantid-sphinx-theme) | 3 days ago | The official Sphinx theme for the Mantid project | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | [v0.2.0](https://github.com/neutrons/dgs-resolution/releases/tag/v0.2.0) | Experimental data and modeling for resolution of DGS instruments at SNS | 
+| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | [v1](https://github.com/neutrons/conda-actions/releases/tag/v1) | Collection of reusable conda related github actions | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.26.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.26.0rc1) | The ORNL SANS instruments reduction package  | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.9.0rc2](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.9.0rc2) | Reduction scripts for the Liquids Reflectometer | 
 | [mantidproject/mantid-sphinx-theme](https://github.com/mantidproject/mantid-sphinx-theme) | [v0.1.0](https://github.com/mantidproject/mantid-sphinx-theme/releases/tag/v0.1.0) | The official Sphinx theme for the Mantid project | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260303.1806](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260303.1806) | Main repository for Mantid code | 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.1rc0](https://github.com/reflectometry/refl1d/releases/tag/v1.0.1rc0) | 1-D reflectometry fitting | 
-| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.4rc0](https://github.com/bumps/bumps/releases/tag/v1.0.4rc0) | Data fitting with uncertainty analysis | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
