@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 2 days ago | Collection of reusable conda related github actions | 
-| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 2 days ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 days ago | Magnetism reflectometry reduction application. | 
-| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 2 days ago | This repository is a template repository for Python projects under neutrons. | 
-| [mantidproject/mantid-sphinx-theme](https://github.com/mantidproject/mantid-sphinx-theme) | 4 days ago | The official Sphinx theme for the Mantid project | 
+| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 3 days ago | Collection of reusable conda related github actions | 
+| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 3 days ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 days ago | Magnetism reflectometry reduction application. | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 3 days ago | This repository is a template repository for Python projects under neutrons. | 
+| [mantidproject/mantid-sphinx-theme](https://github.com/mantidproject/mantid-sphinx-theme) | 5 days ago | The official Sphinx theme for the Mantid project | 
 
 
 ### 🚀 Recent releases I contributed to
