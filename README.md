@@ -22,20 +22,20 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 3 days ago | Collection of reusable conda related github actions | 
-| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 3 days ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 days ago | Magnetism reflectometry reduction application. | 
-| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 3 days ago | This repository is a template repository for Python projects under neutrons. | 
-| [mantidproject/mantid-sphinx-theme](https://github.com/mantidproject/mantid-sphinx-theme) | 5 days ago | The official Sphinx theme for the Mantid project | 
+| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 1 day ago | Collection of reusable conda related github actions | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 day ago | Main repository for Mantid code | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 1 day ago | USANS Data Reduction and Data Analysis | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 2 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 4 days ago | This repository is a template repository for Python projects under neutrons. | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | [v0.3.0](https://github.com/neutrons/dgs-resolution/releases/tag/v0.3.0) | Experimental data and modeling for resolution of DGS instruments at SNS | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.4.0rc1](https://github.com/neutrons/usansred/releases/tag/v1.4.0rc1) | USANS Data Reduction and Data Analysis | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260306.2214](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260306.2214) | Main repository for Mantid code | 
-| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | [v0.2.0](https://github.com/neutrons/dgs-resolution/releases/tag/v0.2.0) | Experimental data and modeling for resolution of DGS instruments at SNS | 
-| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | [v1](https://github.com/neutrons/conda-actions/releases/tag/v1) | Collection of reusable conda related github actions | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.26.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.26.0rc1) | The ORNL SANS instruments reduction package  | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.9.0rc2](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.9.0rc2) | Reduction scripts for the Liquids Reflectometer | 
 
