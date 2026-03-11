@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 1 day ago | Collection of reusable conda related github actions | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 day ago | Main repository for Mantid code | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 1 day ago | USANS Data Reduction and Data Analysis | 
-| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 2 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
-| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 4 days ago | This repository is a template repository for Python projects under neutrons. | 
+| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 2 days ago | Collection of reusable conda related github actions | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 days ago | Main repository for Mantid code | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 2 days ago | USANS Data Reduction and Data Analysis | 
+| [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 3 days ago | Rust web server for Semsimian - a semantic similarity implementation | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 5 days ago | This repository is a template repository for Python projects under neutrons. | 
 
 
 ### 🚀 Recent releases I contributed to
