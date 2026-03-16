@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 3 days ago | USANS Data Reduction and Data Analysis | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 4 days ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 6 days ago | Collection of reusable conda related github actions | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 6 days ago | Main repository for Mantid code | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 4 days ago | USANS Data Reduction and Data Analysis | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 5 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 1 week ago | Collection of reusable conda related github actions | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 week ago | Main repository for Mantid code | 
 | [monarch-initiative/semsimian-server](https://github.com/monarch-initiative/semsimian-server) | 1 week ago | Rust web server for Semsimian - a semantic similarity implementation | 
 
 
