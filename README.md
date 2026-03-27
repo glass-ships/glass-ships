@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 6 days ago | Collection of reusable conda related github actions | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 day ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | 1 day ago | GitHub Action to set up micromamba | 
+| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 1 week ago | Collection of reusable conda related github actions | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | 2 weeks ago | USANS Data Reduction and Data Analysis | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 weeks ago | Main repository for Mantid code | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | [v3.0.0](https://github.com/mamba-org/setup-micromamba/releases/tag/v3.0.0) | GitHub Action to set up micromamba | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260325.1402](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260325.1402) | Main repository for Mantid code | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.3.0](https://github.com/monarch-initiative/koza/releases/tag/v2.3.0) | Data transformation framework for LinkML data models | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.18.0rc2](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.18.0rc2) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.26.0rc4](https://github.com/neutrons/drtsans/releases/tag/v1.26.0rc4) | The ORNL SANS instruments reduction package  | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.16.0rc3](https://github.com/neutrons/quicknxs/releases/tag/v4.16.0rc3) | Magnetism reflectometry reduction application. | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260323.2058](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260323.2058) | Main repository for Mantid code | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
