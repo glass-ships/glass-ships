@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 days ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | 2 days ago | GitHub Action to set up micromamba | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 3 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | 3 days ago | GitHub Action to set up micromamba | 
 | [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 1 week ago | Collection of reusable conda related github actions | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | 2 weeks ago | USANS Data Reduction and Data Analysis | 
@@ -33,8 +33,8 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260327.1818](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260327.1818) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.26.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.26.0-rc1) | Monarch Initiative website and API | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260326.1509](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260326.1509) | Main repository for Mantid code | 
 | [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | [v3.0.0](https://github.com/mamba-org/setup-micromamba/releases/tag/v3.0.0) | GitHub Action to set up micromamba | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.3.0](https://github.com/monarch-initiative/koza/releases/tag/v2.3.0) | Data transformation framework for LinkML data models | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.18.0rc2](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.18.0rc2) | Reduction code for the SNS Magnetism Reflectometer | 
