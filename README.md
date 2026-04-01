@@ -22,20 +22,20 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 5 days ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | 5 days ago | GitHub Action to set up micromamba | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 day ago | Main repository for Mantid code | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 6 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | 6 days ago | GitHub Action to set up micromamba | 
 | [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 1 week ago | Collection of reusable conda related github actions | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 weeks ago |  | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 2 weeks ago | USANS Data Reduction and Data Analysis | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260330.1519](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260330.1519) | Main repository for Mantid code | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.18.0](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.18.0) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.26.0](https://github.com/neutrons/drtsans/releases/tag/v1.26.0) | The ORNL SANS instruments reduction package  | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260327.1818](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260327.1818) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.26.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.26.0-rc1) | Monarch Initiative website and API | 
 | [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | [v3.0.0](https://github.com/mamba-org/setup-micromamba/releases/tag/v3.0.0) | GitHub Action to set up micromamba | 
 
