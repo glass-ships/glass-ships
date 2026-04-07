@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 5 days ago | Main repository for Mantid code | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 1 day ago | USANS Data Reduction and Data Analysis | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 6 days ago | Main repository for Mantid code | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | 1 week ago | GitHub Action to set up micromamba | 
 | [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 2 weeks ago | Collection of reusable conda related github actions | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 weeks ago |  | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.17.0rc3](https://github.com/neutrons/quicknxs/releases/tag/v4.17.0rc3) | Magnetism reflectometry reduction application. | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.26.0-rc3](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.26.0-rc3) | Monarch Initiative website and API | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260331.2253](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260331.2253) | Main repository for Mantid code | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.18.0](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.18.0) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.26.0](https://github.com/neutrons/drtsans/releases/tag/v1.26.0) | The ORNL SANS instruments reduction package  | 
-| [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | [v3.0.0](https://github.com/mamba-org/setup-micromamba/releases/tag/v3.0.0) | GitHub Action to set up micromamba | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
