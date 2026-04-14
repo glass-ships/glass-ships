@@ -33,10 +33,10 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260413.1004](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260413.1004) | Main repository for Mantid code | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.17.0rc4](https://github.com/neutrons/quicknxs/releases/tag/v4.17.0rc4) | Magnetism reflectometry reduction application. | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.26.0-rc5](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.26.0-rc5) | Monarch Initiative website and API | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.3.1](https://github.com/monarch-initiative/koza/releases/tag/v2.3.1) | Data transformation framework for LinkML data models | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.17.0rc3](https://github.com/neutrons/quicknxs/releases/tag/v4.17.0rc3) | Magnetism reflectometry reduction application. | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260331.2253](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260331.2253) | Main repository for Mantid code | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.18.0](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.18.0) | Reduction code for the SNS Magnetism Reflectometer | 
 
 ### 🌱 I’m currently learning
