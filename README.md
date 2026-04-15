@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 day ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 day ago | Main repository for Mantid code | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | 1 week ago | USANS Data Reduction and Data Analysis | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 week ago | Main repository for Mantid code | 
-| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 1 week ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 2 weeks ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
 | [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | 2 weeks ago | GitHub Action to set up micromamba | 
 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.1](https://github.com/reflectometry/refl1d/releases/tag/v1.0.1) | 1-D reflectometry fitting | 
+| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.4](https://github.com/bumps/bumps/releases/tag/v1.0.4) | Data fitting with uncertainty analysis | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260413.1004](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260413.1004) | Main repository for Mantid code | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.17.0rc4](https://github.com/neutrons/quicknxs/releases/tag/v4.17.0rc4) | Magnetism reflectometry reduction application. | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.26.0-rc5](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.26.0-rc5) | Monarch Initiative website and API | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.3.1](https://github.com/monarch-initiative/koza/releases/tag/v2.3.1) | Data transformation framework for LinkML data models | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.18.0](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.18.0) | Reduction code for the SNS Magnetism Reflectometer | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
