@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 day ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 day ago | Main repository for Mantid code | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 days ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | 1 week ago | USANS Data Reduction and Data Analysis | 
 | [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 2 weeks ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
-| [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | 2 weeks ago | GitHub Action to set up micromamba | 
+| [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | 3 weeks ago | GitHub Action to set up micromamba | 
 
 
 ### 🚀 Recent releases I contributed to
