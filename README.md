@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 3 days ago | Main repository for Mantid code | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 4 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 4 days ago | Main repository for Mantid code | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 5 days ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | 1 week ago | USANS Data Reduction and Data Analysis | 
 | [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 2 weeks ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
 | [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | 3 weeks ago | GitHub Action to set up micromamba | 
@@ -33,10 +33,10 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260417.1728](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260417.1728) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.26.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.26.0) | Monarch Initiative website and API | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.1](https://github.com/reflectometry/refl1d/releases/tag/v1.0.1) | 1-D reflectometry fitting | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.4](https://github.com/bumps/bumps/releases/tag/v1.0.4) | Data fitting with uncertainty analysis | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260413.1004](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260413.1004) | Main repository for Mantid code | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.17.0rc4](https://github.com/neutrons/quicknxs/releases/tag/v4.17.0rc4) | Magnetism reflectometry reduction application. | 
 
 ### 🌱 I’m currently learning
