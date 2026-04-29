@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 6 days ago |  | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 week ago | Data Reduction Software for the Liquids Reflectometer | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 week ago | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 weeks ago | Main repository for Mantid code | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | 3 weeks ago | USANS Data Reduction and Data Analysis | 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.2a0](https://github.com/reflectometry/refl1d/releases/tag/v1.0.2a0) | 1-D reflectometry fitting | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260427.1738](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260427.1738) | Main repository for Mantid code | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.5a0](https://github.com/bumps/bumps/releases/tag/v1.0.5a0) | Data fitting with uncertainty analysis | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.5.0](https://github.com/neutrons/usansred/releases/tag/v1.5.0) | USANS Data Reduction and Data Analysis | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.10.0rc2](https://github.com/neutrons/RefRed/releases/tag/v5.10.0rc2) | Data Reduction Software for the Liquids Reflectometer | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260417.1728](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260417.1728) | Main repository for Mantid code | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.26.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.26.0) | Monarch Initiative website and API | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
