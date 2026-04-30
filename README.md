@@ -33,8 +33,8 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260428.1532](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260428.1532) | Main repository for Mantid code | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.2a0](https://github.com/reflectometry/refl1d/releases/tag/v1.0.2a0) | 1-D reflectometry fitting | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260427.1738](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260427.1738) | Main repository for Mantid code | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.5a0](https://github.com/bumps/bumps/releases/tag/v1.0.5a0) | Data fitting with uncertainty analysis | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.5.0](https://github.com/neutrons/usansred/releases/tag/v1.5.0) | USANS Data Reduction and Data Analysis | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.10.0rc2](https://github.com/neutrons/RefRed/releases/tag/v5.10.0rc2) | Data Reduction Software for the Liquids Reflectometer | 
