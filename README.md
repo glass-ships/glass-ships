@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 days ago | Magnetism reflectometry reduction application. | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 days ago | Magnetism reflectometry reduction application. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 week ago | Data Reduction Software for the Liquids Reflectometer | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 weeks ago | Main repository for Mantid code | 
@@ -33,8 +33,8 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260501.2109](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260501.2109) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.26.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.26.1) | Monarch Initiative website and API | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260430.2355](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260430.2355) | Main repository for Mantid code | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.2a0](https://github.com/reflectometry/refl1d/releases/tag/v1.0.2a0) | 1-D reflectometry fitting | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.5a0](https://github.com/bumps/bumps/releases/tag/v1.0.5a0) | Data fitting with uncertainty analysis | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.5.0](https://github.com/neutrons/usansred/releases/tag/v1.5.0) | USANS Data Reduction and Data Analysis | 
