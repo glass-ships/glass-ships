@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 6 days ago | Magnetism reflectometry reduction application. | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 day ago | Magnetism reflectometry reduction application. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 2 weeks ago | Data Reduction Software for the Liquids Reflectometer | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 3 weeks ago | Main repository for Mantid code | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.4.0](https://github.com/monarch-initiative/koza/releases/tag/v2.4.0) | Data transformation framework for LinkML data models | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.27.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.27.0rc1) | The ORNL SANS instruments reduction package  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260501.2109](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260501.2109) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.26.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.26.1) | Monarch Initiative website and API | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.2a0](https://github.com/reflectometry/refl1d/releases/tag/v1.0.2a0) | 1-D reflectometry fitting | 
-| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.5a0](https://github.com/bumps/bumps/releases/tag/v1.0.5a0) | Data fitting with uncertainty analysis | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
