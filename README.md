@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 5 days ago | Magnetism reflectometry reduction application. | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 6 days ago | Magnetism reflectometry reduction application. | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 3 weeks ago |  | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 3 weeks ago | Data Reduction Software for the Liquids Reflectometer | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 3 weeks ago | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 4 weeks ago | Main repository for Mantid code | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 4 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.27.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.27.1) | Monarch Initiative website and API | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.17.0rc5](https://github.com/neutrons/quicknxs/releases/tag/v4.17.0rc5) | Magnetism reflectometry reduction application. | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.27.0](https://github.com/neutrons/drtsans/releases/tag/v1.27.0) | The ORNL SANS instruments reduction package  | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.4.0](https://github.com/monarch-initiative/koza/releases/tag/v2.4.0) | Data transformation framework for LinkML data models | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260501.2109](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260501.2109) | Main repository for Mantid code | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.26.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.26.1) | Monarch Initiative website and API | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
