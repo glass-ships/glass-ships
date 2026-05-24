@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 days ago |  | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 5 days ago | Magnetism reflectometry reduction application. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 4 days ago |  | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 6 days ago | Magnetism reflectometry reduction application. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 month ago |  | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 month ago | Data Reduction Software for the Liquids Reflectometer | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 month ago | Main repository for Mantid code | 
