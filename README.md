@@ -22,18 +22,18 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 6 days ago |  | 
+| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 1 day ago | Collection of reusable conda related github actions | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 month ago |  | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 month ago | Data Reduction Software for the Liquids Reflectometer | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 month ago | Main repository for Mantid code | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.29.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.29.0rc1) | The ORNL SANS instruments reduction package  | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.29.0rc2](https://github.com/neutrons/drtsans/releases/tag/v1.29.0rc2) | The ORNL SANS instruments reduction package  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260521.2118](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260521.2118) | Main repository for Mantid code | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.9.0](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.9.0) | Reduction scripts for the Liquids Reflectometer | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.27.2](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.27.2) | Monarch Initiative website and API | 
