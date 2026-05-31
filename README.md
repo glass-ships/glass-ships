@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 4 days ago | Collection of reusable conda related github actions | 
+| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 5 days ago | Collection of reusable conda related github actions | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 month ago |  | 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260528.2024](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260528.2024) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260529.1503](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260529.1503) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.10.0rc3](https://github.com/neutrons/RefRed/releases/tag/v5.10.0rc3) | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.29.0rc2](https://github.com/neutrons/drtsans/releases/tag/v1.29.0rc2) | The ORNL SANS instruments reduction package  | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.9.0](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.9.0) | Reduction scripts for the Liquids Reflectometer | 
