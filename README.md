@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 6 days ago | Collection of reusable conda related github actions | 
+| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 1 week ago | Collection of reusable conda related github actions | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 weeks ago | Magnetism reflectometry reduction application. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 month ago |  | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.5.0](https://github.com/monarch-initiative/koza/releases/tag/v2.5.0) | Data transformation framework for LinkML data models | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.29.0](https://github.com/neutrons/drtsans/releases/tag/v1.29.0) | The ORNL SANS instruments reduction package  | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.6.0rc1](https://github.com/neutrons/usansred/releases/tag/v1.6.0rc1) | USANS Data Reduction and Data Analysis | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260529.1503](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260529.1503) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.10.0rc3](https://github.com/neutrons/RefRed/releases/tag/v5.10.0rc3) | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.29.0rc2](https://github.com/neutrons/drtsans/releases/tag/v1.29.0rc2) | The ORNL SANS instruments reduction package  | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.9.0](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.9.0) | Reduction scripts for the Liquids Reflectometer | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.27.2](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.27.2) | Monarch Initiative website and API | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
