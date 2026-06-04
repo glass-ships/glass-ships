@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.10.0rc2](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.10.0rc2) | Reduction scripts for the Liquids Reflectometer | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.17.0rc6](https://github.com/neutrons/quicknxs/releases/tag/v4.17.0rc6) | Magnetism reflectometry reduction application. | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260602.1648](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260602.1648) | Main repository for Mantid code | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.5rc0](https://github.com/bumps/bumps/releases/tag/v1.0.5rc0) | Data fitting with uncertainty analysis | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260601.1155](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260601.1155) | Main repository for Mantid code | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.5.0](https://github.com/monarch-initiative/koza/releases/tag/v2.5.0) | Data transformation framework for LinkML data models | 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.29.0](https://github.com/neutrons/drtsans/releases/tag/v1.29.0) | The ORNL SANS instruments reduction package  | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.6.0rc1](https://github.com/neutrons/usansred/releases/tag/v1.6.0rc1) | USANS Data Reduction and Data Analysis | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
