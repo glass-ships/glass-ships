@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 4 days ago | Collection of reusable conda related github actions | 
+| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 5 days ago | Collection of reusable conda related github actions | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 weeks ago |  | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 weeks ago | Magnetism reflectometry reduction application. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 month ago |  | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.30.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.30.0rc1) | The ORNL SANS instruments reduction package  | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.6.0](https://github.com/neutrons/usansred/releases/tag/v1.6.0) | USANS Data Reduction and Data Analysis | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260604.1446](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260604.1446) | Main repository for Mantid code | 
 | [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | [v2.0](https://github.com/neutrons/conda-actions/releases/tag/v2.0) | Collection of reusable conda related github actions | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.5rc1](https://github.com/bumps/bumps/releases/tag/v1.0.5rc1) | Data fitting with uncertainty analysis | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.10.0rc2](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.10.0rc2) | Reduction scripts for the Liquids Reflectometer | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.17.0rc6](https://github.com/neutrons/quicknxs/releases/tag/v4.17.0rc6) | Magnetism reflectometry reduction application. | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
