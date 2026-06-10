@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 5 days ago | Collection of reusable conda related github actions | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 weeks ago |  | 
+| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 6 days ago | Collection of reusable conda related github actions | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 weeks ago |  | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 weeks ago | Magnetism reflectometry reduction application. | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 month ago |  | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 month ago | Data Reduction Software for the Liquids Reflectometer | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.28.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.28.0) | Monarch Initiative website and API | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.30.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.30.0rc1) | The ORNL SANS instruments reduction package  | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.6.0](https://github.com/neutrons/usansred/releases/tag/v1.6.0) | USANS Data Reduction and Data Analysis | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260604.1446](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260604.1446) | Main repository for Mantid code | 
 | [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | [v2.0](https://github.com/neutrons/conda-actions/releases/tag/v2.0) | Collection of reusable conda related github actions | 
-| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.5rc1](https://github.com/bumps/bumps/releases/tag/v1.0.5rc1) | Data fitting with uncertainty analysis | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
