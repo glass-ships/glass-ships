@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 day ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [eic/trigger-gitlab-ci](https://github.com/eic/trigger-gitlab-ci) | 1 day ago | Trigger GitLab CI through webhooks | 
 | [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 1 week ago | Collection of reusable conda related github actions | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 weeks ago |  | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 weeks ago | Magnetism reflectometry reduction application. | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 month ago |  | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 month ago | Data Reduction Software for the Liquids Reflectometer | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.2b1](https://github.com/reflectometry/refl1d/releases/tag/v1.0.2b1) | 1-D reflectometry fitting | 
+| [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.5rc2](https://github.com/bumps/bumps/releases/tag/v1.0.5rc2) | Data fitting with uncertainty analysis | 
+| [eic/trigger-gitlab-ci](https://github.com/eic/trigger-gitlab-ci) | [v3.3](https://github.com/eic/trigger-gitlab-ci/releases/tag/v3.3) | Trigger GitLab CI through webhooks | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260609.1321](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260609.1321) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.28.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.28.0) | Monarch Initiative website and API | 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.30.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.30.0rc1) | The ORNL SANS instruments reduction package  | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.6.0](https://github.com/neutrons/usansred/releases/tag/v1.6.0) | USANS Data Reduction and Data Analysis | 
-| [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | [v2.0](https://github.com/neutrons/conda-actions/releases/tag/v2.0) | Collection of reusable conda related github actions | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
