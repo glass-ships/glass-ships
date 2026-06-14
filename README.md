@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 1 day ago | USANS Data Reduction and Data Analysis | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 days ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [eic/trigger-gitlab-ci](https://github.com/eic/trigger-gitlab-ci) | 2 days ago | Trigger GitLab CI through webhooks | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 2 days ago | USANS Data Reduction and Data Analysis | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 3 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [eic/trigger-gitlab-ci](https://github.com/eic/trigger-gitlab-ci) | 3 days ago | Trigger GitLab CI through webhooks | 
 | [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 1 week ago | Collection of reusable conda related github actions | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 weeks ago |  | 
 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260611.0943](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260611.0943) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260612.1302](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260612.1302) | Main repository for Mantid code | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.2b1](https://github.com/reflectometry/refl1d/releases/tag/v1.0.2b1) | 1-D reflectometry fitting | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.5rc2](https://github.com/bumps/bumps/releases/tag/v1.0.5rc2) | Data fitting with uncertainty analysis | 
 | [eic/trigger-gitlab-ci](https://github.com/eic/trigger-gitlab-ci) | [v3.3](https://github.com/eic/trigger-gitlab-ci/releases/tag/v3.3) | Trigger GitLab CI through webhooks | 
