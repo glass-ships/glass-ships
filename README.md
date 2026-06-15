@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 2 days ago | USANS Data Reduction and Data Analysis | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 3 days ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [eic/trigger-gitlab-ci](https://github.com/eic/trigger-gitlab-ci) | 3 days ago | Trigger GitLab CI through webhooks | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 3 days ago | USANS Data Reduction and Data Analysis | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 4 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [eic/trigger-gitlab-ci](https://github.com/eic/trigger-gitlab-ci) | 4 days ago | Trigger GitLab CI through webhooks | 
 | [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 1 week ago | Collection of reusable conda related github actions | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 weeks ago |  | 
 
