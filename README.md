@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 3 days ago | USANS Data Reduction and Data Analysis | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 4 days ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [eic/trigger-gitlab-ci](https://github.com/eic/trigger-gitlab-ci) | 4 days ago | Trigger GitLab CI through webhooks | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 4 days ago | USANS Data Reduction and Data Analysis | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 5 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [eic/trigger-gitlab-ci](https://github.com/eic/trigger-gitlab-ci) | 5 days ago | Trigger GitLab CI through webhooks | 
 | [neutrons/conda-actions](https://github.com/neutrons/conda-actions) | 1 week ago | Collection of reusable conda related github actions | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 weeks ago |  | 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.31.0rc2](https://github.com/neutrons/drtsans/releases/tag/v1.31.0rc2) | The ORNL SANS instruments reduction package  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.15.20260612.1302](https://github.com/mantidproject/mantid/releases/tag/v6.15.20260612.1302) | Main repository for Mantid code | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.2b1](https://github.com/reflectometry/refl1d/releases/tag/v1.0.2b1) | 1-D reflectometry fitting | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.5rc2](https://github.com/bumps/bumps/releases/tag/v1.0.5rc2) | Data fitting with uncertainty analysis | 
 | [eic/trigger-gitlab-ci](https://github.com/eic/trigger-gitlab-ci) | [v3.3](https://github.com/eic/trigger-gitlab-ci/releases/tag/v3.3) | Trigger GitLab CI through webhooks | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.28.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.28.0) | Monarch Initiative website and API | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
