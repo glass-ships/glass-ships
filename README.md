@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 day ago |  | 
-| [glass-ships/gh-actions](https://github.com/glass-ships/gh-actions) | 2 days ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 3 days ago | USANS Data Reduction and Data Analysis | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 days ago |  | 
+| [glass-ships/gh-actions](https://github.com/glass-ships/gh-actions) | 3 days ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 4 days ago | USANS Data Reduction and Data Analysis | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [eic/trigger-gitlab-ci](https://github.com/eic/trigger-gitlab-ci) | 1 week ago | Trigger GitLab CI through webhooks | 
 
