@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 4 days ago |  | 
-| [glass-ships/gh-actions](https://github.com/glass-ships/gh-actions) | 5 days ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 6 days ago | USANS Data Reduction and Data Analysis | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 1 day ago | USANS Data Reduction and Data Analysis | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 5 days ago |  | 
+| [glass-ships/gh-actions](https://github.com/glass-ships/gh-actions) | 6 days ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [eic/trigger-gitlab-ci](https://github.com/eic/trigger-gitlab-ci) | 1 week ago | Trigger GitLab CI through webhooks | 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.31.0rc3](https://github.com/neutrons/drtsans/releases/tag/v1.31.0rc3) | The ORNL SANS instruments reduction package  | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.10.0rc3](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.10.0rc3) | Reduction scripts for the Liquids Reflectometer | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.31.0](https://github.com/neutrons/drtsans/releases/tag/v1.31.0) | The ORNL SANS instruments reduction package  | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.7.0rc1](https://github.com/neutrons/usansred/releases/tag/v1.7.0rc1) | USANS Data Reduction and Data Analysis | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | [v1.0.2b1](https://github.com/reflectometry/refl1d/releases/tag/v1.0.2b1) | 1-D reflectometry fitting | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.5rc2](https://github.com/bumps/bumps/releases/tag/v1.0.5rc2) | Data fitting with uncertainty analysis | 
-| [eic/trigger-gitlab-ci](https://github.com/eic/trigger-gitlab-ci) | [v3.3](https://github.com/eic/trigger-gitlab-ci/releases/tag/v3.3) | Trigger GitLab CI through webhooks | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.28.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.28.0) | Monarch Initiative website and API | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
