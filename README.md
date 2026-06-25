@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 2 days ago | USANS Data Reduction and Data Analysis | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 6 days ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 3 days ago | USANS Data Reduction and Data Analysis | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [glass-ships/gh-actions](https://github.com/glass-ships/gh-actions) | 1 week ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
 
 
 ### 🚀 Recent releases I contributed to
