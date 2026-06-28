@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 4 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 5 days ago | USANS Data Reduction and Data Analysis | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 2 days ago | Data transformation framework for LinkML data models | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 5 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 6 days ago | USANS Data Reduction and Data Analysis | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [glass-ships/gh-actions](https://github.com/glass-ships/gh-actions) | 1 week ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.6.0](https://github.com/monarch-initiative/koza/releases/tag/v2.6.0) | Data transformation framework for LinkML data models | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260626.1518](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260626.1518) | Main repository for Mantid code | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.5](https://github.com/bumps/bumps/releases/tag/v1.0.5) | Data fitting with uncertainty analysis | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.0](https://github.com/mantidproject/mantid/releases/tag/v6.16.0) | Main repository for Mantid code | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.10.0rc3](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.10.0rc3) | Reduction scripts for the Liquids Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.31.0](https://github.com/neutrons/drtsans/releases/tag/v1.31.0) | The ORNL SANS instruments reduction package  | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.7.0rc1](https://github.com/neutrons/usansred/releases/tag/v1.7.0rc1) | USANS Data Reduction and Data Analysis | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
