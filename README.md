@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 2 days ago | Data transformation framework for LinkML data models | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 5 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 6 days ago | USANS Data Reduction and Data Analysis | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 3 days ago | Data transformation framework for LinkML data models | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 6 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 1 week ago | USANS Data Reduction and Data Analysis | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [glass-ships/gh-actions](https://github.com/glass-ships/gh-actions) | 1 week ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
 
