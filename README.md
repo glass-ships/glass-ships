@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 3 days ago | Data transformation framework for LinkML data models | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 6 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 1 day ago | This repository is a template repository for Python projects under neutrons. | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 4 days ago | Data transformation framework for LinkML data models | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | 1 week ago | USANS Data Reduction and Data Analysis | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
-| [glass-ships/gh-actions](https://github.com/glass-ships/gh-actions) | 1 week ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.7.0](https://github.com/neutrons/usansred/releases/tag/v1.7.0) | USANS Data Reduction and Data Analysis | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.6.0](https://github.com/monarch-initiative/koza/releases/tag/v2.6.0) | Data transformation framework for LinkML data models | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260626.1518](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260626.1518) | Main repository for Mantid code | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.0.5](https://github.com/bumps/bumps/releases/tag/v1.0.5) | Data fitting with uncertainty analysis | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.10.0rc3](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.10.0rc3) | Reduction scripts for the Liquids Reflectometer | 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.31.0](https://github.com/neutrons/drtsans/releases/tag/v1.31.0) | The ORNL SANS instruments reduction package  | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
