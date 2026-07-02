@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 1 day ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
 | [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 1 day ago | This repository is a template repository for Python projects under neutrons. | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 day ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 5 days ago | Data transformation framework for LinkML data models | 
+| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 2 days ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 6 days ago | Data transformation framework for LinkML data models | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
@@ -33,10 +33,10 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.29.0-rc1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.29.0-rc1) | Monarch Initiative website and API | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260630.1941](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260630.1941) | Main repository for Mantid code | 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.29.0-rc2](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.29.0-rc2) | Monarch Initiative website and API | 
 | [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | [v1.1](https://github.com/neutrons/gh-actions/releases/tag/v1.1) | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.19.0rc1](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.19.0rc1) | Reduction code for the SNS Magnetism Reflectometer | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260629.1747](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260629.1747) | Main repository for Mantid code | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.7.0](https://github.com/neutrons/usansred/releases/tag/v1.7.0) | USANS Data Reduction and Data Analysis | 
 
 ### 🌱 I’m currently learning
