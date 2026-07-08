@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 6 days ago | This repository is a template repository for Python projects under neutrons. | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 1 week ago | This repository is a template repository for Python projects under neutrons. | 
 | [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 1 week ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 1 week ago | Data transformation framework for LinkML data models | 
