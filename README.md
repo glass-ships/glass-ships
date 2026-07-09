@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.6.1](https://github.com/monarch-initiative/koza/releases/tag/v2.6.1) | Data transformation framework for LinkML data models | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.32.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.32.0rc1) | The ORNL SANS instruments reduction package  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260701.1953](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260701.1953) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.29.0-rc2](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.29.0-rc2) | Monarch Initiative website and API | 
 | [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | [v1.1](https://github.com/neutrons/gh-actions/releases/tag/v1.1) | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.19.0rc1](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.19.0rc1) | Reduction code for the SNS Magnetism Reflectometer | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
