@@ -23,21 +23,21 @@
 | Project | Last Commit | Description | 
 |---|:-:|---| 
 | [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 1 week ago | This repository is a template repository for Python projects under neutrons. | 
-| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 1 week ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 2 weeks ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | 2 weeks ago | Data transformation framework for LinkML data models | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 3 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.10.0](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.10.0) | Reduction scripts for the Liquids Reflectometer | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260710.1810](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260710.1810) | Main repository for Mantid code | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.6.1](https://github.com/monarch-initiative/koza/releases/tag/v2.6.1) | Data transformation framework for LinkML data models | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.32.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.32.0rc1) | The ORNL SANS instruments reduction package  | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.29.0-rc2](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.29.0-rc2) | Monarch Initiative website and API | 
-| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | [v1.1](https://github.com/neutrons/gh-actions/releases/tag/v1.1) | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
