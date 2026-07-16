@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 day ago | Magnetism reflectometry reduction application. | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 days ago | Magnetism reflectometry reduction application. | 
 | [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 2 weeks ago | This repository is a template repository for Python projects under neutrons. | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 2 weeks ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.29.0-rc4](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.29.0-rc4) | Monarch Initiative website and API | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.8.0rc1](https://github.com/neutrons/usansred/releases/tag/v1.8.0rc1) | USANS Data Reduction and Data Analysis | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.32.0rc2](https://github.com/neutrons/drtsans/releases/tag/v1.32.0rc2) | The ORNL SANS instruments reduction package  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260714.0025](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260714.0025) | Main repository for Mantid code | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.10.0](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.10.0) | Reduction scripts for the Liquids Reflectometer | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.6.1](https://github.com/monarch-initiative/koza/releases/tag/v2.6.1) | Data transformation framework for LinkML data models | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.29.0-rc2](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.29.0-rc2) | Monarch Initiative website and API | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
