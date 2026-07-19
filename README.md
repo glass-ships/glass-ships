@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 day ago | Magnetism reflectometry reduction application. | 
-| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 1 day ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
-| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 1 day ago | This repository is a template repository for Python projects under neutrons. | 
-| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 1 day ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 day ago | Main repository for Mantid code | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 days ago | Magnetism reflectometry reduction application. | 
+| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 2 days ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 2 days ago | This repository is a template repository for Python projects under neutrons. | 
+| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 2 days ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 days ago | Main repository for Mantid code | 
 
 
 ### 🚀 Recent releases I contributed to
