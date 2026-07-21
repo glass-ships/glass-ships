@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 days ago | Magnetism reflectometry reduction application. | 
-| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 3 days ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
-| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 3 days ago | This repository is a template repository for Python projects under neutrons. | 
-| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 3 days ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 3 days ago | Main repository for Mantid code | 
+| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 4 days ago | This repository is a template repository for Python projects under neutrons. | 
+| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 4 days ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
+| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 4 days ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 4 days ago | Magnetism reflectometry reduction application. | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 4 days ago | Main repository for Mantid code | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.32.0rc3](https://github.com/neutrons/drtsans/releases/tag/v1.32.0rc3) | The ORNL SANS instruments reduction package  | 
 | [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | [v2](https://github.com/neutrons/gh-actions/releases/tag/v2) | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260716.1934](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260716.1934) | Main repository for Mantid code | 
 | [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.29.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.29.0) | Monarch Initiative website and API | 
 | [ornlneutronimaging/iBeatles](https://github.com/ornlneutronimaging/iBeatles) | [v1.3.0](https://github.com/ornlneutronimaging/iBeatles/releases/tag/v1.3.0) | Python GUI that fit Bragg Edges and display strain parameters | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.8.0rc1](https://github.com/neutrons/usansred/releases/tag/v1.8.0rc1) | USANS Data Reduction and Data Analysis | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
