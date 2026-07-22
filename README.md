@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/python_project_template](https://github.com/neutrons/python_project_template) | 4 days ago | This repository is a template repository for Python projects under neutrons. | 
-| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 4 days ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
-| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 4 days ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 4 days ago | Magnetism reflectometry reduction application. | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 4 days ago | Main repository for Mantid code | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 day ago | Reduction scripts for the Liquids Reflectometer | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 day ago | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | 1 day ago | The ORNL SANS instruments reduction package  | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 day ago | Magnetism reflectometry reduction application. | 
+| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 5 days ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
 
 
 ### 🚀 Recent releases I contributed to
