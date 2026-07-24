@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 day ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 1 day ago | USANS Data Reduction and Data Analysis | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 2 days ago | Reduction scripts for the Liquids Reflectometer | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 days ago | Magnetism reflectometry reduction application. | 
-| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 2 days ago | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 day ago | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 2 days ago | USANS Data Reduction and Data Analysis | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 3 days ago | Reduction scripts for the Liquids Reflectometer | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 days ago | Magnetism reflectometry reduction application. | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.8.0rc2](https://github.com/neutrons/usansred/releases/tag/v1.8.0rc2) | USANS Data Reduction and Data Analysis | 
 | [neutrons/Shiver](https://github.com/neutrons/Shiver) | [v1.9.0](https://github.com/neutrons/Shiver/releases/tag/v1.9.0) | Spectroscopy Histogram Visualizer for Event Reduction | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.32.0rc3](https://github.com/neutrons/drtsans/releases/tag/v1.32.0rc3) | The ORNL SANS instruments reduction package  | 
 | [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | [v2](https://github.com/neutrons/gh-actions/releases/tag/v2) | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260716.1934](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260716.1934) | Main repository for Mantid code | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.29.0](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.29.0) | Monarch Initiative website and API | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
