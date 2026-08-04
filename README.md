@@ -25,19 +25,19 @@
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 week ago | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | 1 week ago | USANS Data Reduction and Data Analysis | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 week ago | Reduction scripts for the Liquids Reflectometer | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 2 weeks ago | Reduction scripts for the Liquids Reflectometer | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 weeks ago | Magnetism reflectometry reduction application. | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260731.1312](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260731.1312) | Main repository for Mantid code | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.11.0rc1](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.11.0rc1) | Reduction scripts for the Liquids Reflectometer | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260801.2118](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260801.2118) | Main repository for Mantid code | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.33.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.33.0rc1) | The ORNL SANS instruments reduction package  | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.9.0rc1](https://github.com/neutrons/usansred/releases/tag/v1.9.0rc1) | USANS Data Reduction and Data Analysis | 
 | [neutrons/Shiver](https://github.com/neutrons/Shiver) | [v1.10.0](https://github.com/neutrons/Shiver/releases/tag/v1.10.0) | Spectroscopy Histogram Visualizer for Event Reduction | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.6.2](https://github.com/monarch-initiative/koza/releases/tag/v2.6.2) | Data transformation framework for LinkML data models | 
-| [monarch-initiative/monarch-app](https://github.com/monarch-initiative/monarch-app) | [v1.29.1](https://github.com/monarch-initiative/monarch-app/releases/tag/v1.29.1) | Monarch Initiative website and API | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
