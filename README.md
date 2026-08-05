@@ -23,8 +23,8 @@
 | Project | Last Commit | Description | 
 |---|:-:|---| 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 1 week ago | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | 1 week ago | USANS Data Reduction and Data Analysis | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | 2 weeks ago | USANS Data Reduction and Data Analysis | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 2 weeks ago | Reduction scripts for the Liquids Reflectometer | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 weeks ago | Magnetism reflectometry reduction application. | 
 
