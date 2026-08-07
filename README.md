@@ -22,19 +22,19 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 day ago |  | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 2 weeks ago | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | 2 weeks ago | USANS Data Reduction and Data Analysis | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 2 weeks ago | Reduction scripts for the Liquids Reflectometer | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 weeks ago | Magnetism reflectometry reduction application. | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | [v3.2.0](https://github.com/mamba-org/setup-micromamba/releases/tag/v3.2.0) | GitHub Action to set up micromamba | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260804.1536](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260804.1536) | Main repository for Mantid code | 
+| [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | [v3.2.1](https://github.com/mamba-org/setup-micromamba/releases/tag/v3.2.1) | GitHub Action to set up micromamba | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260805.2155](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260805.2155) | Main repository for Mantid code | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.11.0rc1](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.11.0rc1) | Reduction scripts for the Liquids Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.33.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.33.0rc1) | The ORNL SANS instruments reduction package  | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.9.0rc1](https://github.com/neutrons/usansred/releases/tag/v1.9.0rc1) | USANS Data Reduction and Data Analysis | 
