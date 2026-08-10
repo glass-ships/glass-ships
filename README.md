@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 days ago |  | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 days ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 days ago |  | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 3 days ago |  | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 2 weeks ago | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | 2 weeks ago | USANS Data Reduction and Data Analysis | 
 
