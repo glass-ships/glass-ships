@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 5 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 6 days ago |  | 
-| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 6 days ago |  | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 6 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
+| [glass-ships/homepage](https://github.com/glass-ships/homepage) | 1 week ago |  | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | 3 weeks ago | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 3 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260811.1408](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260811.1408) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.13.20260813.1033](https://github.com/mantidproject/mantid/releases/tag/v6.13.20260813.1033) | Main repository for Mantid code | 
 | [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | [v3.2.1](https://github.com/mamba-org/setup-micromamba/releases/tag/v3.2.1) | GitHub Action to set up micromamba | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.11.0rc1](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.11.0rc1) | Reduction scripts for the Liquids Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.33.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.33.0rc1) | The ORNL SANS instruments reduction package  | 
