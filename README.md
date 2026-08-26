@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 6 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 6 days ago | Magnetism reflectometry reduction application. | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
 | [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 1 week ago | General shell-agnostic configuration for personalized terminal environments | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 2 weeks ago |  | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 2 weeks ago |  | 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260821.2201](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260821.2201) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260824.1423](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260824.1423) | Main repository for Mantid code | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.17.0rc7](https://github.com/neutrons/quicknxs/releases/tag/v4.17.0rc7) | Magnetism reflectometry reduction application. | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.19.0](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.19.0) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.33.0](https://github.com/neutrons/drtsans/releases/tag/v1.33.0) | The ORNL SANS instruments reduction package  | 
