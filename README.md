@@ -33,10 +33,10 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260824.1423](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260824.1423) | Main repository for Mantid code | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.34.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.34.0rc1) | The ORNL SANS instruments reduction package  | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260825.1548](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260825.1548) | Main repository for Mantid code | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.17.0rc7](https://github.com/neutrons/quicknxs/releases/tag/v4.17.0rc7) | Magnetism reflectometry reduction application. | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.19.0](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.19.0) | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.33.0](https://github.com/neutrons/drtsans/releases/tag/v1.33.0) | The ORNL SANS instruments reduction package  | 
 | [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba) | [v3.2.1](https://github.com/mamba-org/setup-micromamba/releases/tag/v3.2.1) | GitHub Action to set up micromamba | 
 
 ### 🌱 I’m currently learning
