@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260827.1550](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260827.1550) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260828.1750](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260828.1750) | Main repository for Mantid code | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.34.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.34.0rc1) | The ORNL SANS instruments reduction package  | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | [v4.17.0rc7](https://github.com/neutrons/quicknxs/releases/tag/v4.17.0rc7) | Magnetism reflectometry reduction application. | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.19.0](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.19.0) | Reduction code for the SNS Magnetism Reflectometer | 
