@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 week ago | Magnetism reflectometry reduction application. | 
-| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 1 week ago | General shell-agnostic configuration for personalized terminal environments | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-config](https://github.com/glass-ships/glass-config) | 2 weeks ago | General shell-agnostic configuration for personalized terminal environments | 
 | [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 3 weeks ago |  | 
 | [glass-ships/homepage](https://github.com/glass-ships/homepage) | 3 weeks ago |  | 
 
