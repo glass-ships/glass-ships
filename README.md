@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 5 days ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 6 days ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
-| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 6 days ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 weeks ago | Magnetism reflectometry reduction application. | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 6 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 1 week ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
+| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 1 week ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 weeks ago | Magnetism reflectometry reduction application. | 
 
 
 ### 🚀 Recent releases I contributed to
