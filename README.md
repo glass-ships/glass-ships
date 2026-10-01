@@ -24,8 +24,8 @@
 |---|:-:|---| 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 weeks ago | Magnetism reflectometry reduction application. | 
-| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 4 weeks ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
-| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 4 weeks ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
+| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 1 month ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
+| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 1 month ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 month ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260928.1648](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260928.1648) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20260929.1355](https://github.com/mantidproject/mantid/releases/tag/v6.16.20260929.1355) | Main repository for Mantid code | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.21.0rc2](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.21.0rc2) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.35.0](https://github.com/neutrons/drtsans/releases/tag/v1.35.0) | The ORNL SANS instruments reduction package  | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.9.0](https://github.com/neutrons/usansred/releases/tag/v1.9.0) | USANS Data Reduction and Data Analysis | 
