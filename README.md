@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 week ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 weeks ago | Magnetism reflectometry reduction application. | 
 | [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 1 month ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
 | [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 1 month ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
