@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | 1 day ago | Daemon for running live data reduction with systemd | 
+| [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | 2 days ago | Daemon for running live data reduction with systemd | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 2 weeks ago | Magnetism reflectometry reduction application. | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 weeks ago | Magnetism reflectometry reduction application. | 
 | [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 1 month ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
 | [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 1 month ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
 
@@ -33,7 +33,7 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20261005.1718](https://github.com/mantidproject/mantid/releases/tag/v6.16.20261005.1718) | Main repository for Mantid code | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20261006.1805](https://github.com/mantidproject/mantid/releases/tag/v6.16.20261006.1805) | Main repository for Mantid code | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.21.0rc2](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.21.0rc2) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.35.0](https://github.com/neutrons/drtsans/releases/tag/v1.35.0) | The ORNL SANS instruments reduction package  | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.9.0](https://github.com/neutrons/usansred/releases/tag/v1.9.0) | USANS Data Reduction and Data Analysis | 
