@@ -22,7 +22,7 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | 4 days ago | Daemon for running live data reduction with systemd | 
+| [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | 5 days ago | Daemon for running live data reduction with systemd | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 weeks ago | Magnetism reflectometry reduction application. | 
 | [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 1 month ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
@@ -33,9 +33,9 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.21.0rc3](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.21.0rc3) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.36.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.36.0rc1) | The ORNL SANS instruments reduction package  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20261006.1805](https://github.com/mantidproject/mantid/releases/tag/v6.16.20261006.1805) | Main repository for Mantid code | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.21.0rc2](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.21.0rc2) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.9.0](https://github.com/neutrons/usansred/releases/tag/v1.9.0) | USANS Data Reduction and Data Analysis | 
 | [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | [v1.23](https://github.com/mantidproject/livereduce/releases/tag/v1.23) | Daemon for running live data reduction with systemd | 
 
