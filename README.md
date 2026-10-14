@@ -24,7 +24,7 @@
 |---|:-:|---| 
 | [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | 1 week ago | Daemon for running live data reduction with systemd | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 3 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 3 weeks ago | Magnetism reflectometry reduction application. | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 4 weeks ago | Magnetism reflectometry reduction application. | 
 | [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 1 month ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
 | [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 1 month ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
 
