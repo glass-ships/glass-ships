@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 day ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 day ago |  | 
 | [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | 1 week ago | Daemon for running live data reduction with systemd | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 3 weeks ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 4 weeks ago | Magnetism reflectometry reduction application. | 
-| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | 1 month ago | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
-| [neutrons/dgs-resolution](https://github.com/neutrons/dgs-resolution) | 1 month ago | Experimental data and modeling for resolution of DGS instruments at SNS | 
+| [neutrons/quicknxs](https://github.com/neutrons/quicknxs) | 1 month ago | Magnetism reflectometry reduction application. | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | [v2.1](https://github.com/neutrons/gh-actions/releases/tag/v2.1) | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20261014.1524](https://github.com/mantidproject/mantid/releases/tag/v6.16.20261014.1524) | Main repository for Mantid code | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.21.0rc3](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.21.0rc3) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.36.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.36.0rc1) | The ORNL SANS instruments reduction package  | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20261006.1805](https://github.com/mantidproject/mantid/releases/tag/v6.16.20261006.1805) | Main repository for Mantid code | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.9.0](https://github.com/neutrons/usansred/releases/tag/v1.9.0) | USANS Data Reduction and Data Analysis | 
-| [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | [v1.23](https://github.com/mantidproject/livereduce/releases/tag/v1.23) | Daemon for running live data reduction with systemd | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
