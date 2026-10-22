@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 day ago | Reduction scripts for the Liquids Reflectometer | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 6 days ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
-| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 6 days ago |  | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 2 days ago | Reduction scripts for the Liquids Reflectometer | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-bash](https://github.com/glass-ships/glass-bash) | 1 week ago |  | 
 | [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | 2 weeks ago | Daemon for running live data reduction with systemd | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 month ago | Reduction code for the SNS Magnetism Reflectometer | 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.7.0](https://github.com/monarch-initiative/koza/releases/tag/v2.7.0) | Data transformation framework for LinkML data models | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v6.16.20261019.1804](https://github.com/mantidproject/mantid/releases/tag/v6.16.20261019.1804) | Main repository for Mantid code | 
 | [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | [v2.1](https://github.com/neutrons/gh-actions/releases/tag/v2.1) | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.21.0rc3](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.21.0rc3) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.36.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.36.0rc1) | The ORNL SANS instruments reduction package  | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.9.0](https://github.com/neutrons/usansred/releases/tag/v1.9.0) | USANS Data Reduction and Data Analysis | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
