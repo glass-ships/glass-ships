@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/.github](https://github.com/neutrons/.github) | 2 days ago | This is the profile repo for the `neutrons` organization. | 
-| [neutrons/NeutronsStandard](https://github.com/neutrons/NeutronsStandard) | 2 days ago | Python library repo for atomic software components generally applicable across neutrons repositories. | 
-| [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | 6 days ago | Daemon for running live data reduction with systemd | 
+| [neutrons/.github](https://github.com/neutrons/.github) | 3 days ago | This is the profile repo for the `neutrons` organization. | 
+| [neutrons/NeutronsStandard](https://github.com/neutrons/NeutronsStandard) | 3 days ago | Python library repo for atomic software components generally applicable across neutrons repositories. | 
+| [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | 1 week ago | Daemon for running live data reduction with systemd | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 week ago | Reduction scripts for the Liquids Reflectometer | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 1 week ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
+| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
 ### 🚀 Recent releases I contributed to
