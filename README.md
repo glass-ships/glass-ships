@@ -25,7 +25,7 @@
 | [neutrons/.github](https://github.com/neutrons/.github) | 1 week ago | This is the profile repo for the `neutrons` organization. | 
 | [neutrons/NeutronsStandard](https://github.com/neutrons/NeutronsStandard) | 1 week ago | Python library repo for atomic software components generally applicable across neutrons repositories. | 
 | [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | 1 week ago | Daemon for running live data reduction with systemd | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 1 week ago | Reduction scripts for the Liquids Reflectometer | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 2 weeks ago | Reduction scripts for the Liquids Reflectometer | 
 | [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.10.0rc5](https://github.com/neutrons/RefRed/releases/tag/v5.10.0rc5) | Data Reduction Software for the Liquids Reflectometer | 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.11.0](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.11.0) | Reduction scripts for the Liquids Reflectometer | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.36.0](https://github.com/neutrons/drtsans/releases/tag/v1.36.0) | The ORNL SANS instruments reduction package  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v7.0.0](https://github.com/mantidproject/mantid/releases/tag/v7.0.0) | Main repository for Mantid code | 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.36.0rc2](https://github.com/neutrons/drtsans/releases/tag/v1.36.0rc2) | The ORNL SANS instruments reduction package  | 
 | [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.7.0](https://github.com/monarch-initiative/koza/releases/tag/v2.7.0) | Data transformation framework for LinkML data models | 
-| [neutrons/gh-actions](https://github.com/neutrons/gh-actions) | [v2.1](https://github.com/neutrons/gh-actions/releases/tag/v2.1) | Collection of reusable GitHub actions, primarily for use by ORNL Neutrons repositories | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.21.0rc3](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.21.0rc3) | Reduction code for the SNS Magnetism Reflectometer | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
