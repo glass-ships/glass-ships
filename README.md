@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/PyRS](https://github.com/neutrons/PyRS) | [v2.0.1](https://github.com/neutrons/PyRS/releases/tag/v2.0.1) | Reduction and visualization software for Stress Residual (HB2B) | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v7.0.20261102.2127](https://github.com/mantidproject/mantid/releases/tag/v7.0.20261102.2127) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.10.0rc5](https://github.com/neutrons/RefRed/releases/tag/v5.10.0rc5) | Data Reduction Software for the Liquids Reflectometer | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.11.0](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.11.0) | Reduction scripts for the Liquids Reflectometer | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.36.0](https://github.com/neutrons/drtsans/releases/tag/v1.36.0) | The ORNL SANS instruments reduction package  | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v7.0.0](https://github.com/mantidproject/mantid/releases/tag/v7.0.0) | Main repository for Mantid code | 
-| [monarch-initiative/koza](https://github.com/monarch-initiative/koza) | [v2.7.0](https://github.com/monarch-initiative/koza/releases/tag/v2.7.0) | Data transformation framework for LinkML data models | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
