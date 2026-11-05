@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
+| [bumps/bumps](https://github.com/bumps/bumps) | 1 day ago | Data fitting with uncertainty analysis | 
 | [neutrons/.github](https://github.com/neutrons/.github) | 1 week ago | This is the profile repo for the `neutrons` organization. | 
 | [neutrons/NeutronsStandard](https://github.com/neutrons/NeutronsStandard) | 1 week ago | Python library repo for atomic software components generally applicable across neutrons repositories. | 
-| [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | 1 week ago | Daemon for running live data reduction with systemd | 
+| [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | 2 weeks ago | Daemon for running live data reduction with systemd | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | 2 weeks ago | Reduction scripts for the Liquids Reflectometer | 
-| [glass-ships/glass-fish](https://github.com/glass-ships/glass-fish) | 2 weeks ago | Custom fish fish environment with a (kinda) pretty prompt, and some convenience aliases and functions. | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [exp3.1.0rc1](https://github.com/neutrons/LiquidsReflectometer/releases/tag/exp3.1.0rc1) | Reduction scripts for the Liquids Reflectometer | 
+| [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | [v1.24](https://github.com/mantidproject/livereduce/releases/tag/v1.24) | Daemon for running live data reduction with systemd | 
 | [neutrons/PyRS](https://github.com/neutrons/PyRS) | [v2.0.1](https://github.com/neutrons/PyRS/releases/tag/v2.0.1) | Reduction and visualization software for Stress Residual (HB2B) | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v7.0.20261102.2127](https://github.com/mantidproject/mantid/releases/tag/v7.0.20261102.2127) | Main repository for Mantid code | 
 | [neutrons/RefRed](https://github.com/neutrons/RefRed) | [v5.10.0rc5](https://github.com/neutrons/RefRed/releases/tag/v5.10.0rc5) | Data Reduction Software for the Liquids Reflectometer | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [v2.11.0](https://github.com/neutrons/LiquidsReflectometer/releases/tag/v2.11.0) | Reduction scripts for the Liquids Reflectometer | 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.36.0](https://github.com/neutrons/drtsans/releases/tag/v1.36.0) | The ORNL SANS instruments reduction package  | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
