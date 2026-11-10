@@ -22,9 +22,9 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [bumps/bumps](https://github.com/bumps/bumps) | 3 days ago | Data fitting with uncertainty analysis | 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 3 days ago | 1-D reflectometry fitting | 
-| [neutrons/NeutronsStandard](https://github.com/neutrons/NeutronsStandard) | 2 weeks ago | Python library repo for atomic software components generally applicable across neutrons repositories. | 
+| [neutrons/NeutronsStandard](https://github.com/neutrons/NeutronsStandard) | 1 day ago | Python library repo for atomic software components generally applicable across neutrons repositories. | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 day ago | 1-D reflectometry fitting | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 4 days ago | Data fitting with uncertainty analysis | 
 | [neutrons/.github](https://github.com/neutrons/.github) | 2 weeks ago | This is the profile repo for the `neutrons` organization. | 
 | [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | 2 weeks ago | Daemon for running live data reduction with systemd | 
 
@@ -33,11 +33,11 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [bumps/bumps](https://github.com/bumps/bumps) | [v1.1.0rc0](https://github.com/bumps/bumps/releases/tag/v1.1.0rc0) | Data fitting with uncertainty analysis | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v7.0.20261106.1644](https://github.com/mantidproject/mantid/releases/tag/v7.0.20261106.1644) | Main repository for Mantid code | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.10.0rc1](https://github.com/neutrons/usansred/releases/tag/v1.10.0rc1) | USANS Data Reduction and Data Analysis | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [exp3.1.0rc1](https://github.com/neutrons/LiquidsReflectometer/releases/tag/exp3.1.0rc1) | Reduction scripts for the Liquids Reflectometer | 
 | [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | [v1.24](https://github.com/mantidproject/livereduce/releases/tag/v1.24) | Daemon for running live data reduction with systemd | 
-| [neutrons/PyRS](https://github.com/neutrons/PyRS) | [v2.0.1](https://github.com/neutrons/PyRS/releases/tag/v2.0.1) | Reduction and visualization software for Stress Residual (HB2B) | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
