@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/NeutronsStandard](https://github.com/neutrons/NeutronsStandard) | 2 days ago | Python library repo for atomic software components generally applicable across neutrons repositories. | 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 2 days ago | 1-D reflectometry fitting | 
-| [bumps/bumps](https://github.com/bumps/bumps) | 5 days ago | Data fitting with uncertainty analysis | 
+| [neutrons/NeutronsStandard](https://github.com/neutrons/NeutronsStandard) | 3 days ago | Python library repo for atomic software components generally applicable across neutrons repositories. | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 3 days ago | 1-D reflectometry fitting | 
+| [bumps/bumps](https://github.com/bumps/bumps) | 6 days ago | Data fitting with uncertainty analysis | 
 | [neutrons/.github](https://github.com/neutrons/.github) | 2 weeks ago | This is the profile repo for the `neutrons` organization. | 
-| [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | 2 weeks ago | Daemon for running live data reduction with systemd | 
+| [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | 3 weeks ago | Daemon for running live data reduction with systemd | 
 
 
 ### 🚀 Recent releases I contributed to
