@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/NeutronsStandard](https://github.com/neutrons/NeutronsStandard) | 4 days ago | Python library repo for atomic software components generally applicable across neutrons repositories. | 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 4 days ago | 1-D reflectometry fitting | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 day ago | Main repository for Mantid code | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 5 days ago | 1-D reflectometry fitting | 
+| [neutrons/NeutronsStandard](https://github.com/neutrons/NeutronsStandard) | 5 days ago | Python library repo for atomic software components generally applicable across neutrons repositories. | 
 | [bumps/bumps](https://github.com/bumps/bumps) | 1 week ago | Data fitting with uncertainty analysis | 
 | [neutrons/.github](https://github.com/neutrons/.github) | 2 weeks ago | This is the profile repo for the `neutrons` organization. | 
-| [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | 3 weeks ago | Daemon for running live data reduction with systemd | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.37.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.37.0rc1) | The ORNL SANS instruments reduction package  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v7.0.20261109.1636](https://github.com/mantidproject/mantid/releases/tag/v7.0.20261109.1636) | Main repository for Mantid code | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.1.0rc0](https://github.com/bumps/bumps/releases/tag/v1.1.0rc0) | Data fitting with uncertainty analysis | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.10.0rc1](https://github.com/neutrons/usansred/releases/tag/v1.10.0rc1) | USANS Data Reduction and Data Analysis | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [exp3.1.0rc1](https://github.com/neutrons/LiquidsReflectometer/releases/tag/exp3.1.0rc1) | Reduction scripts for the Liquids Reflectometer | 
-| [mantidproject/livereduce](https://github.com/mantidproject/livereduce) | [v1.24](https://github.com/mantidproject/livereduce/releases/tag/v1.24) | Daemon for running live data reduction with systemd | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
