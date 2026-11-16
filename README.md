@@ -22,11 +22,11 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 2 days ago | Main repository for Mantid code | 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 6 days ago | 1-D reflectometry fitting | 
-| [neutrons/NeutronsStandard](https://github.com/neutrons/NeutronsStandard) | 6 days ago | Python library repo for atomic software components generally applicable across neutrons repositories. | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 3 days ago | Main repository for Mantid code | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 week ago | 1-D reflectometry fitting | 
+| [neutrons/NeutronsStandard](https://github.com/neutrons/NeutronsStandard) | 1 week ago | Python library repo for atomic software components generally applicable across neutrons repositories. | 
 | [bumps/bumps](https://github.com/bumps/bumps) | 1 week ago | Data fitting with uncertainty analysis | 
-| [neutrons/.github](https://github.com/neutrons/.github) | 2 weeks ago | This is the profile repo for the `neutrons` organization. | 
+| [neutrons/.github](https://github.com/neutrons/.github) | 3 weeks ago | This is the profile repo for the `neutrons` organization. | 
 
 
 ### 🚀 Recent releases I contributed to
