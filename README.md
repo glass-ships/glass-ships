@@ -22,21 +22,21 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 3 days ago | Main repository for Mantid code | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 day ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 4 days ago | Main repository for Mantid code | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 week ago | 1-D reflectometry fitting | 
 | [neutrons/NeutronsStandard](https://github.com/neutrons/NeutronsStandard) | 1 week ago | Python library repo for atomic software components generally applicable across neutrons repositories. | 
 | [bumps/bumps](https://github.com/bumps/bumps) | 1 week ago | Data fitting with uncertainty analysis | 
-| [neutrons/.github](https://github.com/neutrons/.github) | 3 weeks ago | This is the profile repo for the `neutrons` organization. | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.37.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.37.0rc1) | The ORNL SANS instruments reduction package  | 
+| [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.10.0rc2](https://github.com/neutrons/usansred/releases/tag/v1.10.0rc2) | USANS Data Reduction and Data Analysis | 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.37.0](https://github.com/neutrons/drtsans/releases/tag/v1.37.0) | The ORNL SANS instruments reduction package  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v7.0.20261109.1636](https://github.com/mantidproject/mantid/releases/tag/v7.0.20261109.1636) | Main repository for Mantid code | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.1.0rc0](https://github.com/bumps/bumps/releases/tag/v1.1.0rc0) | Data fitting with uncertainty analysis | 
-| [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.10.0rc1](https://github.com/neutrons/usansred/releases/tag/v1.10.0rc1) | USANS Data Reduction and Data Analysis | 
 | [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [exp3.1.0rc1](https://github.com/neutrons/LiquidsReflectometer/releases/tag/exp3.1.0rc1) | Reduction scripts for the Liquids Reflectometer | 
 
 ### 🌱 I’m currently learning
