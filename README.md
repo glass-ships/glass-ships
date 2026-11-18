@@ -22,22 +22,22 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 1 day ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 4 days ago | Main repository for Mantid code | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 2 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 5 days ago | Main repository for Mantid code | 
+| [glass-ships/project-templates](https://github.com/glass-ships/project-templates) | 1 week ago |  | 
 | [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 week ago | 1-D reflectometry fitting | 
 | [neutrons/NeutronsStandard](https://github.com/neutrons/NeutronsStandard) | 1 week ago | Python library repo for atomic software components generally applicable across neutrons repositories. | 
-| [bumps/bumps](https://github.com/bumps/bumps) | 1 week ago | Data fitting with uncertainty analysis | 
 
 
 ### 🚀 Recent releases I contributed to
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.21.0rc4](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.21.0rc4) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.10.0rc2](https://github.com/neutrons/usansred/releases/tag/v1.10.0rc2) | USANS Data Reduction and Data Analysis | 
 | [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.37.0](https://github.com/neutrons/drtsans/releases/tag/v1.37.0) | The ORNL SANS instruments reduction package  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v7.0.20261109.1636](https://github.com/mantidproject/mantid/releases/tag/v7.0.20261109.1636) | Main repository for Mantid code | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.1.0rc0](https://github.com/bumps/bumps/releases/tag/v1.1.0rc0) | Data fitting with uncertainty analysis | 
-| [neutrons/LiquidsReflectometer](https://github.com/neutrons/LiquidsReflectometer) | [exp3.1.0rc1](https://github.com/neutrons/LiquidsReflectometer/releases/tag/exp3.1.0rc1) | Reduction scripts for the Liquids Reflectometer | 
 
 ### 🌱 I’m currently learning
 - Front End development w/ TypeScript and Vue/React
