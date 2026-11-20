@@ -22,10 +22,10 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 3 days ago | Reduction code for the SNS Magnetism Reflectometer | 
-| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 6 days ago | Main repository for Mantid code | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 day ago | 1-D reflectometry fitting | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 4 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 week ago | Main repository for Mantid code | 
 | [glass-ships/project-templates](https://github.com/glass-ships/project-templates) | 1 week ago |  | 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 week ago | 1-D reflectometry fitting | 
 | [neutrons/NeutronsStandard](https://github.com/neutrons/NeutronsStandard) | 1 week ago | Python library repo for atomic software components generally applicable across neutrons repositories. | 
 
 
