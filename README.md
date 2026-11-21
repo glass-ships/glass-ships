@@ -22,8 +22,8 @@
 
 | Project | Last Commit | Description | 
 |---|:-:|---| 
-| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 1 day ago | 1-D reflectometry fitting | 
-| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 4 days ago | Reduction code for the SNS Magnetism Reflectometer | 
+| [reflectometry/refl1d](https://github.com/reflectometry/refl1d) | 2 days ago | 1-D reflectometry fitting | 
+| [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | 5 days ago | Reduction code for the SNS Magnetism Reflectometer | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | 1 week ago | Main repository for Mantid code | 
 | [glass-ships/project-templates](https://github.com/glass-ships/project-templates) | 1 week ago |  | 
 | [neutrons/NeutronsStandard](https://github.com/neutrons/NeutronsStandard) | 1 week ago | Python library repo for atomic software components generally applicable across neutrons repositories. | 
@@ -33,9 +33,9 @@
 
 | Project | Latest Release| Description |
 |---|:-:|---| 
+| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.38.0rc1](https://github.com/neutrons/drtsans/releases/tag/v1.38.0rc1) | The ORNL SANS instruments reduction package  | 
 | [neutrons/MagnetismReflectometer](https://github.com/neutrons/MagnetismReflectometer) | [v2.21.0rc4](https://github.com/neutrons/MagnetismReflectometer/releases/tag/v2.21.0rc4) | Reduction code for the SNS Magnetism Reflectometer | 
 | [neutrons/usansred](https://github.com/neutrons/usansred) | [v1.10.0rc2](https://github.com/neutrons/usansred/releases/tag/v1.10.0rc2) | USANS Data Reduction and Data Analysis | 
-| [neutrons/drtsans](https://github.com/neutrons/drtsans) | [v1.37.0](https://github.com/neutrons/drtsans/releases/tag/v1.37.0) | The ORNL SANS instruments reduction package  | 
 | [mantidproject/mantid](https://github.com/mantidproject/mantid) | [v7.0.20261109.1636](https://github.com/mantidproject/mantid/releases/tag/v7.0.20261109.1636) | Main repository for Mantid code | 
 | [bumps/bumps](https://github.com/bumps/bumps) | [v1.1.0rc0](https://github.com/bumps/bumps/releases/tag/v1.1.0rc0) | Data fitting with uncertainty analysis | 
 
